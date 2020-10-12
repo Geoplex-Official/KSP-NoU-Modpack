@@ -1,4 +1,17 @@
 ============= Changelog for ProceduralParts  =========
+=== 2.0.6 ===
+Hotfix: NaN TechLimits in career
+
+=== 2.0.5 ===
+Hotfix: Calling AdjustDimensionBounds from a volume changed handler breaks bezier shape mesh
+
+=== 2.0.4 ===
+Expand SeekVolume support to work with pill and bezier curve shapes
+SeekVolume method prototype changed: optional parameter for rounding (floor/nearest/ceiling).
+Show/Hide texture selection UIControls depending on active mode (legacy or TexturesUnlimited)
+Bugfix: Texture Scaling (tiling) was broken during the transition to 2.0.  Fixed!
+Bugfix: EjectionImpulse no longer resets to max when loading in Editor
+
 === 2.0.3 ===
 TankContextSwitcher updates current and max resource capacity immediately when changing volume
 PAW Groups and internal fixes to the DecouplerTweaker

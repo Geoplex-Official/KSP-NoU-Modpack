@@ -6,11 +6,11 @@
   </SettingItem>
   <SettingItem>
     <Name>windowPositionX</Name>
-    <Value xsi:type="xsd:float">461</Value>
+    <Value xsi:type="xsd:float">458</Value>
   </SettingItem>
   <SettingItem>
     <Name>windowPositionY</Name>
-    <Value xsi:type="xsd:float">56</Value>
+    <Value xsi:type="xsd:float">60</Value>
   </SettingItem>
   <SettingItem>
     <Name>compactMode</Name>

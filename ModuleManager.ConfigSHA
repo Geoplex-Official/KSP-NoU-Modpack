@@ -1,4 +1,4 @@
-SHA = 8D-C5-89-AD-22-44-B1-44-46-84-82-E0-0C-5E-6E-0D-83-21-7B-82-13-06-F5-BF-20-97-37-0E-1C-65-28-6E
+SHA = 0A-6C-43-B3-02-DB-CB-C6-65-3F-A3-B5-FF-C1-02-48-EE-2C-11-96-DE-E9-2D-4A-33-68-CB-CF-30-CF-E0-AD
 version = 4.1.3.0
 KSPVersion = 1.8.1.2694
 FilesSHA
@@ -145,6 +145,831 @@ FilesSHA
 	}
 	FILE
 	{
+		filename = AJE/AirplanePlusRotor.cfg
+		SHA = D6-F5-C2-31-2F-8D-36-B1-30-41-E0-57-82-91-1E-9F-F1-EC-DA-FB-B3-E6-D8-E3-60-61-7E-9E-73-18-AD-0D
+	}
+	FILE
+	{
+		filename = AJE/B9.cfg
+		SHA = 0E-1A-B7-91-B5-30-95-4B-09-8B-70-03-CB-BC-2D-27-53-7B-8F-56-FA-30-A4-89-5C-22-59-5C-34-9B-D8-20
+	}
+	FILE
+	{
+		filename = AJE/B9_sabre.cfg
+		SHA = B7-59-43-29-7E-87-A5-7B-A5-CD-02-91-74-DD-74-53-64-91-06-7A-65-F0-3B-61-8B-4A-67-16-EE-EE-88-0F
+	}
+	FILE
+	{
+		filename = AJE/Baha.cfg
+		SHA = 98-07-72-DB-1D-5E-EB-07-DE-C8-C9-FA-7F-F5-B3-BF-98-74-EB-34-8E-2A-C9-F7-33-C0-F1-AC-21-44-2D-1B
+	}
+	FILE
+	{
+		filename = AJE/D12.cfg
+		SHA = 97-6E-AA-65-8C-63-D1-A4-0E-C6-F7-3E-85-3E-FC-82-99-4B-EC-CF-6A-D9-69-E7-25-CE-C3-35-97-65-E3-F3
+	}
+	FILE
+	{
+		filename = AJE/ElectricPropellers.cfg
+		SHA = C5-30-1F-58-EC-FC-F2-57-F1-61-72-73-15-E7-2F-C9-67-6F-70-D7-F5-41-0B-D9-26-72-A6-31-73-F7-82-E1
+	}
+	FILE
+	{
+		filename = AJE/FS.cfg
+		SHA = 1C-DF-24-DA-4F-6C-5D-34-42-4D-78-54-56-DD-94-68-F7-41-1F-DF-79-6E-FE-AC-91-34-C2-67-82-B6-49-12
+	}
+	FILE
+	{
+		filename = AJE/KAX.cfg
+		SHA = 5B-A2-47-8D-9E-9B-FB-B2-88-DF-EC-B4-0E-C6-EB-84-6F-57-89-3B-E6-5F-6F-FF-6C-83-78-C1-72-39-BF-0E
+	}
+	FILE
+	{
+		filename = AJE/MarkIVSystem.cfg
+		SHA = 57-FE-90-98-18-FE-91-62-CF-18-BB-7C-C4-2B-C7-36-CF-A1-C2-5E-33-8D-2E-0D-00-71-71-AC-DD-B4-0C-A5
+	}
+	FILE
+	{
+		filename = AJE/PistonEngineSettings.cfg
+		SHA = 13-52-DC-86-74-39-FB-D1-73-AB-2C-95-D8-9C-C5-17-70-3A-71-0D-DF-AF-90-91-2B-09-80-B5-32-06-43-CE
+	}
+	FILE
+	{
+		filename = AJE/Propellers.cfg
+		SHA = 4A-A5-EA-AA-3E-C3-9D-72-0C-67-C9-E9-A5-44-E3-A4-25-5E-7E-8C-2F-F1-75-C2-63-83-48-F8-3B-05-1D-C4
+	}
+	FILE
+	{
+		filename = AJE/QuizTechAero.cfg
+		SHA = A0-8B-81-6A-75-2F-69-01-AE-C9-C9-8A-61-EB-A6-9A-18-B7-83-09-D9-66-05-5D-12-70-DE-E2-71-7F-9E-32
+	}
+	FILE
+	{
+		filename = AJE/Retrofuture.cfg
+		SHA = 6A-D6-22-6B-91-C2-0B-77-9F-D6-3E-AA-21-BC-98-77-62-E5-CA-EE-E3-C8-6E-38-35-4A-FE-50-7A-E8-01-F3
+	}
+	FILE
+	{
+		filename = AJE/ScaleExponents.cfg
+		SHA = 88-D3-67-B4-CF-7E-09-EC-39-EF-1C-EA-C6-6D-2F-B5-4B-B8-BB-E4-25-D7-66-3A-99-E2-27-EA-F2-A5-29-C5
+	}
+	FILE
+	{
+		filename = AJE/Squad.cfg
+		SHA = E1-09-AE-2D-F4-99-48-A1-57-1D-8B-A3-BC-E9-9C-43-4C-72-7E-41-05-F8-2D-DB-EF-4A-94-91-93-52-38-D7
+	}
+	FILE
+	{
+		filename = AJE/SXT.cfg
+		SHA = B4-F4-05-75-54-61-10-74-85-5C-DB-7F-D2-4D-EC-6C-AF-49-1B-7A-EC-E1-DA-59-D0-CA-67-FF-9A-90-C4-EA
+	}
+	FILE
+	{
+		filename = AJE/TV.cfg
+		SHA = 54-D0-94-6C-58-16-A9-4A-6B-03-64-80-A0-B8-9D-04-D6-21-E3-09-35-9C-05-E7-D5-5F-3B-F9-D1-48-01-B9
+	}
+	FILE
+	{
+		filename = AJE/Inlets/AviationCockpits.cfg
+		SHA = B5-F9-F9-95-B8-2E-36-25-31-9F-A8-9E-F3-3E-8B-63-6D-1B-97-DD-02-87-8C-6D-14-04-A2-28-02-15-51-5C
+	}
+	FILE
+	{
+		filename = AJE/Inlets/B9.cfg
+		SHA = 1F-12-C9-36-62-68-D6-1D-AE-A5-0C-D2-E7-15-E9-61-C1-16-35-AF-25-DF-DE-C4-36-BA-54-9F-06-27-66-60
+	}
+	FILE
+	{
+		filename = AJE/Inlets/Baha.cfg
+		SHA = FB-E2-27-0A-2B-5B-6D-3D-D7-76-29-E5-67-6B-08-01-73-D6-16-7B-78-4C-8C-5A-51-DD-56-32-92-68-71-11
+	}
+	FILE
+	{
+		filename = AJE/Inlets/D12.cfg
+		SHA = 83-E4-99-17-F1-D0-91-5D-1E-6B-CE-5E-E6-DB-BB-3E-46-D0-04-A1-13-AB-7E-9D-DA-32-88-87-BB-AF-93-CF
+	}
+	FILE
+	{
+		filename = AJE/Inlets/FS.cfg
+		SHA = 13-11-AA-32-47-C2-D5-D1-95-CC-DC-88-8F-F7-FE-5C-A9-C9-0F-B8-A8-6C-F0-A9-1A-A2-8E-EA-B3-4D-CE-E7
+	}
+	FILE
+	{
+		filename = AJE/Inlets/MarkIVSystem.cfg
+		SHA = 26-CC-FA-52-92-FF-E4-D6-39-E2-2C-F9-D9-AA-35-63-AE-DA-69-FC-59-7E-0A-2E-90-84-99-31-FE-25-94-92
+	}
+	FILE
+	{
+		filename = AJE/Inlets/QuizTechAero.cfg
+		SHA = 36-CD-A0-F7-81-8E-8F-C6-26-CE-78-49-D1-B0-95-68-C4-08-A0-0E-F0-6B-24-7A-87-6C-4F-C5-51-0B-21-43
+	}
+	FILE
+	{
+		filename = AJE/Inlets/RetroFuture.cfg
+		SHA = 4E-AB-37-36-A5-A7-42-D5-32-5C-C5-57-B9-03-A1-6A-B2-95-55-A0-62-AC-2D-C7-A6-37-37-59-39-BD-C6-A4
+	}
+	FILE
+	{
+		filename = AJE/Inlets/Squad.cfg
+		SHA = 18-A8-6F-BA-31-3B-AC-E5-19-51-A1-F7-98-01-74-ED-51-93-CE-61-34-4A-E4-B8-20-58-B8-55-62-D5-24-73
+	}
+	FILE
+	{
+		filename = AJE/Inlets/SXT.cfg
+		SHA = 7F-BC-94-4F-76-48-6E-29-4C-62-9A-2A-CB-1D-B4-90-D8-14-35-E1-92-90-1F-7A-84-D3-4C-51-DC-0E-1C-8E
+	}
+	FILE
+	{
+		filename = AJE/Inlets/TPRCurveDefaults.cfg
+		SHA = 7A-C4-B1-67-E9-58-66-3A-76-40-85-03-C0-26-3D-98-04-B6-46-5F-BA-70-9F-31-A9-D7-A6-C5-1B-97-8E-7C
+	}
+	FILE
+	{
+		filename = AJE/Inlets/TV.cfg
+		SHA = 30-65-C8-5A-AD-3B-9F-BB-42-50-7D-32-28-26-40-3F-4E-75-97-69-FC-25-D7-C7-6B-5C-0C-CF-FB-4D-C4-AB
+	}
+	FILE
+	{
+		filename = AJE/Localization/cz.cfg
+		SHA = 41-C1-08-C7-A0-D3-D8-76-5E-7F-F3-23-5A-26-24-BA-F1-00-3A-6A-21-65-7F-2B-65-36-15-E0-80-82-A9-71
+	}
+	FILE
+	{
+		filename = AJE/Localization/en-us.cfg
+		SHA = 10-71-CB-D8-DC-2D-A8-37-C4-AE-88-C5-F9-AE-68-6C-28-5E-DC-67-C0-D8-32-3F-10-8E-92-37-BF-33-95-8F
+	}
+	FILE
+	{
+		filename = AJE/Parts/solarpanel.cfg
+		SHA = 28-F0-6A-C3-11-A5-1E-8F-13-DC-46-90-47-75-7C-1F-45-0B-4D-EC-32-07-F1-35-28-B5-14-63-2B-88-71-F5
+	}
+	FILE
+	{
+		filename = AJE/Parts/Props/BMWIIIa.cfg
+		SHA = 19-AC-A4-DA-AD-C5-54-81-FC-E2-99-76-6D-10-76-9F-6A-80-51-6A-E4-EB-18-C6-0E-CB-85-06-D1-6B-E5-4E
+	}
+	FILE
+	{
+		filename = AJE/Parts/Props/DB60x.cfg
+		SHA = 78-83-91-A6-85-97-1A-B3-C0-5F-80-7E-11-53-69-EA-09-D4-68-73-F5-9C-41-01-01-27-B0-DB-EB-7C-6F-66
+	}
+	FILE
+	{
+		filename = AJE/Parts/Props/DoubleWasp.cfg
+		SHA = 3B-3F-1E-54-10-CC-EB-6C-6A-09-60-E0-51-4F-0D-F4-AA-3C-AC-6A-6A-75-95-E6-CD-1A-AB-2A-96-A3-C5-A6
+	}
+	FILE
+	{
+		filename = AJE/Parts/Props/Griffon101.cfg
+		SHA = 46-F5-81-10-F5-C2-78-C1-CB-0D-E8-9A-7F-E0-56-61-64-16-B9-FF-D1-8A-A2-A5-D8-A8-05-2E-0D-AF-84-86
+	}
+	FILE
+	{
+		filename = AJE/Parts/Props/Griffon88.cfg
+		SHA = 7B-74-A6-AF-FF-4F-F1-C1-4F-4B-CA-0A-AD-51-58-32-EC-46-48-21-92-A3-AD-FF-D2-DE-7D-E6-85-1C-5B-8C
+	}
+	FILE
+	{
+		filename = AJE/Parts/Props/KAX_Engines.cfg
+		SHA = B2-D4-84-8C-43-B6-75-8B-E4-A4-7E-47-33-A0-66-83-A7-13-8A-AB-41-57-83-CE-71-6B-97-C9-8E-5B-29-74
+	}
+	FILE
+	{
+		filename = AJE/Parts/Props/Liberty12.cfg
+		SHA = 3E-7F-0C-D9-36-06-46-4F-8B-2B-BB-8E-28-27-A5-AB-9C-BC-03-FF-D7-52-03-D0-53-AD-AF-91-DB-27-30-EB
+	}
+	FILE
+	{
+		filename = AJE/Parts/Props/M63.cfg
+		SHA = B3-3E-BA-E7-63-54-A0-98-17-FC-2C-05-F6-D6-F8-12-36-49-9F-94-AD-6A-22-38-24-96-DD-F4-37-2A-BD-65
+	}
+	FILE
+	{
+		filename = AJE/Parts/Props/M82.cfg
+		SHA = 8B-FD-23-E5-76-19-C6-7D-E8-73-3F-31-C0-EC-23-AB-12-AB-F6-8F-EE-0E-F3-DD-01-09-4F-7C-B3-AE-A4-3A
+	}
+	FILE
+	{
+		filename = AJE/Parts/Props/MercuryIX.cfg
+		SHA = 58-30-E0-04-7B-9D-D2-2B-F1-CA-74-9D-FE-98-1C-A9-C3-98-D4-71-E6-F8-67-F6-9E-4F-3B-0E-4C-88-AE-90
+	}
+	FILE
+	{
+		filename = AJE/Parts/Props/MercuryXV.cfg
+		SHA = 81-F3-FB-F4-E6-36-92-54-55-80-01-AC-C9-C6-D6-06-9D-20-B2-96-98-07-35-A8-02-DC-C7-20-77-40-ED-7C
+	}
+	FILE
+	{
+		filename = AJE/Parts/Props/Merlin46.cfg
+		SHA = 60-A6-8B-9E-F1-34-EA-B3-8B-BD-9F-D8-70-AC-3D-0B-C4-86-CF-C4-78-86-7A-2A-61-1C-75-0F-B2-2E-67-45
+	}
+	FILE
+	{
+		filename = AJE/Parts/Props/MerlinXII.cfg
+		SHA = 82-89-E0-5C-C0-BB-0B-92-0B-AA-B6-D4-41-67-36-C6-41-CB-AB-62-E6-B2-5F-4C-33-D4-28-FD-48-8B-6B-DD
+	}
+	FILE
+	{
+		filename = AJE/Parts/Props/TwinCyclone.cfg
+		SHA = 6E-DA-C0-32-8E-65-3C-99-80-74-3D-34-9C-B3-F9-DF-7B-47-10-CF-8F-CD-79-43-9E-3C-58-50-86-6C-0A-EE
+	}
+	FILE
+	{
+		filename = AJE/Parts/Props/TwinCyclone7.cfg
+		SHA = AC-8D-95-2E-41-C0-9F-96-0E-B5-CE-9F-C1-24-E6-57-0E-EC-2F-76-19-80-8A-9F-23-38-9C-EB-0A-BB-38-C6
+	}
+	FILE
+	{
+		filename = AJE/Parts/Props/TwinWasp86.cfg
+		SHA = D3-4E-F8-CB-BF-77-B2-0D-AB-67-B2-3C-DE-C3-3D-FA-3B-56-AF-21-2A-F3-ED-10-54-E6-18-46-8F-89-CB-16
+	}
+	FILE
+	{
+		filename = AJE/Parts/Props/TwinWasp94.cfg
+		SHA = 69-89-0F-D9-62-BC-FD-5B-24-11-50-CA-3C-96-25-F8-42-E2-58-63-6A-2B-54-B9-BA-0A-FB-26-02-B4-0F-49
+	}
+	FILE
+	{
+		filename = AJE/Parts/Props/V-1650-7.cfg
+		SHA = 94-D2-0B-9B-86-CF-DA-74-DA-FA-11-E4-8C-AE-5E-7C-41-7A-41-A6-79-21-F7-0D-22-A2-80-06-42-E2-27-F7
+	}
+	FILE
+	{
+		filename = AJE/Parts/Props/V1710.cfg
+		SHA = 48-F2-97-C5-61-29-5C-F1-A1-DB-AB-D3-4F-D8-3E-5A-13-DB-28-4A-FA-84-06-C8-AF-65-22-37-81-1D-E7-23
+	}
+	FILE
+	{
+		filename = AJE/zFinal/zzWildcards.cfg
+		SHA = 93-A7-1D-00-2E-AE-37-2B-C0-79-47-4D-E0-C7-3F-40-64-04-CA-A8-BE-D9-20-4B-03-FD-56-0A-9E-44-FE-C0
+	}
+	FILE
+	{
+		filename = AJEExtended/AJEE_RealFuels.cfg
+		SHA = D4-72-FA-AB-C5-B2-F2-36-17-BE-46-37-EE-7B-E7-A4-D7-8F-1A-1C-18-E1-19-92-4C-04-4C-A7-AE-1D-D6-BE
+	}
+	FILE
+	{
+		filename = AJEExtended/Categories.cfg
+		SHA = 7D-D6-F7-40-0F-B1-91-8A-B8-7A-EC-C1-DC-39-D3-65-9E-F9-E6-12-62-60-AB-99-3E-74-1B-CA-96-8E-91-DA
+	}
+	FILE
+	{
+		filename = AJEExtended/PartOverrides.cfg
+		SHA = 17-39-57-8C-2D-6B-CD-03-A0-89-12-AA-A0-42-00-89-79-03-30-D2-B5-4A-65-76-08-E7-3F-D2-30-71-57-61
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Jets/AJEE-BMW109-003.cfg
+		SHA = 8E-52-B5-85-6C-EE-A5-7C-BA-1C-B7-5C-A3-21-85-AA-A2-89-8E-22-B1-AB-4B-8B-91-03-7A-78-3F-37-99-91
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Jets/AJEE-BMW109-018.cfg
+		SHA = E6-38-53-A1-2C-1D-E2-9F-3C-44-F4-B4-7A-EE-7D-5B-24-57-23-55-D4-B7-06-06-6C-2A-39-56-45-DC-CE-1F
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Jets/AJEE-CFM56.cfg
+		SHA = 44-F4-91-2A-18-61-31-0E-64-6B-FE-05-F4-72-6C-AF-5D-05-1D-DD-32-8C-C8-CE-61-46-EE-9D-9A-B0-60-F6
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Jets/AJEE-EJ200.cfg
+		SHA = 5C-F7-15-90-A4-57-89-94-8B-A4-55-8C-7D-73-ED-71-71-9D-2F-39-26-A7-5C-2F-75-25-4A-6A-D6-6E-B2-EC
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Jets/AJEE-GECF34.cfg
+		SHA = 77-3F-D7-F6-A8-CA-BD-FA-CA-75-36-73-7C-FC-85-88-7A-3E-36-8C-5D-04-FE-11-6F-94-9B-3B-1B-38-C1-23
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Jets/AJEE-GECF6.cfg
+		SHA = DA-3C-04-C6-D7-50-C1-B1-84-52-41-6F-9B-2E-8C-26-C1-76-CF-CC-7F-90-72-36-E3-27-09-54-2F-3C-3C-FB
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Jets/AJEE-GEF404.cfg
+		SHA = 8B-94-D5-D4-3B-4B-59-7B-EE-28-82-AF-10-E4-EA-45-A0-0F-A1-8A-F1-B9-E5-DE-73-F7-D1-7C-2B-5B-E6-13
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Jets/AJEE-GEJ35.cfg
+		SHA = 84-AC-AE-07-95-ED-0F-9F-3D-A3-CD-29-36-1E-33-CA-7C-B2-FD-AB-13-64-14-12-84-47-89-C0-1A-09-06-61
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Jets/AJEE-GEJ47.cfg
+		SHA = A1-A8-15-B6-D4-B6-D5-73-B8-5B-8E-F9-76-FA-C3-CC-F2-11-6F-89-87-BB-89-29-90-34-76-1A-B4-25-FC-77
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Jets/AJEE-GEJ79.cfg
+		SHA = 30-50-E1-E7-48-5C-CD-50-61-DF-63-9C-50-5D-CA-21-3E-D9-57-E2-EA-75-6D-2F-84-48-07-C3-AD-6E-CF-5F
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Jets/AJEE-GEJ85.cfg
+		SHA = 02-36-16-13-9E-C0-5E-38-E6-F7-26-F8-45-FE-22-65-12-E9-B5-09-B7-50-0B-88-3D-85-8E-4C-C8-14-02-F1
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Jets/AJEE-GEnx.cfg
+		SHA = FB-1F-8A-FD-CD-A7-94-31-71-44-09-7E-5E-F0-FC-EE-17-99-26-52-F8-9E-16-C0-A2-FC-EF-E4-91-7F-68-9F
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Jets/AJEE-GERF34.cfg
+		SHA = 90-B7-D0-92-48-3A-37-D8-C9-BC-9D-41-60-7D-D4-DD-E7-35-53-25-BF-41-2E-59-5D-79-BF-EE-93-CA-FF-6A
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Jets/AJEE-GEYJ93.cfg
+		SHA = 1F-71-AD-1D-9F-F2-A2-1D-09-68-7C-2E-A4-0E-EB-83-0B-CC-3F-72-3F-B8-AF-B8-B9-E9-6B-9D-57-0D-DD-2E
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Jets/AJEE-HKL109-011.cfg
+		SHA = 0B-69-7B-FD-18-8D-B4-ED-C4-88-60-31-D7-C6-17-D4-C7-E1-59-87-9C-61-7C-9B-0C-68-37-13-FF-86-10-A8
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Jets/AJEE-JUMO004.cfg
+		SHA = 99-21-07-B5-4E-ED-DC-BF-3F-B4-5E-BC-45-A7-96-39-7C-7D-D2-48-69-62-1B-A1-DD-1B-FE-64-A0-92-FB-E0
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Jets/AJEE-KRD33.cfg
+		SHA = 2B-7C-1B-56-40-97-0B-35-61-35-C9-D4-6F-E2-E9-78-E8-91-D6-F5-C5-B7-F9-E4-33-CF-82-6B-2C-AF-53-81
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Jets/AJEE-KVK1.cfg
+		SHA = 10-36-88-D8-0F-73-CE-06-3D-5A-C1-A2-3E-4B-B0-FE-E4-0C-C1-3F-8D-03-D9-5C-27-7F-03-31-32-58-2E-FE
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Jets/AJEE-LAL31.cfg
+		SHA = B5-A3-05-5A-8E-50-DE-29-D8-88-E9-E9-5B-32-95-A8-AB-D6-6C-0D-22-8E-9D-73-FE-34-5C-44-8E-C0-FF-72
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Jets/AJEE-LAL7.cfg
+		SHA = 07-30-32-3E-6D-53-56-F3-0C-1D-D6-30-7A-A9-DE-FC-04-CD-46-84-77-52-59-25-7F-46-62-FA-91-F6-0B-DC
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Jets/AJEE-PD18T.cfg
+		SHA = 24-73-45-12-97-7C-24-52-77-11-4F-4F-AB-4A-C0-60-25-F1-71-90-69-6F-53-BA-04-8F-AB-6B-94-F2-F0-37
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Jets/AJEE-PWF100.cfg
+		SHA = 3B-D1-F5-F5-17-79-36-DF-BE-6A-FA-F5-08-BC-AD-36-65-6E-71-10-43-63-79-E0-D7-BD-82-7A-E2-21-4D-58
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Jets/AJEE-PWF119.cfg
+		SHA = 44-E0-B1-3C-E9-60-FE-FE-22-0E-E8-17-28-8B-BB-78-80-09-07-84-32-97-02-05-8D-8B-EE-34-3F-D1-B3-1F
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Jets/AJEE-PWF135.cfg
+		SHA = 69-0A-19-6F-18-BB-94-E4-BB-06-8B-42-D4-C2-2E-CD-B8-AC-CF-DF-13-AE-B0-F6-7C-97-7D-13-AD-14-85-65
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Jets/AJEE-PWJ52.cfg
+		SHA = FC-50-6B-14-9A-0A-63-AF-42-FF-E3-8B-A1-B6-E5-4A-52-FA-0F-B5-29-DC-FB-5D-CB-02-FA-37-80-7E-48-62
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Jets/AJEE-PWJ58.cfg
+		SHA = 03-BE-1D-D6-D4-05-FF-7E-CC-72-66-BC-47-44-BF-B9-0D-A4-42-8E-E8-49-B3-B6-5A-70-6F-DB-FB-AB-DD-1C
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Jets/AJEE-PWJ75.cfg
+		SHA = 42-98-10-F7-6B-1C-34-45-54-5A-0F-2B-47-CA-4E-52-F1-D9-A7-AE-C2-FA-DD-F7-68-E7-3B-BD-27-F4-C1-91
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Jets/AJEE-PWJT8D.cfg
+		SHA = 13-33-64-1B-70-C3-E7-FC-D2-58-C6-2A-7E-C8-EA-89-B1-0B-42-E7-E6-1C-0B-FA-A7-EF-4F-2A-6D-9B-62-EB
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Jets/AJEE-RRAvon.cfg
+		SHA = B2-1E-FB-84-C7-F8-C4-FF-01-3B-DD-8A-66-1B-49-00-54-1B-FF-FE-5C-65-62-7C-2D-65-30-29-09-12-96-FF
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Jets/AJEE-RRDerwent.cfg
+		SHA = EA-70-AD-9E-D8-D8-50-71-44-2E-3E-C7-D9-38-0D-3C-02-E4-CD-68-3D-C6-19-92-89-F2-83-DB-23-82-37-4A
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Jets/AJEE-RRNene.cfg
+		SHA = 12-4D-88-C4-54-9C-1E-7C-9F-D1-01-6A-96-FA-30-5F-51-99-30-A4-F0-14-89-AF-F1-7A-82-65-A3-BE-0C-30
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Jets/AJEE-RROlympus.cfg
+		SHA = ED-D2-FB-30-9A-DD-11-AA-42-DD-70-B8-D7-7D-BF-0A-33-E8-F3-B7-67-74-24-28-04-83-AE-82-C0-68-14-E1
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Jets/AJEE-RRPegasus.cfg
+		SHA = 1C-E7-83-39-46-14-2F-B5-85-CD-27-61-80-87-5B-D1-BA-28-FF-E2-8B-9F-D5-63-CA-27-35-A8-86-F5-C3-12
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Jets/AJEE-RRSpey.cfg
+		SHA = 5E-F0-D0-0D-F2-BC-D1-14-E2-1E-11-BF-45-23-FB-9B-0A-5E-A0-B7-EF-C2-DF-13-C5-8A-EC-36-32-06-9A-C4
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Jets/AJEE-RRTrent.cfg
+		SHA = 36-E4-BC-1C-C0-25-F2-76-8F-07-A6-9F-28-7B-B4-C0-39-39-BC-55-09-4E-AF-3C-CA-A4-43-46-DA-C1-E5-07
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Jets/AJEE-SD30.cfg
+		SHA = C9-43-08-C9-80-F0-27-B4-88-1B-D1-4B-3A-7B-3F-18-CE-F5-22-5A-73-7B-72-99-91-1C-AA-7A-C8-7D-6F-1C
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Jets/AJEE-SNECMAAtar.cfg
+		SHA = 10-8A-96-04-83-91-32-5E-51-79-35-F4-08-3A-C2-1D-CB-4B-8D-41-B3-FE-1E-1E-39-E6-D5-0B-CC-D2-04-6E
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Jets/AJEE-SNECMAM53.cfg
+		SHA = C7-DE-32-4A-39-11-53-C0-A5-9B-95-9A-7C-00-5A-19-47-42-8F-94-4A-C0-1D-38-0A-1B-13-96-B6-DA-8F-F0
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Jets/AJEE-SNECMAM88.cfg
+		SHA = D7-27-FA-7E-B7-7B-8C-4F-F2-FA-F6-7C-86-A8-9C-6C-AF-9A-51-04-B9-A2-6A-93-DE-F7-BD-8C-AC-CF-0D-8F
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Jets/AJEE-TR25.cfg
+		SHA = 06-74-7D-E3-8D-26-43-64-1E-D1-E0-DF-20-9C-5C-35-7D-82-2D-32-31-A4-E6-39-67-73-29-C8-0D-88-90-66
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Jets/AJEE-TRD9.cfg
+		SHA = D5-77-03-8E-50-D2-AA-10-6A-D0-D8-80-88-12-AC-A1-A7-34-1F-2F-CF-9D-29-65-3D-4C-C6-F6-E3-AD-45-82
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Jets/AJEE-TURB199.cfg
+		SHA = E9-62-DA-0D-1F-3B-B8-A5-DD-89-AA-31-16-B1-65-69-EC-1C-01-A1-11-2B-95-6D-EA-27-7A-90-F5-81-8C-F1
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Jets/AJEE-WRRFJ44.cfg
+		SHA = 08-4B-F8-FF-93-0F-79-63-03-D0-1E-1B-02-1E-86-A6-EC-7E-7C-39-16-64-4F-08-21-B4-D0-F6-AC-2B-E2-16
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Piston/AJEE_Anzani30hp.cfg
+		SHA = BB-84-12-52-6B-1F-AC-5A-60-18-B5-9C-23-B0-68-BD-F0-05-D5-8F-61-A4-4B-78-E4-D3-4D-2F-0A-C8-BD-B9
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Piston/AJEE_Anzani50hp.cfg
+		SHA = 79-A5-51-EB-07-11-16-32-8D-EA-D2-7A-19-C5-59-86-DD-4C-9D-2F-3A-75-47-18-E9-A7-1C-BC-C9-F0-CB-B1
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Piston/AJEE_AV1710.cfg
+		SHA = 3E-D6-F3-81-B3-B9-A0-70-BC-ED-5D-EB-0D-C1-9B-62-17-76-77-93-E6-FB-60-B3-1A-F8-6B-B5-A3-11-A8-28
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Piston/AJEE_BMWVI.cfg
+		SHA = AF-EF-FD-48-E5-6F-93-63-E1-A8-5D-71-41-50-85-D8-24-29-6C-6B-CA-27-AF-7D-7E-60-37-A0-52-A9-25-26
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Piston/AJEE_BristolCentaurus.cfg
+		SHA = 21-15-A2-A9-98-F7-3C-60-BD-F7-8A-38-9A-5B-55-47-FC-DC-F5-25-D0-49-C4-D6-50-EB-FE-43-2E-51-00-D4
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Piston/AJEE_BristolMercury.cfg
+		SHA = 8F-23-CB-C6-32-56-BA-0B-9B-D8-86-7F-00-CC-5E-8F-B7-BB-A7-BA-A8-15-79-3B-F1-A3-68-CA-98-F1-39-29
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Piston/AJEE_BristolPegasus.cfg
+		SHA = 71-3D-4D-9A-89-70-65-04-34-86-88-88-F0-2E-9E-EB-EC-CD-25-75-DB-2B-7A-08-13-FB-44-70-83-D6-92-AB
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Piston/AJEE_CIO550.cfg
+		SHA = 68-D3-F2-79-D2-7A-2C-43-5B-5B-5D-5F-79-9D-08-B9-06-8F-B8-78-D2-44-18-F1-FA-BB-92-00-43-A0-17-AA
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Piston/AJEE_Clerget.cfg
+		SHA = 49-D5-5F-E2-C7-F3-77-38-82-4B-F3-F8-D2-5C-43-8A-06-5C-D5-27-F0-F8-AF-4C-C9-65-1F-F1-0F-68-45-5E
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Piston/AJEE_DarracqSC.cfg
+		SHA = 90-F6-65-FB-01-D8-B5-B9-71-4D-67-74-58-C2-16-98-63-63-65-5C-9E-BE-99-93-7E-7E-57-F2-7F-20-51-7D
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Piston/AJEE_DB605.cfg
+		SHA = CB-71-10-B9-17-28-83-01-B7-E3-BB-70-8E-DF-9A-B7-92-08-27-26-D1-F9-67-0D-E2-C7-19-96-46-55-E3-B1
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Piston/AJEE_DHXNomad.cfg
+		SHA = 55-96-75-FB-09-85-89-62-9B-C3-A4-42-02-21-9D-68-23-50-FE-3F-13-B3-63-7E-E0-34-A5-42-A7-8F-04-E2
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Piston/AJEE_DutheilChalmersH20.cfg
+		SHA = 4B-DD-6C-F5-38-1A-3E-18-16-E2-C8-8C-70-63-A4-0E-72-B8-F4-99-A6-72-19-F6-3F-7D-34-77-71-E4-A5-AF
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Piston/AJEE_Hispano8Aa.cfg
+		SHA = F7-B9-5F-01-C6-9B-A4-D0-09-0D-C3-7B-B3-6F-5F-7F-D3-81-D6-24-BA-DB-6C-FB-33-8D-3D-76-1F-4B-09-E9
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Piston/AJEE_Jumo211.cfg
+		SHA = F4-DE-86-64-5F-4B-DB-A3-48-55-72-5E-A6-29-98-0A-38-DC-B9-EB-9F-8A-18-90-BB-0E-65-6A-48-C7-05-E4
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Piston/AJEE_Jumo213.cfg
+		SHA = 25-CC-16-0A-C4-EF-CA-5E-1D-1D-63-19-AA-61-63-91-0B-69-83-F4-25-DD-C2-C0-8C-2D-4E-17-AB-D6-CA-38
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Piston/AJEE_KlimovM105.cfg
+		SHA = D2-C7-1E-7F-FE-13-37-EF-4E-1F-E1-8B-00-36-EB-C0-F5-E5-DB-E4-FB-EA-2C-27-AF-90-66-62-84-25-A3-43
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Piston/AJEE_LibertyL12.cfg
+		SHA = 52-B8-E0-FA-06-B6-7D-43-65-66-15-B9-19-36-61-6A-57-31-58-89-5A-8E-C0-47-E2-F7-1F-3F-5A-7A-40-54
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Piston/AJEE_NakajimaSakae.cfg
+		SHA = 49-BF-F9-3F-9C-1E-CF-6F-2C-B5-61-41-E3-DB-7B-F9-99-19-20-AE-69-98-1D-C7-9C-4F-87-5B-9E-17-20-61
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Piston/AJEE_NapierLion.cfg
+		SHA = 7B-07-8F-73-28-5C-5F-BE-CC-2F-D9-2D-A9-E8-70-31-9B-94-EA-D2-BC-FE-CD-61-41-6D-0A-AD-F1-AF-11-83
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Piston/AJEE_NapierSabre.cfg
+		SHA = D3-DC-97-31-7A-39-07-15-83-D1-CF-19-2B-27-BF-34-D8-A1-14-69-D1-3E-28-12-D7-1E-7E-9C-93-4C-5D-07
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Piston/AJEE_OberurselUII.cfg
+		SHA = D0-44-4E-6D-22-03-92-85-A8-68-9A-5C-88-09-1A-8A-6A-42-8A-B1-FE-30-7E-07-11-12-6B-2D-40-5F-1D-93
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Piston/AJEE_PMV1650.cfg
+		SHA = 78-9B-DE-87-C0-0A-E1-D3-B2-95-48-0D-1C-59-7E-FA-97-A1-BD-63-D4-3D-B8-79-59-ED-34-12-33-23-62-5C
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Piston/AJEE_PW1340W.cfg
+		SHA = 87-2C-85-93-4A-F2-07-5C-B1-51-A6-36-3B-CB-C0-70-9D-63-35-3F-73-0B-CE-75-F8-C1-42-5C-68-88-E7-0D
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Piston/AJEE_PWR1830TW.cfg
+		SHA = C3-73-83-DF-56-83-13-6F-43-A7-B7-3A-1F-C2-83-88-9D-19-F8-9C-E5-A2-48-71-12-25-BD-F8-BD-95-B0-54
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Piston/AJEE_PWR2800DW.cfg
+		SHA = 42-90-05-A5-2F-59-BE-A6-5C-71-5E-4C-BE-2F-BD-98-96-0B-02-23-42-2E-76-72-D2-E5-06-31-E2-26-9D-2F
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Piston/AJEE_R3350DC.cfg
+		SHA = 20-75-22-02-99-D2-12-68-F2-F3-63-59-84-85-6C-90-54-60-8A-ED-6D-12-FA-E2-30-7B-BA-2F-40-56-A5-D0
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Piston/AJEE_RRGriffon.cfg
+		SHA = E2-72-9F-25-41-E3-2C-24-A0-51-37-4B-2B-F5-A8-F0-4E-25-4C-54-46-69-98-B9-49-F4-25-15-AB-BC-04-55
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Piston/AJEE_RRKestrel.cfg
+		SHA = C2-78-06-AF-8E-3B-9F-AE-EB-D8-1E-E7-EB-E2-E8-93-16-D0-F7-48-EB-02-D7-43-4B-BC-0B-08-A6-9F-40-1D
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Piston/AJEE_RRMerlin.cfg
+		SHA = F7-E9-BA-AE-7C-68-92-D8-47-22-D9-07-B0-01-6D-E3-AB-1D-4A-8D-81-A9-50-AD-26-1B-85-C1-8D-09-42-BC
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Piston/AJEE_SASh25V.cfg
+		SHA = 94-49-BD-B7-D3-BF-3D-56-85-D7-8D-B2-F4-11-75-AD-4F-7F-C0-F0-88-5F-A4-1E-C3-6C-67-21-05-25-C9-14
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Piston/AJEE_SAShM63.cfg
+		SHA = 5A-EE-89-57-1D-9C-E4-36-9B-98-0C-03-A5-3B-A5-75-08-AB-86-48-B3-92-93-C5-C7-5A-47-D7-3F-00-F0-96
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Piston/AJEE_SAShM82.cfg
+		SHA = 7A-11-29-BD-90-94-0C-6B-A7-BE-EE-26-E8-69-E1-1E-A0-A0-C0-61-01-40-22-95-23-A9-9D-23-FE-59-92-BD
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Turboprops/AJEE_ASDMambaTP.cfg
+		SHA = 07-D8-B4-5D-03-87-EF-C0-BB-2B-5D-2F-1C-21-4F-67-DD-31-BD-FC-57-14-08-5D-6F-63-E5-2A-0C-7E-0C-31
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Turboprops/AJEE_GTPE331TP.cfg
+		SHA = 83-B7-62-2C-19-7C-A6-34-82-D8-CB-73-4E-8F-02-08-E9-DE-E4-5B-2E-AA-B3-A0-F3-E3-3A-D8-24-92-2E-B0
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Turboprops/AJEE_KNK12.cfg
+		SHA = 9E-D4-69-81-07-DB-1C-4C-8C-EB-F1-7E-9B-00-8C-14-FD-FB-7F-B2-F4-05-33-2F-C3-AC-43-F5-7D-82-E8-DB
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Turboprops/AJEE_PWPT6TP.cfg
+		SHA = 6A-AA-31-1F-4C-D8-4A-62-F6-BF-F3-B9-B9-A0-79-40-BF-6C-93-AB-2C-7D-48-0E-8D-E7-CD-A9-BD-9C-BC-92
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Turboprops/AJEE_RR56TP.cfg
+		SHA = 94-40-60-82-E1-BF-F5-C4-89-7E-AE-6C-22-88-9B-6A-D2-D1-18-79-76-72-2E-4D-E5-F4-42-CD-54-35-58-3B
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Turboprops/AJEE_RRAE2100TP.cfg
+		SHA = 23-91-83-61-E1-7C-30-00-37-76-BC-22-6A-A2-66-ED-5D-A4-0F-BF-87-83-B9-09-1C-FC-7D-31-E5-59-1E-9E
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Turboprops/AJEE_RRDartTP.cfg
+		SHA = 71-B5-A9-18-60-FA-A4-41-56-A8-61-A2-5B-97-5E-EF-A4-E0-A1-B4-B6-A9-34-98-D1-42-B8-A0-BD-7C-B9-E9
+	}
+	FILE
+	{
+		filename = AJEExtended/Engines/Turboprops/AJEE_RRTyneTP.cfg
+		SHA = D7-67-66-F6-8D-A8-0D-30-D5-FB-61-2D-D3-2C-9F-4F-4B-AC-FE-8C-D1-F9-18-D8-78-2B-7C-1A-89-C8-6F-DC
+	}
+	FILE
+	{
+		filename = AJEExtended/Intakes/APP_Intakes.cfg
+		SHA = D9-7F-84-6E-91-6F-BC-C0-0C-1B-81-A2-98-67-6D-71-C1-EB-DB-15-DE-D6-94-9B-DD-8B-24-C3-08-ED-87-DC
+	}
+	FILE
+	{
+		filename = AJEExtended/Intakes/Stryker_Intakes.cfg
+		SHA = 7E-D4-4B-9D-6C-7E-1F-A6-70-23-70-C4-AF-DF-8B-6F-0C-EA-2C-BB-EE-63-2B-1A-01-59-74-04-43-52-E5-72
+	}
+	FILE
+	{
+		filename = AJEExtended/Parts/Mods/AJEE-AirplanePlus.cfg
+		SHA = 5F-D0-35-5A-32-0C-B5-44-63-1B-EE-98-40-C3-35-88-16-92-CA-CC-55-9B-A5-02-DE-AF-BC-A9-6A-5A-9E-94
+	}
+	FILE
+	{
+		filename = AJEExtended/Parts/Mods/AJEE-B9.cfg
+		SHA = C4-2B-92-47-35-41-22-1D-29-AC-00-5C-F6-22-A6-EA-8F-B3-F3-CC-9A-53-C4-76-DF-17-AF-4C-43-C6-71-58
+	}
+	FILE
+	{
+		filename = AJEExtended/Parts/Mods/AJEE-KAX.cfg
+		SHA = B0-66-47-19-21-B2-D6-45-99-A3-A7-D6-85-0B-3F-0A-92-DA-3F-74-AC-CE-C6-22-3C-8D-83-4E-D2-56-59-CB
+	}
+	FILE
+	{
+		filename = AJEExtended/Parts/Mods/AJEE-Squad.cfg
+		SHA = 2E-5F-DF-03-51-4D-55-7C-6B-AB-87-33-09-B1-39-85-AB-F1-11-71-7C-39-55-0F-8C-36-FF-9B-AA-82-CF-9E
+	}
+	FILE
+	{
+		filename = AJEExtended/Parts/Mods/AJEE-Stryker.cfg
+		SHA = 2E-CC-0C-A7-7C-CB-AA-CD-18-D6-31-A7-9B-25-F8-96-F4-D1-BC-66-21-61-4D-81-F2-3D-BE-C1-4A-7E-9E-D9
+	}
+	FILE
+	{
+		filename = AJEExtended/Parts/Mods/AJEE-SXT.cfg
+		SHA = 8E-45-4F-51-8E-C8-FF-B3-09-FB-52-7F-FD-25-A8-87-EA-AA-99-FF-B8-C1-E4-C4-27-AB-FD-5A-7F-DA-3A-52
+	}
+	FILE
+	{
+		filename = AJEExtended/Parts/Piston/AJE-EVee.cfg
+		SHA = 8B-95-CF-0E-C4-45-F8-B7-EB-36-08-A4-99-5F-A0-5D-CE-28-E5-8A-F0-99-A3-BF-5F-25-13-5F-53-8F-2F-D0
+	}
+	FILE
+	{
+		filename = AJEExtended/Templates/Common/AJEE-Common-Templates.cfg
+		SHA = C4-58-DC-A2-F1-B4-82-C8-87-09-0D-EA-39-99-4F-71-AC-C2-D5-9B-78-50-76-D7-60-B7-67-15-E3-EB-E0-FC
+	}
+	FILE
+	{
+		filename = AJEExtended/Templates/Exotics/AJEE-Exotic-Templates.cfg
+		SHA = A0-8D-0B-53-EF-AD-FC-A5-F5-C9-A4-56-08-9A-BC-25-15-33-65-69-0C-F8-A5-9D-40-AF-C0-81-F2-51-96-D7
+	}
+	FILE
+	{
+		filename = AJEExtended/Templates/Jets/AJEE-European-Jet-Templates.cfg
+		SHA = F8-37-3F-A1-72-7C-75-CE-B6-B9-7F-5D-4E-8A-44-65-F1-DF-05-5D-8C-75-02-C8-47-5D-6E-54-63-AE-C2-27
+	}
+	FILE
+	{
+		filename = AJEExtended/Templates/Jets/AJEE-GeneralElectric-Jet-Templates.cfg
+		SHA = 83-4E-62-3C-54-FA-3A-73-99-FC-A4-E7-84-38-92-26-1E-CE-DE-E3-0D-7D-37-A7-97-16-3A-7F-9A-08-3F-DF
+	}
+	FILE
+	{
+		filename = AJEExtended/Templates/Jets/AJEE-German-Jet-Templates.cfg
+		SHA = 5C-C6-04-10-7E-F7-96-EA-BB-9F-01-F4-C7-5A-B1-65-2C-DC-34-C9-C5-1A-DD-B1-14-B1-15-2D-60-68-4B-CD
+	}
+	FILE
+	{
+		filename = AJEExtended/Templates/Jets/AJEE-Pratt&Whitney-Jet-Templates.cfg
+		SHA = F1-D1-B7-F9-88-B1-C1-81-97-5F-69-6D-5A-A1-EA-A7-F4-37-BA-B7-8F-A8-73-1A-C5-AB-A4-AB-A6-7E-74-DA
+	}
+	FILE
+	{
+		filename = AJEExtended/Templates/Jets/AJEE-Rolls_Royce-Jet-Templates.cfg
+		SHA = 04-76-B8-D2-75-7B-5A-6B-89-04-F0-D1-DD-51-AC-5C-52-F6-13-9A-1F-3A-BA-C3-8C-7F-A9-24-B0-DC-16-91
+	}
+	FILE
+	{
+		filename = AJEExtended/Templates/Jets/AJEE-Russian-Jet-Templates.cfg
+		SHA = 06-F1-DA-04-0B-CC-FE-01-B6-DF-15-9A-E8-14-EB-86-06-D1-F6-57-F8-AD-C8-7A-D5-B3-B4-FC-62-20-F8-A2
+	}
+	FILE
+	{
+		filename = AJEExtended/Templates/Jets/AJEE-SNECMA-Jet-Templates.cfg
+		SHA = 78-59-75-B6-6B-94-35-EE-E5-D0-41-46-44-68-D3-9C-05-70-E3-93-50-18-34-CD-4B-EF-0B-59-88-34-50-BA
+	}
+	FILE
+	{
+		filename = AJEExtended/Templates/Jets/AJEE-Turbofan-Jet-Templates.cfg
+		SHA = 19-25-BC-35-B8-6C-11-CF-C4-7C-C2-81-3C-95-62-7D-4B-43-D8-35-99-A4-75-14-76-20-75-4B-68-1D-43-0B
+	}
+	FILE
+	{
+		filename = AJEExtended/Templates/Piston/AJEE-American-Piston-Templates.cfg
+		SHA = 1B-9E-F1-52-67-D0-41-94-60-42-98-F7-C2-E9-BA-AA-5B-5A-3F-AF-D8-5E-72-C2-69-3D-26-18-BB-7C-AD-B5
+	}
+	FILE
+	{
+		filename = AJEExtended/Templates/Piston/AJEE-British-Piston-Templates.cfg
+		SHA = 96-68-42-DB-5F-AE-89-2F-AC-AF-53-F6-06-62-5F-7E-AA-E3-08-7A-B2-99-A0-57-2C-A1-AA-A7-0F-95-F5-10
+	}
+	FILE
+	{
+		filename = AJEExtended/Templates/Piston/AJEE-French-Piston-Templates.cfg
+		SHA = 19-30-66-84-A7-5D-B7-2A-0F-BD-A7-D6-F4-C8-E7-F3-26-9F-36-16-E4-1C-91-43-C7-A0-D1-33-6E-CE-30-7F
+	}
+	FILE
+	{
+		filename = AJEExtended/Templates/Piston/AJEE-German-Piston-Templates.cfg
+		SHA = 15-8F-08-0C-10-E3-3B-31-55-41-15-F4-F3-E2-8C-54-0F-A7-19-43-0A-9B-00-33-B3-1C-0F-A3-83-4F-6F-99
+	}
+	FILE
+	{
+		filename = AJEExtended/Templates/Piston/AJEE-Misc-Piston-Templates.cfg
+		SHA = DE-C9-A0-DC-7F-58-85-A9-B5-DA-0B-4B-58-C3-0A-43-06-19-EC-E9-C5-B5-50-4F-D6-33-73-E1-45-79-9C-3C
+	}
+	FILE
+	{
+		filename = AJEExtended/Templates/Piston/AJEE-Russian-Piston-Templates.cfg
+		SHA = 89-CC-49-6C-83-DD-B4-D7-D4-24-0D-72-B5-BC-EE-F8-AB-90-CC-0C-9B-FA-25-A3-D3-33-CA-90-57-38-56-6F
+	}
+	FILE
+	{
+		filename = AJEExtended/Templates/Turboprop/AJEE-Turboprops-Templates.cfg
+		SHA = 8D-53-B2-B2-1C-BD-D3-9B-15-65-EE-96-4E-BF-F4-D0-3C-C1-46-71-2F-89-25-27-F9-EF-00-1E-3D-C5-D3-67
+	}
+	FILE
+	{
 		filename = AtmosphereAutopilot/csurf_sync.cfg
 		SHA = EB-17-A5-91-C9-56-5F-57-5C-DF-82-48-4E-6B-33-59-D2-59-06-E4-BD-82-79-1D-45-6E-82-61-48-CD-F1-BE
 	}
@@ -182,6 +1007,211 @@ FilesSHA
 	{
 		filename = B9_Aerospace_ProceduralWings/Parts/Aero_Wing_Procedural/wing_procedural_typeC.cfg
 		SHA = 7E-33-ED-04-8F-5A-E1-E3-26-01-9D-99-6D-B4-5D-08-11-1E-DD-DD-51-F8-74-DD-F9-2C-47-DF-CB-38-4F-41
+	}
+	FILE
+	{
+		filename = DeadlyReentry/custom.cfg
+		SHA = 8A-73-85-75-80-D7-2A-D2-03-E4-75-95-BD-29-07-F7-D1-C5-BA-E8-09-5C-99-B7-78-C5-4E-AB-61-30-55-A5
+	}
+	FILE
+	{
+		filename = DeadlyReentry/DeadlyReentry-Chutes.cfg
+		SHA = 5A-2C-0B-67-35-B0-E2-89-2C-27-5B-0A-DB-90-9B-35-29-4C-28-EA-9A-FC-18-6E-66-43-71-F2-9B-28-B7-E1
+	}
+	FILE
+	{
+		filename = DeadlyReentry/DeadlyReentry-HOME.cfg
+		SHA = 08-3B-99-32-E8-B3-DF-F9-13-47-28-F0-72-41-9D-72-2D-30-99-EA-60-A0-72-15-68-61-2C-17-74-C6-CA-AE
+	}
+	FILE
+	{
+		filename = DeadlyReentry/DeadlyReentry-InflatableShields.cfg
+		SHA = D2-3A-CD-62-98-EF-DD-BB-F6-7E-14-9E-52-27-10-04-78-6A-98-A9-CE-97-19-D0-E0-CC-BF-C2-4A-D0-EB-69
+	}
+	FILE
+	{
+		filename = DeadlyReentry/DeadlyReentry-KerbalEVA.cfg
+		SHA = 02-3C-07-59-D3-FF-88-50-3E-87-CB-D4-BC-ED-31-E4-3A-9C-68-0C-2B-E2-03-8C-35-EE-32-A5-AD-85-D7-EA
+	}
+	FILE
+	{
+		filename = DeadlyReentry/DeadlyReentry-KerbalFoundries.cfg
+		SHA = DA-38-25-52-B2-6E-E9-A4-C2-02-33-38-AC-75-DF-E6-00-F9-3E-F5-09-D0-5B-B5-AE-13-DD-13-6F-A2-37-39
+	}
+	FILE
+	{
+		filename = DeadlyReentry/DeadlyReentry-KSO.cfg
+		SHA = 89-42-54-D1-7C-E2-9D-DE-08-40-BD-01-E1-ED-60-BB-A0-E1-A5-A8-BE-19-A4-FE-EF-8F-D9-44-66-8C-2F-26
+	}
+	FILE
+	{
+		filename = DeadlyReentry/DeadlyReentry-KSO25.cfg
+		SHA = AC-CB-53-CA-C3-31-2A-43-8A-DF-8B-1F-93-A3-98-09-3B-2D-37-61-04-9D-1C-33-31-9F-3C-E2-59-B1-46-39
+	}
+	FILE
+	{
+		filename = DeadlyReentry/DeadlyReentry-KWRocketryFairings.cfg
+		SHA = E4-BB-92-F6-49-C5-37-94-47-5A-33-0C-FB-FF-02-EA-1D-4F-87-05-AF-EC-82-71-5E-84-92-56-52-4F-B4-E9
+	}
+	FILE
+	{
+		filename = DeadlyReentry/DeadlyReentry-MakingHistory.cfg
+		SHA = 24-31-B2-1D-9F-D9-8A-47-BB-49-4E-FC-BA-7D-ED-67-33-83-11-B5-1F-DF-86-A0-47-24-00-73-5A-E6-D9-52
+	}
+	FILE
+	{
+		filename = DeadlyReentry/DeadlyReentry-Mk2Essentials.cfg
+		SHA = C5-0D-88-17-BF-12-DD-03-99-3D-9F-04-C1-C7-BF-F1-39-4F-C6-1E-1C-89-92-F3-BD-67-88-22-42-10-F7-E6
+	}
+	FILE
+	{
+		filename = DeadlyReentry/DeadlyReentry-MkIVEssentials.cfg
+		SHA = 74-33-37-71-E7-94-85-40-0E-B2-2A-12-6E-F8-D8-51-09-BC-92-21-E1-A3-BE-07-92-7B-91-06-FB-66-5A-FA
+	}
+	FILE
+	{
+		filename = DeadlyReentry/DeadlyReentry-OPT.cfg
+		SHA = B7-03-94-02-99-A1-D9-4E-B0-E1-67-F6-02-1B-45-7B-EC-1A-D2-F4-A9-5B-7F-08-35-C3-EE-A0-DA-4A-2A-E6
+	}
+	FILE
+	{
+		filename = DeadlyReentry/DeadlyReentry-PFairings.cfg
+		SHA = A2-91-55-F0-FA-DE-B9-08-2E-03-89-C9-E7-75-7A-45-69-90-89-CD-F7-22-21-B7-C4-B4-5D-98-8D-D5-7C-6E
+	}
+	FILE
+	{
+		filename = DeadlyReentry/DeadlyReentry-RealChutes.cfg
+		SHA = 9A-C8-92-00-64-D5-2F-A8-E2-77-58-EC-DC-6C-C0-BF-C8-4B-B3-82-19-AE-17-CD-BD-72-B0-AD-AD-A4-4E-BC
+	}
+	FILE
+	{
+		filename = DeadlyReentry/DeadlyReentry-SDHI.cfg
+		SHA = 78-10-9F-11-07-20-5B-E8-2D-52-48-4D-A7-D9-51-B4-7E-50-1D-3D-59-6A-53-C3-86-48-B2-01-65-7D-AB-B1
+	}
+	FILE
+	{
+		filename = DeadlyReentry/DeadlyReentry-SSTU.cfg
+		SHA = 2C-1A-C4-DF-CE-DF-E8-8E-7A-2D-1E-16-9B-D9-95-9E-6B-64-49-44-47-2C-34-47-36-39-9F-40-5F-9C-76-4F
+	}
+	FILE
+	{
+		filename = DeadlyReentry/DeadlyReentry-TaurusHCV.cfg
+		SHA = BE-8A-12-A5-F5-97-73-AD-B2-5D-8E-59-B3-2A-4D-2F-39-70-23-DE-5B-67-A0-C6-02-E5-64-3A-BB-DB-C8-16
+	}
+	FILE
+	{
+		filename = DeadlyReentry/DeadlyReentry-TTSPP.cfg
+		SHA = 04-4F-86-3C-3A-AB-BB-28-F1-FC-8A-AB-7B-18-52-87-4C-C9-89-F1-33-DB-8D-A4-08-D8-6E-C4-C9-C2-31-79
+	}
+	FILE
+	{
+		filename = DeadlyReentry/DeadlyReentry-Tundra.cfg
+		SHA = E2-B6-A4-3E-70-02-0B-71-43-CF-6B-92-0A-8E-DB-1B-4F-CC-C7-B3-56-E2-44-4A-DB-2A-F1-9B-61-00-54-82
+	}
+	FILE
+	{
+		filename = DeadlyReentry/DeadlyReentry-Upgrades.cfg
+		SHA = 6F-73-2F-6E-BB-9B-D0-F3-01-8C-C5-CE-AC-AC-A5-6B-0C-31-B3-EC-CA-99-DC-0B-3F-7B-06-3E-A3-5C-B1-6A
+	}
+	FILE
+	{
+		filename = DeadlyReentry/DeadlyReentry.cfg
+		SHA = C8-36-D3-B4-2A-C4-45-64-64-B5-3C-F1-FD-77-2B-BB-31-0C-0D-97-2F-F1-C0-13-45-25-2B-EA-AF-CF-A9-3C
+	}
+	FILE
+	{
+		filename = DeadlyReentry/DeadlyReentry_AlternateStarSystems.cfg
+		SHA = 6C-3F-42-49-07-23-88-AA-FE-88-4E-6E-94-57-19-6F-0B-EF-7A-71-EC-AE-4A-BE-85-C4-0F-CC-84-52-99-DD
+	}
+	FILE
+	{
+		filename = DeadlyReentry/DeadlyReentry_Stretchy.cfg
+		SHA = BD-9D-11-2E-9F-B1-58-8B-06-54-D6-52-75-4F-0E-13-45-49-3E-41-FF-DD-23-3F-28-DF-C5-08-BB-18-41-8C
+	}
+	FILE
+	{
+		filename = DeadlyReentry/DeadyReentry-BahamutoDPorts.cfg
+		SHA = D8-55-40-46-87-A0-65-86-6F-81-33-D9-09-2B-8A-A4-65-25-E3-B8-E5-3D-5D-77-30-55-69-6F-38-C2-7B-87
+	}
+	FILE
+	{
+		filename = DeadlyReentry/DefaultSettings.cfg
+		SHA = EE-90-8F-56-CB-46-D2-1A-F8-CA-04-02-7D-7A-42-90-EE-58-F8-7B-69-DA-36-C3-6E-52-85-82-3E-92-B6-DF
+	}
+	FILE
+	{
+		filename = DeadlyReentry/EngineHeatAdjuster.cfg
+		SHA = D8-9F-19-49-CF-DA-BA-16-A6-7C-F4-58-55-19-D2-D0-11-21-1B-6B-AE-5F-B0-14-D2-82-B5-91-8B-14-F8-52
+	}
+	FILE
+	{
+		filename = DeadlyReentry/Fairings.cfg
+		SHA = B9-F6-C6-8C-C3-81-36-4D-70-96-FA-2D-78-40-31-01-5F-22-E1-B7-52-E0-15-07-45-4E-92-C5-18-F3-A7-E6
+	}
+	FILE
+	{
+		filename = DeadlyReentry/IRVE3.cfg
+		SHA = AE-25-48-87-6C-32-E2-8D-6C-EA-52-3D-64-C9-CB-42-C5-98-0B-27-D6-A5-65-CB-23-1D-D7-9A-6F-F0-88-FB
+	}
+	FILE
+	{
+		filename = DeadlyReentry/Mk3.cfg
+		SHA = 55-AE-3A-CE-8D-3F-DF-86-90-90-C3-A1-52-1C-60-64-50-EF-C0-51-41-85-CE-7E-D9-0A-91-70-58-0C-17-77
+	}
+	FILE
+	{
+		filename = DeadlyReentry/OLDD.ADEPT.cfg
+		SHA = 8E-4A-60-B0-64-AD-04-F8-A1-1D-36-96-4F-21-2F-5C-27-2B-B7-8E-FC-C4-B7-1D-3B-16-1A-FD-9C-24-F8-B0
+	}
+	FILE
+	{
+		filename = DeadlyReentry/SPP.cfg
+		SHA = 82-7F-CE-58-07-56-FB-0E-BE-04-4F-CF-C4-8E-0F-41-12-E0-CF-9C-86-25-2E-99-89-C9-AB-73-CD-C5-63-59
+	}
+	FILE
+	{
+		filename = DeadlyReentry/Wings.cfg
+		SHA = 40-69-8C-71-08-AC-1D-4F-36-99-A3-D1-6C-3E-DB-D7-21-1D-8C-2A-56-5D-45-5A-E1-CD-AE-43-70-A8-AF-6C
+	}
+	FILE
+	{
+		filename = DeadlyReentry/Parts/DRE_0625HS.cfg
+		SHA = 04-31-84-68-35-18-DE-41-A3-67-53-C4-75-8C-23-61-F8-16-B0-05-6C-1F-31-69-56-C7-D9-9D-D5-44-B1-C6
+	}
+	FILE
+	{
+		filename = DeadlyReentry/Parts/deadlyReentry_1.25Heatshield/part.cfg
+		SHA = A6-D5-17-12-43-EA-E7-34-48-38-A7-38-98-E6-4C-8B-98-AB-4B-3E-50-FB-9A-70-2A-87-EF-FF-61-64-78-86
+	}
+	FILE
+	{
+		filename = DeadlyReentry/Parts/deadlyReentry_2.5Heatshield/part.cfg
+		SHA = D2-A1-51-CB-37-4C-90-2A-37-D8-7B-FC-9A-6B-99-56-03-68-12-49-DF-29-94-6C-F9-C4-FB-57-E5-C0-76-83
+	}
+	FILE
+	{
+		filename = DeadlyReentry/Parts/deadlyReentry_3.75Heatshield/part.cfg
+		SHA = 8C-62-79-ED-CA-9B-41-87-A3-C7-58-14-1C-96-94-C8-DA-B5-9D-40-31-5C-AE-B1-9F-46-8C-2C-8F-DA-81-75
+	}
+	FILE
+	{
+		filename = DeadlyReentry/Parts/UP_decoupler_2/part_0_625M.cfg
+		SHA = 1B-16-81-A2-71-A0-38-AA-A4-03-39-F5-9B-5B-42-47-7F-75-A0-E4-B1-BE-56-39-DC-19-1E-E2-98-39-E1-75
+	}
+	FILE
+	{
+		filename = DeadlyReentry/Parts/UP_decoupler_2/part_1_25M.cfg
+		SHA = B4-BD-07-BD-D5-62-90-D3-B7-D0-BA-80-D9-6B-B6-05-66-12-89-26-F6-AE-4E-E4-50-E3-08-D6-31-28-79-C5
+	}
+	FILE
+	{
+		filename = DeadlyReentry/Parts/UP_decoupler_2/part_2_5M.cfg
+		SHA = 68-60-D3-E5-8B-BC-59-57-04-CA-41-56-71-13-B9-04-27-98-E5-87-B7-F2-34-18-70-87-FE-6C-1C-BB-26-6F
+	}
+	FILE
+	{
+		filename = DeadlyReentry/Parts/UP_decoupler_2/part_4m.cfg
+		SHA = 83-80-4D-1C-89-00-B8-03-91-97-D3-9B-0F-E5-A7-51-25-6B-CB-BA-02-10-CF-A5-DB-22-6E-35-89-B2-E1-35
 	}
 	FILE
 	{
@@ -731,12 +1761,12 @@ FilesSHA
 	FILE
 	{
 		filename = NoU/EW/Engine45.cfg
-		SHA = D1-9A-E4-53-9A-47-B6-7C-F6-94-62-ED-CE-01-63-B2-00-88-7A-7B-23-B0-DA-39-D5-96-79-9E-CA-C8-2B-18
+		SHA = 3A-78-79-43-2D-3F-B2-22-67-A0-15-54-DB-DD-23-60-F0-E5-A3-C2-03-D4-7A-7B-60-FC-6D-AF-03-FD-B8-D5
 	}
 	FILE
 	{
 		filename = NoU/EW/Engine67.cfg
-		SHA = 98-FD-D9-0D-19-D9-8E-BB-05-E4-2F-68-E5-20-22-FB-99-C7-A6-A3-20-DF-D8-95-2E-02-9D-5A-E0-BE-C9-C2
+		SHA = 6F-8A-BB-D0-EB-49-61-06-01-32-B3-A7-51-2B-F6-17-70-88-42-EE-CD-DB-8B-0E-BB-45-88-31-CF-39-06-9D
 	}
 	FILE
 	{

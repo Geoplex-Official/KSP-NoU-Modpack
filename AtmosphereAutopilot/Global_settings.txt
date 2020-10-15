@@ -97,8 +97,8 @@ Cruise_Flight_controller
 	hotkey_altitude_sens = 0.7
 	hotkey_vertspeed_sens = 30
 	hotkey_vertspeed_snap = 0.5
-	window_x = 204
-	window_y = 310
+	window_x = 242
+	window_y = 330
 }
 Prograde_thrust_controller
 {

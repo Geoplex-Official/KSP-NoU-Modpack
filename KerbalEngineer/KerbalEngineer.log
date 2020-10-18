@@ -1,8 +1,8 @@
 Executing: KerbalEngineer - 1.1.7.2
 Assembly: C:\Program Files\KerbalSpaceProgram\KSP 1.8.1-NoU\GameData\KerbalEngineer\KerbalEngineer.dll
 
-[Log 11:50:55.4211461]: images (UnityEngine.AssetBundle)
-[Log 11:55:26.5604531]: Assembly: Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+[Log 14:36:47.1688691]: images (UnityEngine.AssetBundle)
+[Log 14:41:15.9935866]: Assembly: Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: Scale_Redist, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: ModuleManager, Version=4.1.4.0, Culture=neutral, PublicKeyToken=null
 Assembly: ClickThroughBlocker, Version=0.1.10.13, Culture=neutral, PublicKeyToken=null
@@ -53,7 +53,7 @@ Assembly: Scale, Version=2.4.3.21, Culture=neutral, PublicKeyToken=null
 Assembly: VesselMover, Version=1.8.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: ZeroMiniAVC, Version=1.1.0.1, Culture=neutral, PublicKeyToken=null
 
-[Log 11:55:26.5604531]: FlightEngineerCore->Awake
-[Log 11:55:31.7166113]: FlightEngineerCore->Start
-[Log 11:55:33.2815084]: FlightEngineerCore->OnDestroy
-[Log 11:57:39.3379332]: BuildAdvanced->OnDestroy
+[Log 14:41:15.9935866]: FlightEngineerCore->Awake
+[Log 14:41:21.1927630]: FlightEngineerCore->Start
+[Log 14:41:22.7821226]: FlightEngineerCore->OnDestroy
+[Log 14:42:41.0664739]: BuildAdvanced->OnDestroy

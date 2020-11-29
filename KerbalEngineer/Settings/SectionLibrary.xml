@@ -75,8 +75,8 @@
         <IsHud>false</IsHud>
         <IsDeleted>false</IsDeleted>
         <IsHudBackground>false</IsHudBackground>
-        <IsVisible>false</IsVisible>
-        <LineCount>13</LineCount>
+        <IsVisible>true</IsVisible>
+        <LineCount>11</LineCount>
         <Name>VESSEL</Name>
         <ReadoutModuleNames>
           <string>Vessel.Name</string>

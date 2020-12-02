@@ -10,6 +10,6 @@ abbreviations = True
 enableBlackScreen = True
 enableStopWatch = True
 gameScene = 7
-editorFacility = 1
+editorFacility = 2
 Lang = EN
 KeyEscape = Escape

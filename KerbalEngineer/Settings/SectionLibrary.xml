@@ -75,8 +75,8 @@
         <IsHud>false</IsHud>
         <IsDeleted>false</IsDeleted>
         <IsHudBackground>false</IsHudBackground>
-        <IsVisible>false</IsVisible>
-        <LineCount>0</LineCount>
+        <IsVisible>true</IsVisible>
+        <LineCount>12</LineCount>
         <Name>VESSEL</Name>
         <ReadoutModuleNames>
           <string>Vessel.Name</string>
@@ -300,7 +300,7 @@
         <IsDeleted>false</IsDeleted>
         <IsHudBackground>false</IsHudBackground>
         <IsVisible>true</IsVisible>
-        <LineCount>5</LineCount>
+        <LineCount>6</LineCount>
         <Name>HUD 2</Name>
         <ReadoutModuleNames>
           <string>Surface.AltitudeTerrain</string>
@@ -308,6 +308,7 @@
           <string>Surface.HorizontalSpeed</string>
           <string>Surface.Biome</string>
           <string>Surface.Situation</string>
+          <string>Surface.GeeForce</string>
         </ReadoutModuleNames>
       </SectionModule>
     </Value>

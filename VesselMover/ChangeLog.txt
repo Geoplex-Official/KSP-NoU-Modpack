@@ -1,6 +1,10 @@
-v1.8.0
- - Recompiled for KSP 1.8.0
- - Fixes issue with vessel with robotic arms
+v1.10.0
+* New:
+  * Recompiled for KSP 1.10.1
+
+v1.9.0
+* New:
+  * Recompiled for KSP 1.9.0
 
 v1.7.5
 * New:

@@ -1,4 +1,4 @@
-Enabled = True
+Enabled = False
 Debug = True
 WaitLoading = 0.5
 editorTimeToSave = 30
@@ -9,7 +9,7 @@ evenlySpaceToggles = True
 abbreviations = False
 enableBlackScreen = True
 enableStopWatch = True
-gameScene = 7
+gameScene = 5
 editorFacility = 2
 Lang = EN
 KeyEscape = Escape

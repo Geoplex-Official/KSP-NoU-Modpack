@@ -83,8 +83,8 @@ Yaw_ang_vel_controller
 }
 Mouse_Director
 {
-	window_x = 110
-	window_y = 318
+	window_x = 53
+	window_y = 219
 }
 Cruise_Flight_controller
 {
@@ -97,8 +97,8 @@ Cruise_Flight_controller
 	hotkey_altitude_sens = 0.7
 	hotkey_vertspeed_sens = 30
 	hotkey_vertspeed_snap = 0.5
-	window_x = 206
-	window_y = 306
+	window_x = 51
+	window_y = 227
 }
 Prograde_thrust_controller
 {
@@ -130,13 +130,13 @@ Standard_Fly-By-Wire
 Autopilot_module_manager
 {
 	master_switch_key = P
-	window_x = 255
-	window_y = 138
+	window_x = 52
+	window_y = 80
 }
 settings_wnd
 {
-	window_x = 475
-	window_y = 80
+	window_x = 272
+	window_y = 79
 	window_width = 200
 	profiles
 	{

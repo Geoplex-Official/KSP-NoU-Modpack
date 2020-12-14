@@ -1,8 +1,8 @@
 Executing: KerbalEngineer - 1.1.7.2
 Assembly: C:\Program Files\KerbalSpaceProgram\KSP 1.10.1\GameData\KerbalEngineer\KerbalEngineer.dll
 
-[Log 16:56:05.2450960]: images (UnityEngine.AssetBundle)
-[Log 16:59:19.5386629]: Assembly: Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+[Log 14:40:19.7181777]: images (UnityEngine.AssetBundle)
+[Log 14:43:45.4958374]: Assembly: Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: Scale_Redist, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: ModuleManager, Version=4.1.4.0, Culture=neutral, PublicKeyToken=null
 Assembly: ClickThroughBlocker, Version=0.1.10.14, Culture=neutral, PublicKeyToken=null
@@ -52,14 +52,17 @@ Assembly: Scale, Version=2.4.3.21, Culture=neutral, PublicKeyToken=null
 Assembly: VesselMover, Version=1.10.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: ZeroMiniAVC, Version=1.1.0.1, Culture=neutral, PublicKeyToken=null
 
-[Log 16:59:19.5386629]: FlightEngineerCore->Awake
-[Log 16:59:24.0720880]: FlightEngineerCore->Start
-[Log 16:59:25.6328555]: FlightEngineerCore->OnDestroy
-[Log 17:00:13.5839231]: BuildAdvanced->OnDestroy
-[Log 17:00:14.1280460]: FlightEngineerCore->Awake
-[Log 17:00:18.2627633]: FlightEngineerCore->Start
-[Log 17:01:16.8843761]: FlightEngineerCore->OnDestroy
-[Log 17:01:20.9983572]: ActionMenu->Awake
-[Log 17:01:20.9993662]: FlightEngineerCore->Awake
-[Log 17:01:27.9895136]: ActionMenu->Start
-[Log 17:01:28.0095177]: FlightEngineerCore->Start
+[Log 14:43:45.4958374]: FlightEngineerCore->Awake
+[Log 14:43:50.1240153]: FlightEngineerCore->Start
+[Log 14:43:51.6976749]: FlightEngineerCore->OnDestroy
+[Log 14:45:18.2480922]: BuildAdvanced->OnDestroy
+[Log 14:45:22.4600459]: ActionMenu->Awake
+[Log 14:45:22.4604949]: FlightEngineerCore->Awake
+[Log 14:45:29.7704250]: ActionMenu->Start
+[Log 14:45:29.7904292]: FlightEngineerCore->Start
+[Log 14:50:04.7956668]: ActionMenu->OnDestroy
+[Log 14:50:04.9187561]: FlightEngineerCore->OnDestroy
+[Log 14:50:05.6098248]: ActionMenu->Awake
+[Log 14:50:05.6098248]: FlightEngineerCore->Awake
+[Log 14:50:10.4851798]: ActionMenu->Start
+[Log 14:50:10.5051884]: FlightEngineerCore->Start

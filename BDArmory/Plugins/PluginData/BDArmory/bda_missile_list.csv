@@ -123,7 +123,7 @@ K5;K-5;Toonu;Kaliningrad Series Production Plant;0.0827;2400;5;1523.15;30;4;5;0;
 Kh-22;Kh-22;Toonu;MKB Raduga;5.82;2400;5;1523.15;450;30;300;300;10;25;-1;150;True;agm;radar;0;10000;480000;1577.8;False;heat;0;38000;False;60;20;100;0;0
 Kh-66;Kh-66;Toonu;Bahamuto Dynamics;0.3;2400;5;1523.15;40;0;90;20;2;25;-1;150;True;beamriding;laser;0;100;10000;700;False;heat;0;0;False;30;10;100;0;0
 Krug;9M8Krug;Toonu;Bahamuto Dynamics;2.45;4000;5;1523.15;400;20;275;80;30;25;-1;150;True;aam;radar;0;8000;55000;1372;False;heat;0;0;False;180;20;100;0;0
-KS-1;KS-1 Komet;Toonu;MKB Raduga;3;2400;5;1523.15;70;5;40;290;25;25;-1;150;True;cruise;radar;125;700;90000;309;False;radar;20000;20000;True;100;6;5;0;0
+KS-1;KS-1 Komet;Toonu;MKB Raduga;3;2400;5;1523.15;70;5;40;290;25;25;-1;150;True;cruise;laser;125;700;90000;309;False;radar;10000;10000;True;100;100;5;0;0
 KSR-2;KSR-2;Toonu;MKB Raduga;4.1;2400;5;1523.15;30;20;30;800;7;25;-1;150;True;cruise;gps;125;25000;200000;347;False;heat;0;38000;False;360;7;100;0;0
 Kub;3M9 Kub;Toonu;Kalinin Machine-Building Plant;0.6;4000;5;1523.15;200;10;150;60;12;25;-1;150;True;aam;radar;0;6000;24000;960.4;False;heat;0;0;False;60;15;100;0;0
 MIM-3;MIM-3;Toonu;Bell Labs;1.12;4000;5;1523.15;414;3.5;200;80;8;25;-1;150;True;aam;radar;0;5000;48000;771.5;False;heat;0;0;True;360;10;100;0;0
@@ -140,7 +140,7 @@ R-98T;R-8T (AA-3) “Anab-T”;Toonu;Bahamuto Dynamics;0.29;2400;5;1523.15;22;14
 S-25;S-25 Berkut;Toonu;OKB Lavochkin;1.2;4000;5;1523.15;120;6;65;120;10;25;-1;150;True;aam;radar;0;2000;30000;857.5;False;heat;0;0;False;60;15;100;0;0
 SS11;SS.11;Toonu;Bahamuto Dynamics;0.03;4000;5;1523.15;3;2;0.25;6;32;25;-1;150;True;beamriding;laser;0;500;3000;250;False;heat;0;0;False;45;5;320;1;0.0075
 strela2;9K32 "Strela-2";Toonu;KB Mashinostroyeniya;0.0098;2400;5;1523.15;10;1;1;16;20;25;-1;150;True;aam;heat;0;200;3700;430;False;heat;0;0;False;40;10;290;0;0
-AUM-N-2;AUM-N-2;Toonu;Fairchild;1.7;4000;5;1523.15;10;10;10;120;25;25;-1;150;True;cruise;radar;125;2000;38000;168;False;radar;10000;10000;False;270;30;5;0;0
+AUM-N-2;AUM-N-2;Toonu;Fairchild;1.7;4000;5;1523.15;10;10;10;120;25;25;-1;150;True;beamriding;laser;0;2000;38000;168;False;;0;0;False;180;30;5;0;0
 CIM-10;CIM-10 "Bomarc";Toonu;Boeing;7;4000;5;1523.15;450;15;100;500;60;25;-1;150;True;aam;radar;0;2000;320000;891;False;radar;16000;16000;True;360;20;100;0;0
 MIM-23;MIM-23 Hawk;Toonu;Bahamuto Dynamics;0.59;4000;5;1523.15;150;38;0;0;40;25;-1;150;True;aam;radar;0;2000;40000;823.2;False;heat;0;0;False;180;15;100;0;0
 RIM-2;RIM-2B "Terrier";Toonu;Convair;1.08;4000;5;1523.15;150;6;104;25;20;25;-1;150;True;aam;radar;0;2000;18000;1029;False;heat;0;0;False;90;10;100;0;0
@@ -148,5 +148,5 @@ RIM-8A;RIM-8A Talos;Toonu;Bahamuto Dynamics;3.5;4000;5;1523.15;300;20;200;90;20;
 SkudD;SkudD  Ballistic missile;Spanner;SM Armory Missiles;1.1;950;7;1523.15;160;3.5;60;120;35;35;42;50;True;agmballistic;gps;0;1000;35000;850;False;;0;6000;False;360;2.5;150;0;0
 SMA57E6BGM;57E6SMA Missile;Spanner;SM Armory Missiles;0.0757;950;5;1523.15;30;1.5;5.5;35;35;25;-1;150;True;aam;radar;0;750;20000;550;False;;0;11000;False;180;5;150;0;0
 AtakaAT;9M102 Ataka anti tank Missile;Spanner;SM Armory Missiles;0.0495;650;5;1523.15;5.5;5;0;0;10;25;-1;150;True;agm;laser;0;500;6000;372;False;;0;6000;False;360;2.5;150;0;0
-BristolBloodhound;BristolBloodhound Mk. 2;Spanner;SM Armory Missiles;1.25;750;5;1523.15;150;20;115;500;25;25;-1;150;True;aam;radar;0;1000;40000;900;False;heat;0;40000;True;180;7;150;0;0
-bristolmk1;BristolBloodhound Mk. 1;Spanner;SM Armory Missiles;1.25;750;5;1523.15;120;20;75;240;19;25;-1;150;True;aam;radar;0;1000;35000;755;False;heat;0;35000;True;180;7;150;0;0
+BristolBloodhound;BristolBloodhound Mk. 2;Spanner;SM Armory Missiles;1.25;750;5;1523.15;150;20;115;500;25;25;-1;150;True;aam;radar;0;1000;40000;900;False;;0;40000;True;180;7;150;0;0
+bristolmk1;BristolBloodhound Mk. 1;Spanner;SM Armory Missiles;1.25;750;5;1523.15;120;20;75;240;19;25;-1;150;True;aam;radar;0;1000;35000;755;False;;0;35000;True;180;7;150;0;0

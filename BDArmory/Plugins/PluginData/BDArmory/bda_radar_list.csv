@@ -6,11 +6,11 @@ ew.liana;Liana Airborne Early Warning Radar;BahamutoD;Bahamuto Dynamics;1.45;600
 bahaGoalKeeper;Goalkeeper CIWS;BahamutoD;Bahamuto Dynamics;4;950;50;1523.15;Goalkeeper CIWS Radar;SAM;True;90;10;240;120;4;True;30;2;True;True;True;True;1;0.1;20@10;40@10
 BDAcGKmk2;Goalkeeper MK2 CIWS;BahamutoD;Bahamuto Dynamics;4.4;950;50;1523.15;Goalkeeper Data Receiver;SAM;True;90;10;120;120;4;True;30;2;False;False;False;True;1;0.1;0@-3.402823E+38;0@-3.402823E+38
 scanLockRadar1;TWS Locking Radar;BahamutoD;Bahamuto Dynamics;1;600;7;1523.15;TWS Locking Radar;SAM;True;90;10;300;120;4;True;30;2;True;True;True;True;1;0.15;40@30;50@30
-radarsuper2;ultimateradar;BahamutoD;Bahamuto Dynamics;1;600;7;1523.15;TWS Locking Radar;SAM;True;90;10;300;120;4;True;30;2;True;True;True;True;1;0;0@1000;0@1000
+radarsuper2;ultimateradar;BahamutoD;Bahamuto Dynamics;1;600;7;1523.15;TWS Locking Radar;SAM;True;90;10;300;120;4;True;30;2;True;True;True;True;1;1;0@1000;0@1000
 scanLargeRadar;Large Detection Radar;BahamutoD;Bahamuto Dynamics;1.45;600;7;1523.15;Large Detection Radar;DETECTION;True;90;10;110;120;4;False;30;2;True;False;False;True;1;0.2;30@40;0@-3.402823E+38
 radarDataReceiver;Radar Data Receiver;BahamutoD;Bahamuto Dynamics;0.05;600;7;1523.15;Radar Data Receiver;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
 bdRadome1;AN/APG-63 Radome;BahamutoD;Bahamuto Dynamics;0.375;320;40;1000;AN/APG-63V2 Radome;FIGHTER;False;120;10;120;120;4;True;40;2;True;True;True;False;3;0.1;25@35;35@35
-radarsuper;ultimateradar;BahamutoD;Bahamuto Dynamics;0.375;320;40;1000;AN/APG-63V2 Radome;FIGHTER;False;120;10;120;120;4;True;40;2;True;True;True;False;3;0;0@1000;0@1000
+radarsuper;ultimateradar;BahamutoD;Bahamuto Dynamics;0.375;320;40;1000;AN/APG-63V2 Radome;FIGHTER;False;120;10;120;120;4;True;40;2;True;True;True;False;3;1;0@1000;0@1000
 bdRadome1GA;APG-77v1 air-to-ground Radar;BahamutoD;Bahamuto Dynamics;0.375;320;40;1000;APG-77 atg;FIGHTER;False;120;10;120;120;4;True;40;2;True;True;True;False;3;1.7;35@40;40@40
 bdRadome1inline;AN/APG-63 Inline Radome;BahamutoD;Bahamuto Dynamics;0.375;320;40;1000;AN/APG-63V2 Inline Radome;FIGHTER;False;120;10;120;120;4;True;40;2;True;True;True;False;3;0.1;25@35;35@35
 trg.ai23;AI.23 AIRPASS Radar;BahamutoD;Bahamuto Dynamics;0.375;320;40;1000;AI.23 AIRPASS Radar;FIGHTER;False;55;10;100;20;20;False;30;2;True;True;False;True;1;0.1;135.8279@76.84827;150@64
@@ -19,7 +19,7 @@ trg.apq120;AN/APQ-120 Targeting Radar;BahamutoD;Bahamuto Dynamics;0.375;320;40;1
 trg.rp2u;RP-2U Izumrud-2 Targeting Radar;BahamutoD;Bahamuto Dynamics;0.375;320;40;1000;RP-2U Izumrud-2 Targeting Radar;FIGHTER;False;20;10;30;20;20;False;30;2;True;True;False;True;1;0.1;90@10;35@35
 trg.al17;Air Interception Radar Al.17;BahamutoD;Bahamuto Dynamics;0.375;320;40;1000;Air Interception Radar Al.17;FIGHTER;False;45;10;30;45;45;False;30;2;True;True;False;True;1;0.1;499.0458@40.32608;35@35
 trg.apg51;AN/APG-51 Targeting Radar;BahamutoD;Bahamuto Dynamics;0.375;320;40;1000;AN/APG-51 Targeting Radar;FIGHTER;False;45;10;30;45;45;False;30;2;True;True;False;True;1;0.1;499.0458@40.32608;35@35
-grnd.radar1;Radar Beam Guidance Radar;BahamutoD;Bahamuto Dynamics;0.375;320;40;1000;Radar Beam Guidance Radar;FIGHTER;False;10;10;30;20;20;False;30;2;True;True;False;True;1;1;90@10;35@35
+grnd.radar1;Radar Beam Guidance Radar;BahamutoD;Bahamuto Dynamics;0.375;320;40;1000;Radar Beam Guidance Radar;FIGHTER;False;90;10;360;360;45;False;30;4;True;True;False;True;1;2;90@90;35@35
 bdRadome1inlineGA;APG-77v1 air-to-ground Radar (Inline);BahamutoD;Bahamuto Dynamics;0.375;320;40;1000;APG-77 atg;FIGHTER;False;120;10;120;120;4;True;40;2;True;True;True;False;3;1.7;35@40;40@40
 bdRadome1snub;AN/APG-63 Radome;BahamutoD;Bahamuto Dynamics;0.375;320;40;1000;AN/APG-63V1 Radome;FIGHTER;False;120;10;120;120;4;True;40;2;True;True;True;False;1;0.4;30@30;35@30
 bdRadome1snubGA;APG-77v1 air-to-ground Radar (Snub);BahamutoD;Bahamuto Dynamics;0.375;320;40;1000;APG-77 atg;FIGHTER;False;120;10;120;120;4;True;40;2;True;True;True;False;1;1.7;35@40;40@40

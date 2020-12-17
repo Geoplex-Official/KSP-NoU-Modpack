@@ -1,8 +1,8 @@
 Executing: KerbalEngineer - 1.1.7.2
 Assembly: C:\Program Files\KerbalSpaceProgram\KSP 1.10.1\GameData\KerbalEngineer\KerbalEngineer.dll
 
-[Log 14:40:19.7181777]: images (UnityEngine.AssetBundle)
-[Log 14:43:45.4958374]: Assembly: Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+[Log 21:52:21.8235300]: images (UnityEngine.AssetBundle)
+[Log 21:53:46.4824441]: Assembly: Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: Scale_Redist, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: ModuleManager, Version=4.1.4.0, Culture=neutral, PublicKeyToken=null
 Assembly: ClickThroughBlocker, Version=0.1.10.14, Culture=neutral, PublicKeyToken=null
@@ -27,6 +27,7 @@ Assembly: FerramAerospaceResearch, Version=0.16.0.1, Culture=neutral, PublicKeyT
 Assembly: ferramGraph, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: Scale_Redist, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: Firespitter, Version=7.3.7287.12431, Culture=neutral, PublicKeyToken=null
+Assembly: VLSLauncher, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: FShangarExtender, Version=3.6.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: HullBreach, Version=0.1.8.1, Culture=neutral, PublicKeyToken=null
 Assembly: KerbalEngineer, Version=1.1.7.2, Culture=neutral, PublicKeyToken=null
@@ -35,7 +36,6 @@ Assembly: KerbalJointReinforcementNext, Version=4.1.15.0, Culture=neutral, Publi
 Assembly: ACA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: KSPWheel, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: SM_MalFuncIndustries, Version=0.1.0.5, Culture=neutral, PublicKeyToken=null
-Assembly: AntiSubmarineWeapon, Version=0.8.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: PhysicsRangeExtender, Version=1.19.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: ProceduralParts, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: QuickStart, Version=2.2.0.10, Culture=neutral, PublicKeyToken=null
@@ -52,17 +52,13 @@ Assembly: Scale, Version=2.4.3.21, Culture=neutral, PublicKeyToken=null
 Assembly: VesselMover, Version=1.10.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: ZeroMiniAVC, Version=1.1.0.1, Culture=neutral, PublicKeyToken=null
 
-[Log 14:43:45.4958374]: FlightEngineerCore->Awake
-[Log 14:43:50.1240153]: FlightEngineerCore->Start
-[Log 14:43:51.6976749]: FlightEngineerCore->OnDestroy
-[Log 14:45:18.2480922]: BuildAdvanced->OnDestroy
-[Log 14:45:22.4600459]: ActionMenu->Awake
-[Log 14:45:22.4604949]: FlightEngineerCore->Awake
-[Log 14:45:29.7704250]: ActionMenu->Start
-[Log 14:45:29.7904292]: FlightEngineerCore->Start
-[Log 14:50:04.7956668]: ActionMenu->OnDestroy
-[Log 14:50:04.9187561]: FlightEngineerCore->OnDestroy
-[Log 14:50:05.6098248]: ActionMenu->Awake
-[Log 14:50:05.6098248]: FlightEngineerCore->Awake
-[Log 14:50:10.4851798]: ActionMenu->Start
-[Log 14:50:10.5051884]: FlightEngineerCore->Start
+[Log 21:53:46.4824441]: FlightEngineerCore->Awake
+[Log 21:53:50.6813928]: FlightEngineerCore->Start
+[Log 21:53:51.8606596]: FlightEngineerCore->OnDestroy
+[Log 21:54:38.9893371]: BuildAdvanced->OnDestroy
+[Log 21:54:41.9029482]: ActionMenu->Awake
+[Log 21:54:41.9029482]: FlightEngineerCore->Awake
+[Log 21:54:48.6176711]: ActionMenu->Start
+[Log 21:54:48.6396760]: FlightEngineerCore->Start
+[Log 21:59:07.8295232]: ActionMenu->OnDestroy
+[Log 21:59:08.0955841]: FlightEngineerCore->OnDestroy

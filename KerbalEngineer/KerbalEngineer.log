@@ -1,8 +1,8 @@
 Executing: KerbalEngineer - 1.1.7.2
 Assembly: C:\Program Files\KerbalSpaceProgram\KSP 1.10.1\GameData\KerbalEngineer\KerbalEngineer.dll
 
-[Log 14:40:19.7181777]: images (UnityEngine.AssetBundle)
-[Log 14:43:45.4958374]: Assembly: Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+[Log 22:09:25.7751472]: images (UnityEngine.AssetBundle)
+[Log 22:12:47.5474167]: Assembly: Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: Scale_Redist, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: ModuleManager, Version=4.1.4.0, Culture=neutral, PublicKeyToken=null
 Assembly: ClickThroughBlocker, Version=0.1.10.14, Culture=neutral, PublicKeyToken=null
@@ -52,17 +52,12 @@ Assembly: Scale, Version=2.4.3.21, Culture=neutral, PublicKeyToken=null
 Assembly: VesselMover, Version=1.10.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: ZeroMiniAVC, Version=1.1.0.1, Culture=neutral, PublicKeyToken=null
 
-[Log 14:43:45.4958374]: FlightEngineerCore->Awake
-[Log 14:43:50.1240153]: FlightEngineerCore->Start
-[Log 14:43:51.6976749]: FlightEngineerCore->OnDestroy
-[Log 14:45:18.2480922]: BuildAdvanced->OnDestroy
-[Log 14:45:22.4600459]: ActionMenu->Awake
-[Log 14:45:22.4604949]: FlightEngineerCore->Awake
-[Log 14:45:29.7704250]: ActionMenu->Start
-[Log 14:45:29.7904292]: FlightEngineerCore->Start
-[Log 14:50:04.7956668]: ActionMenu->OnDestroy
-[Log 14:50:04.9187561]: FlightEngineerCore->OnDestroy
-[Log 14:50:05.6098248]: ActionMenu->Awake
-[Log 14:50:05.6098248]: FlightEngineerCore->Awake
-[Log 14:50:10.4851798]: ActionMenu->Start
-[Log 14:50:10.5051884]: FlightEngineerCore->Start
+[Log 22:12:47.5474167]: FlightEngineerCore->Awake
+[Log 22:12:52.0204396]: FlightEngineerCore->Start
+[Log 22:12:53.5937684]: FlightEngineerCore->OnDestroy
+[Log 22:12:57.4564451]: ActionMenu->Awake
+[Log 22:12:57.4564451]: FlightEngineerCore->Awake
+[Log 22:13:01.4556561]: ActionMenu->Start
+[Log 22:13:01.4766606]: FlightEngineerCore->Start
+[Log 22:14:40.2780319]: FlightEngineerCore->OnDestroy
+[Log 22:14:41.1380126]: ActionMenu->OnDestroy

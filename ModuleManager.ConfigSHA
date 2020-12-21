@@ -1,4 +1,4 @@
-SHA = 4A-1B-81-BD-A2-DA-78-56-AE-6C-27-8D-11-66-2C-11-A9-84-15-0D-81-B5-EC-49-65-29-FA-57-D3-74-56-14
+SHA = 65-EA-D1-E2-9D-C5-8C-F8-63-A4-DE-79-F5-16-D6-B0-34-BB-D4-7B-53-9E-4F-C9-8D-FB-07-21-E2-62-18-81
 version = 4.1.4.0
 KSPVersion = 1.10.1.2939
 FilesSHA
@@ -8542,6 +8542,1041 @@ FilesSHA
 	{
 		filename = Squad/Tutorials/GoForOrbit.cfg
 		SHA = C7-0F-13-FC-08-AA-F5-1C-35-48-11-DD-17-E0-5F-FB-1C-ED-77-A4-EA-0C-CA-C1-D8-54-2D-74-8B-35-B4-92
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Missions/MissionPacks.cfg
+		SHA = 1D-AB-8C-F4-0D-9C-F4-B9-29-79-7A-81-41-93-0F-12-1A-73-CC-C1-40-B4-34-E3-D8-FF-71-00-A8-75-4D-14
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Nodes/AccuracyLogic.cfg
+		SHA = AB-A5-1A-72-F7-75-DA-3A-69-06-E4-02-A4-C8-5A-58-D0-2A-2C-D9-B2-F1-69-58-5E-BE-55-8B-AF-83-60-19
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Nodes/ActionChancePartResourceLevels.cfg
+		SHA = DA-AF-BC-4F-44-27-A5-4E-0C-04-4D-89-7E-A9-03-8C-3D-70-74-56-C6-90-2C-F2-2D-48-B6-E6-5B-7A-DF-0D
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Nodes/ActionExplode.cfg
+		SHA = FC-83-B8-15-AF-82-15-A2-C0-52-3A-DC-CA-7D-4E-97-A0-4F-3C-5F-26-7D-0D-5F-26-F9-D0-C8-A8-69-6A-D8
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Nodes/ActionMissionScore.cfg
+		SHA = A9-3A-D2-A2-F1-D7-26-BC-4A-7E-E6-2E-6C-C8-B2-E5-64-49-25-6D-CE-7E-F6-51-51-50-CE-6C-83-68-07-09
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Nodes/ActionModifierFunds.cfg
+		SHA = BA-78-2E-D5-19-4B-6F-8D-E5-35-68-E0-3C-54-7C-03-02-96-92-D8-48-EC-C3-A0-D3-6A-06-2A-75-CA-7F-A9
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Nodes/ActionModifierScore.cfg
+		SHA = 2E-7F-14-8B-80-93-51-72-B4-F6-F5-67-B9-10-39-82-E8-8E-CC-3C-3E-73-2F-BC-FA-DE-5F-CF-54-65-4F-F6
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Nodes/ActionPartExplode.cfg
+		SHA = BB-A2-ED-1B-A2-2D-C8-3B-D6-DA-00-F5-58-A5-32-DA-9A-3D-58-D4-A7-EB-39-DF-5F-6F-90-6A-C0-08-19-50
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Nodes/ActionPartResourceDrain.cfg
+		SHA = 32-47-EB-AF-66-F2-50-9A-A1-FA-38-76-ED-D4-06-3B-2B-12-CE-7B-FA-1C-F5-3C-D3-05-97-64-1B-41-20-17
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Nodes/ActionVesselActionGroup.cfg
+		SHA = 0E-BA-D1-B8-EE-37-19-8C-02-34-85-55-5C-81-BC-11-E9-E0-A3-27-F4-92-EE-D4-A6-41-41-43-B4-C5-D9-30
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Nodes/ActionVesselStage.cfg
+		SHA = 1E-6F-63-3F-4E-06-4A-2D-15-9D-11-E1-F9-EE-A3-36-23-CF-8F-14-1F-11-73-7A-95-24-6A-5C-9A-5C-37-F2
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Nodes/CreateAsteroid.cfg
+		SHA = E8-87-B0-C1-00-F3-CF-2F-7B-A9-C7-F4-28-FB-76-E1-B9-3B-DC-44-B5-6B-9E-45-8D-53-4B-12-8E-A4-1A-F2
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Nodes/CreateComet.cfg
+		SHA = F4-FD-5B-34-83-DF-59-47-77-A0-10-1F-8D-7E-AB-49-56-B1-A5-20-D2-81-73-13-A2-6F-D5-99-E7-00-F6-4E
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Nodes/CreateFlag.cfg
+		SHA = 22-7B-B3-F0-E2-E2-01-A5-DE-58-E2-29-C4-7E-61-8A-FD-6A-CE-5C-E3-79-92-EE-48-D9-22-6C-1E-BC-F6-1B
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Nodes/CreateLaunchSite.cfg
+		SHA = 55-86-5F-18-A0-33-25-E1-68-9D-1A-39-7A-AF-E1-59-C5-CD-7A-95-C6-AF-52-55-F1-F1-4B-2C-2F-C8-3D-B2
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Nodes/CreateVessel.cfg
+		SHA = 60-B1-04-7A-DD-92-68-32-F1-72-9C-39-96-D0-3F-59-46-62-F0-F2-E0-80-15-3B-C5-88-6C-37-58-56-D0-BC
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Nodes/CrewAssignment.cfg
+		SHA = E3-E5-52-57-AC-84-DE-03-DB-95-A0-59-CF-2E-B4-4A-83-6D-AF-25-46-67-B1-92-53-8A-5D-B9-42-07-4A-0A
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Nodes/Destroyed.cfg
+		SHA = 26-F9-CD-44-97-8B-FF-CC-C3-0F-02-B0-46-8F-6C-B4-CD-5F-19-93-8D-15-27-66-CB-68-CA-B6-30-8E-8A-10
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Nodes/DialogMessage.cfg
+		SHA = 86-DA-D6-22-CE-65-A6-54-45-95-46-20-AA-1C-48-5E-EB-5D-59-49-2F-D6-B5-DB-7A-EA-BB-1C-66-EA-C8-7A
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Nodes/Distance.cfg
+		SHA = F8-35-9E-AF-BC-E3-C3-03-7C-AE-16-05-19-0E-5C-23-49-43-9D-E1-D3-12-B1-6D-F0-33-DB-3D-DC-46-3F-B4
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Nodes/EmptyFalse.cfg
+		SHA = 5D-C2-37-08-0E-D0-9B-D1-AC-FD-C2-F4-09-66-03-15-18-B7-F2-26-FE-44-FB-41-9B-0F-16-47-2C-58-CD-8A
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Nodes/EmptyTrue.cfg
+		SHA = AC-A9-6F-BA-C9-BF-71-A4-05-C3-E0-DA-5B-68-BB-C7-64-1C-9E-AB-AF-F5-06-FF-33-D2-69-9E-7A-78-10-1A
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Nodes/EscapeSOI.cfg
+		SHA = 49-F8-36-06-5B-3B-24-2D-A7-E1-22-0E-C0-4B-13-8D-92-47-29-80-31-DB-34-F5-95-CF-FA-85-D2-23-28-56
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Nodes/EVA.cfg
+		SHA = 9A-1E-BD-C6-5E-27-17-83-A4-18-22-94-16-6F-2B-AB-2B-54-5D-15-50-4F-6F-BA-86-1E-04-2B-53-8F-01-33
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Nodes/Flying.cfg
+		SHA = A2-9A-A3-4C-23-F1-7E-75-0A-E8-22-78-0E-F0-31-54-7D-EE-29-26-BB-BC-ED-65-F0-DC-18-DA-6B-8E-D0-62
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Nodes/FundsRecovery.cfg
+		SHA = F3-6F-A8-F2-F2-4C-BC-08-A8-A6-55-B0-B7-96-AD-52-2A-09-E5-FF-CC-81-91-F5-EB-7F-F4-75-5B-4A-3A-0E
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Nodes/KerbalBoarded.cfg
+		SHA = 05-25-FB-D9-58-6E-0E-3B-50-5F-35-50-0D-84-ED-FA-43-89-29-92-7C-4D-40-24-81-D6-FD-FF-9F-93-71-49
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Nodes/KerbalKilled.cfg
+		SHA = 22-2F-87-6E-B6-B6-9A-40-7A-FC-DC-AC-44-29-12-8B-45-F3-2B-78-1A-63-74-B9-1C-EC-6B-DD-93-30-8D-0E
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Nodes/KerbalRecovery.cfg
+		SHA = BA-4F-EF-16-56-89-A0-38-23-6D-C1-EB-C0-64-6D-38-45-0E-B9-42-7B-E5-81-7B-F2-18-8E-AC-07-D6-55-EC
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Nodes/KerbalRescue.cfg
+		SHA = D3-3D-41-07-91-DA-17-73-52-C1-06-F9-65-CE-F0-66-8F-7B-60-5C-FD-7E-D9-EC-5A-D5-36-81-FF-0B-31-60
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Nodes/Landed.cfg
+		SHA = 81-89-5D-A2-74-72-36-74-88-0A-BC-BB-2F-B7-7D-81-B3-71-E0-47-67-69-4D-E9-A1-92-71-57-B3-21-08-A8
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Nodes/Message.cfg
+		SHA = CD-E7-83-1D-D5-69-E2-41-7C-86-5E-A3-C7-84-EE-C8-AC-0F-B1-3D-B0-95-61-79-BE-9D-E6-71-CA-7E-30-ED
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Nodes/MissionFunds.cfg
+		SHA = 50-45-B9-1B-9B-05-F0-51-F1-FB-46-80-72-EF-9C-B7-DC-8F-40-42-D0-4A-C3-0B-1E-03-63-1D-D4-2A-D2-3F
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Nodes/MissionScore.cfg
+		SHA = 3F-34-E0-F6-48-EC-48-BA-97-E4-EC-E0-3F-4B-FB-BA-B7-CA-62-1A-CF-7A-0C-3D-33-BD-F3-B6-5A-33-C4-FF
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Nodes/Orbit.cfg
+		SHA = B3-74-84-40-FD-A1-F8-2A-60-6F-B4-B8-85-CE-92-24-42-BA-C6-56-8C-3A-2D-4B-C8-65-AC-F2-59-9D-0C-EA
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Nodes/OrbitParams.cfg
+		SHA = 08-5E-CD-FA-85-79-C5-CB-51-AD-79-DA-C3-BD-08-79-41-8E-C0-C6-84-68-80-72-0A-31-0A-E7-81-E5-60-69
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Nodes/PartDocking.cfg
+		SHA = 84-98-08-A2-B0-93-79-69-D7-D2-B2-47-C4-BB-49-BC-57-37-6B-4D-8E-CA-08-54-CA-85-48-50-0F-1A-FA-DC
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Nodes/PartFailure.cfg
+		SHA = 7D-53-EC-6D-6C-6B-69-1B-F5-14-46-7E-9F-50-12-EA-E0-31-FF-27-9B-0E-00-56-20-F3-26-F9-D9-AA-F6-3E
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Nodes/PartGrapple.cfg
+		SHA = AF-E4-0B-D2-2C-BC-41-2B-33-E0-54-13-EF-85-EF-3E-F6-3F-18-81-38-D6-A3-05-B7-18-00-4C-99-80-FE-0C
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Nodes/PartRepair.cfg
+		SHA = 2B-9F-5C-1A-DD-35-FF-95-73-2E-8C-1E-C0-8D-84-B0-55-15-5B-F7-39-CC-02-02-D0-38-1B-8C-83-9F-99-56
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Nodes/PlaceKerbal.cfg
+		SHA = 71-C5-D4-22-33-B5-9E-23-74-AC-9E-E0-87-37-64-E6-B7-48-A1-50-C1-90-D1-FE-22-B1-9E-D0-F8-7E-5E-F1
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Nodes/PlantFlag.cfg
+		SHA = BC-5F-08-02-1A-55-48-1C-2A-25-A6-AC-58-50-73-C1-24-AF-B0-D5-11-86-47-71-98-A7-B1-C3-7C-BC-65-64
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Nodes/ReachSOI.cfg
+		SHA = C4-81-23-9C-B9-B6-D0-B2-B1-8A-22-7B-D3-22-14-C3-3A-86-31-A5-1D-86-EB-AB-47-44-BB-99-C5-C7-70-6F
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Nodes/Resource.cfg
+		SHA = 82-80-2D-E2-22-EC-26-A0-0F-7A-E2-4F-76-62-32-AE-E2-15-BA-28-EC-51-2A-25-86-13-3C-1A-88-43-7D-61
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Nodes/ResourceRecovery.cfg
+		SHA = 61-F0-25-4E-48-04-F3-24-07-9D-DE-ED-A5-9C-5D-D9-3F-34-C4-17-44-B8-31-22-F9-94-7C-15-E4-D3-02-BD
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Nodes/ScienceExperiment.cfg
+		SHA = 5E-86-12-F7-0A-AF-81-9D-9D-58-4B-27-49-6A-C8-FD-96-EA-2D-26-62-35-52-B4-47-CA-59-75-5B-A5-0A-CB
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Nodes/SetCamera.cfg
+		SHA = DD-DA-BA-0B-8F-E0-5A-66-A6-49-A9-2A-EF-48-52-3F-91-42-9B-3A-58-68-2C-C9-85-49-C8-C9-EF-7D-CA-28
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Nodes/SplashDown.cfg
+		SHA = 27-91-58-6D-64-0E-01-B3-86-1C-C5-7A-D6-A9-8E-DD-20-D3-89-2B-D6-DC-29-59-B6-B0-49-45-A8-04-71-58
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Nodes/StageActivated.cfg
+		SHA = C1-C7-23-B9-1B-B5-9E-CA-23-FD-49-FB-28-2F-62-CC-4E-FC-4F-B9-F7-67-A0-4A-FC-9E-D2-28-2D-4C-9C-2D
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Nodes/TakeKerbal.cfg
+		SHA = 1F-2A-BE-58-1E-59-E6-17-E7-0A-DA-0C-C3-14-A3-68-0B-83-DE-E1-5D-DD-8F-3D-B9-1C-33-CC-AE-C6-B0-CF
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Nodes/TestFlyThrough.cfg
+		SHA = 56-60-BB-64-B4-85-DA-D7-BF-06-F8-9F-6C-BC-6A-A0-52-90-54-98-36-4F-73-FD-BC-F7-C2-2B-13-32-0E-DF
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Nodes/TestGoTo.cfg
+		SHA = DA-7C-25-08-76-A6-18-61-7C-A5-40-15-2A-E6-F6-DF-B6-A0-85-52-8F-98-A8-EA-83-85-77-5E-B0-0D-B6-4F
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Nodes/TimeMET.cfg
+		SHA = 87-C6-EB-9F-77-0F-56-4E-28-56-17-92-A1-7C-8B-E9-63-D3-6D-C4-1D-0E-36-26-56-1D-9C-96-37-C7-12-B2
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Nodes/TimeOfMission.cfg
+		SHA = B7-1B-50-DF-5D-DD-CC-7B-06-49-5A-8C-A4-E0-B8-21-96-67-4B-72-AD-58-BC-7C-DF-17-74-9E-7D-A4-D0-BF
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Nodes/TimeSinceNode.cfg
+		SHA = C6-BA-B2-73-42-B1-D5-59-28-26-D9-0D-4F-F9-07-BE-91-D3-00-B3-07-AA-20-35-01-07-28-1A-98-50-1D-96
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Nodes/VesselActiveCount.cfg
+		SHA = EE-CF-60-2D-57-64-84-4B-2E-2B-86-2A-31-62-3E-A6-38-56-02-E5-38-5C-3E-4A-74-32-80-FC-A9-DF-53-29
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Nodes/VesselAltitudeGoal.cfg
+		SHA = 69-DE-7D-70-F1-44-30-7D-77-E0-76-12-0B-D5-08-D3-76-BF-F5-EF-CA-F0-36-02-BE-10-F9-DC-2E-98-A7-3B
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Nodes/VesselCrewCount.cfg
+		SHA = FF-22-F1-B5-36-4C-BF-EE-B1-66-7C-FD-CE-76-99-BD-3E-6B-DD-52-E4-19-56-9B-99-36-43-B2-DD-C9-03-09
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Nodes/VesselMassLogic.cfg
+		SHA = E2-C7-2F-DC-EA-73-1F-D7-6F-51-20-D2-FF-55-D8-9A-67-59-2C-4F-05-9B-37-25-B9-D7-0E-FF-60-B1-3A-AA
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Nodes/VesselPartCount.cfg
+		SHA = 0C-8D-00-95-F7-06-BB-DE-3D-A6-45-43-E0-38-33-11-1D-8D-1F-03-C0-F4-6A-90-1E-E1-4F-DF-56-7F-90-46
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Nodes/VesselRecovery.cfg
+		SHA = F0-B2-B9-2E-02-2F-69-2B-39-DB-56-E5-BB-A8-23-03-26-B3-46-01-FE-B0-9A-49-B6-91-BA-4A-55-1C-47-39
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Nodes/VesselStage.cfg
+		SHA = 0F-CC-07-E2-C1-73-81-24-F0-FA-6A-F1-2D-3B-FD-6E-94-7F-6D-8F-B2-15-23-8F-86-A0-7B-91-B5-67-CE-87
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Nodes/VesselVelocity.cfg
+		SHA = 34-72-29-F2-4A-99-E1-81-88-71-2A-C0-F4-A8-05-35-48-6F-AD-8A-F6-34-B0-D2-17-0B-BD-E3-81-F3-7E-6F
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/Aero/protectiveRocketNoseMk16/rocketNoseCone_size4.cfg
+		SHA = 39-CC-59-31-12-DA-34-A6-9B-23-DC-C6-09-A0-03-0B-38-39-30-1F-79-1E-3F-AF-D0-71-B3-48-C6-B4-76-A6
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/Aero/protectiveRocketNoseMk5A/Size_1_5_Cone.cfg
+		SHA = 57-DA-F8-1B-83-F0-6B-BF-26-24-03-82-B0-4E-E2-89-19-3E-BB-F5-5B-89-2C-9C-56-AE-D4-62-1D-1B-E4-A5
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/Coupling/Decoupler_1p5.cfg
+		SHA = B9-EB-25-9B-6B-DD-25-D5-BD-1F-41-3B-D1-CA-F0-2B-CC-C5-10-70-FA-02-9F-D3-BB-47-EF-B4-09-31-06-63
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/Coupling/Decoupler_4.cfg
+		SHA = 78-19-31-FC-C7-C4-50-C7-29-1F-62-D1-D9-AA-0A-90-5C-58-F8-A8-03-37-10-43-36-C0-09-B9-21-DB-D8-E9
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/Coupling/EnginePlate_1p5.cfg
+		SHA = 94-39-C0-8A-D9-A0-4B-E7-EE-89-E5-6E-A4-5E-AB-DE-FA-73-D3-CE-7A-28-22-68-F9-79-A4-D6-C9-C7-0E-05
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/Coupling/EnginePlate_2.cfg
+		SHA = 92-9F-A5-8E-F6-EC-E7-89-4B-95-B7-B7-C4-AA-C4-85-D3-89-6A-55-4F-12-3E-D6-0E-AC-55-EE-08-80-2C-28
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/Coupling/EnginePlate_3.cfg
+		SHA = 6C-84-37-1A-A3-FF-64-03-7B-F0-76-F0-04-9B-90-1E-DA-A6-4B-38-07-70-99-02-26-77-8F-39-D4-A5-C3-03
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/Coupling/EnginePlate_4.cfg
+		SHA = 2E-DF-F0-EE-69-CB-79-46-D2-01-23-9E-CE-5D-66-32-27-2C-95-45-D7-78-6A-3C-BE-94-23-8A-4F-33-57-5D
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/Coupling/InflatableAirlock.cfg
+		SHA = 00-B8-DB-C0-FC-7A-1E-DE-75-7A-1E-8A-6C-A0-0A-CB-2C-C2-52-CF-CE-C1-7A-69-CB-DA-BF-04-F2-71-B2-C0
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/Coupling/Separator_1p5.cfg
+		SHA = FE-23-DC-12-DD-CE-62-52-EE-5D-B9-7D-BA-46-09-D4-9C-D0-BB-4D-15-F2-C4-18-3B-65-54-E2-ED-84-84-03
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/Coupling/Separator_4.cfg
+		SHA = B8-EF-74-EA-66-DD-A8-97-43-96-09-FB-0E-BC-32-7E-2C-9F-A9-9E-70-AD-1D-EF-46-F8-BC-54-C1-70-9C-E1
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/Coupling/Size1p5_Strut_Decoupler.cfg
+		SHA = FE-19-23-CE-5B-BA-5C-16-BE-66-77-4E-46-A6-8D-0B-F6-DE-87-05-58-00-7C-36-85-F2-9F-BC-D3-21-64-EF
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/Engine/LiquidEngineKE-1.cfg
+		SHA = 19-42-24-04-67-72-7D-C7-91-9A-F1-5C-5F-BC-6A-9E-9E-18-9B-AE-15-AD-AF-EE-CF-F0-42-AB-32-40-43-8E
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/Engine/LiquidEngineLV-T91.cfg
+		SHA = B7-85-0C-6D-86-9B-57-DB-92-A2-E0-61-CE-56-E9-19-18-0D-65-46-11-33-76-E9-D0-9D-FA-36-E9-D5-53-64
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/Engine/LiquidEngineLV-TX87.cfg
+		SHA = A0-D0-35-6B-14-56-1D-D8-D3-1C-78-7E-1B-75-F9-84-45-31-72-93-D4-2B-B0-B7-B2-E4-AD-81-E1-8A-3F-A6
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/Engine/LiquidEngineRE-I2.cfg
+		SHA = 56-6A-D9-67-75-41-9E-06-C4-CB-5C-92-84-F4-23-68-44-1A-69-53-06-0C-DC-62-A3-67-12-03-3A-DD-2D-C2
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/Engine/LiquidEngineRE-J10.cfg
+		SHA = 58-8A-A0-6C-C5-FA-CD-C2-8D-8D-6A-B5-35-AC-C3-55-8B-44-3E-9E-B5-10-2D-40-FC-07-7D-9B-08-5A-A9-E2
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/Engine/LiquidEngineRK-7.cfg
+		SHA = 2B-9C-AA-18-5F-55-EC-58-94-4D-01-F3-8D-99-B0-0D-AC-BA-9E-AC-4D-F4-01-C8-56-F0-B8-DD-B6-0B-B2-64
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/Engine/LiquidEngineRV-1.cfg
+		SHA = 6D-3D-D9-34-86-B3-5E-48-2A-BB-B8-7D-B1-8B-55-99-6D-CF-9F-56-DA-30-0C-D0-5C-5C-B7-3B-43-03-56-A6
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/Engine/solidBoosterTHK/solidBoosterTHK.cfg
+		SHA = 34-DC-39-3C-2E-5E-8B-08-7C-12-DE-D7-1D-4E-C2-35-23-99-47-0A-2F-97-37-C5-60-7E-5A-A6-2A-04-8C-D7
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/FuelTank/MonoPropMini.cfg
+		SHA = D3-9A-D1-32-CD-8A-35-CD-FF-4E-09-2D-C2-27-BB-3E-92-A4-E9-84-72-84-1B-7D-FC-25-07-58-B8-C7-2A-88
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/FuelTank/Size1p5_Monoprop.cfg
+		SHA = EF-C1-E9-E8-D4-C3-87-A8-78-EA-48-A3-BA-9F-53-07-F0-48-5C-55-6B-F3-8C-BB-85-27-95-AD-98-8B-7C-D5
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/FuelTank/Size1p5_Size0_Adapter_01.cfg
+		SHA = 6D-FB-51-26-89-65-0B-33-1C-95-96-60-93-B6-48-42-CE-44-A2-AA-22-30-9B-57-18-E5-1D-50-69-9F-E8-9A
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/FuelTank/Size1p5_Size1_Adapter_01.cfg
+		SHA = 8C-55-82-92-B8-B4-0E-29-FB-56-45-CE-98-1E-38-71-3E-C0-A1-B7-40-5E-1C-5A-60-E7-21-B4-19-43-97-DF
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/FuelTank/Size1p5_Size1_Adapter_02.cfg
+		SHA = 42-1B-53-4A-2C-AF-74-F6-0C-53-0A-57-35-3A-AE-CE-78-5B-4A-D0-6D-01-7B-48-CE-FF-B8-6C-F7-21-18-7B
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/FuelTank/Size1p5_Size2_Adapter_01.cfg
+		SHA = F1-49-BD-48-D6-D8-8F-EE-A7-AF-EC-B8-E3-A3-99-7A-F1-F8-B3-E8-2F-29-FC-96-49-B8-9F-72-65-48-F5-E7
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/FuelTank/Size1p5_Tank_01.cfg
+		SHA = 35-36-0E-FD-F0-9A-6A-F0-A1-C6-57-8D-09-46-BA-4D-72-AF-7C-AF-DB-30-0D-98-6D-A2-92-C5-7B-ED-92-38
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/FuelTank/Size1p5_Tank_02.cfg
+		SHA = D1-6C-ED-9D-13-68-31-FE-FA-DD-BF-48-BF-D8-72-E6-AE-F0-4D-16-23-56-59-8F-42-85-34-AB-E0-2F-E2-40
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/FuelTank/Size1p5_Tank_03.cfg
+		SHA = F0-DE-83-CC-EC-C4-C4-FE-B3-7F-08-E6-9D-DF-23-1E-9B-3C-69-08-67-C3-39-BD-37-BC-35-B6-A1-EA-12-A7
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/FuelTank/Size1p5_Tank_04.cfg
+		SHA = ED-48-47-FF-4B-29-A5-6D-08-EE-5C-E4-D0-14-AE-E4-D8-F4-68-C0-DB-CB-BA-5C-04-D8-71-66-AD-CF-FE-4E
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/FuelTank/Size1p5_Tank_05.cfg
+		SHA = 3B-63-07-86-C0-42-C5-91-41-D7-D8-30-44-C9-3D-49-A4-A4-8C-6C-D7-56-CF-B3-BE-CB-18-7C-D1-EC-B8-0B
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/FuelTank/Size3_Size4_Adapter_01.cfg
+		SHA = 18-79-FE-8F-19-22-99-8C-20-AA-9A-79-6A-98-99-5D-B3-74-E6-66-3A-18-C3-C3-4C-26-B9-5F-7E-84-5A-D0
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/FuelTank/Size4_EngineAdapter_01.cfg
+		SHA = 9D-0E-95-63-6D-7E-B4-4A-AA-A2-E4-3D-47-E7-FA-DC-8E-2C-05-A1-18-44-18-3B-06-2C-03-7B-07-95-B3-89
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/FuelTank/Size4_Tank_01.cfg
+		SHA = 30-C7-85-30-FB-01-E4-EC-8A-3A-2E-3B-80-0F-7B-CE-B3-0C-B6-4B-01-2F-BC-BD-70-3C-34-0A-AF-A2-A1-28
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/FuelTank/Size4_Tank_02.cfg
+		SHA = A8-F1-11-39-2E-2F-B7-90-06-5D-A5-80-01-3A-8D-88-D7-D1-86-54-37-73-BA-86-9F-97-9C-E7-0B-8C-35-73
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/FuelTank/Size4_Tank_03.cfg
+		SHA = E0-5A-A0-AE-6C-B3-30-6C-D5-99-07-D9-37-96-C2-FD-A5-1B-20-A4-A9-26-AA-02-13-22-76-61-0B-A0-C1-C9
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/FuelTank/Size4_Tank_04.cfg
+		SHA = A2-99-01-E2-64-05-56-35-67-4F-04-37-6E-58-26-82-5C-72-52-F2-E7-E7-C3-A8-8B-04-CD-88-FD-23-71-D2
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/Ground/RoverWheel.cfg
+		SHA = BB-07-C8-F6-51-6D-A3-1A-26-C8-94-A8-5A-10-84-9F-84-05-6C-49-20-F1-0F-51-04-C6-A3-34-CF-5C-84-29
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/Payload/fairingSize1p5.cfg
+		SHA = F6-69-4E-17-D5-D9-21-0B-89-E2-31-B3-9A-5C-33-7B-E9-F2-F1-EB-D5-3B-FF-9C-BE-20-11-54-16-BD-95-D0
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/Payload/fairingSize4.cfg
+		SHA = 41-BF-52-0C-F5-5D-95-CE-A0-41-BF-DF-F5-41-2D-12-69-53-A0-77-5D-5A-C5-71-7D-DD-A5-09-FB-24-FE-A4
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/Payload/Size1to0ServiceModule.cfg
+		SHA = 43-7E-C6-CB-1E-15-3F-28-72-2C-41-D0-78-EC-96-C9-73-6D-A7-90-ED-10-37-BF-68-DC-93-1C-5F-76-AD-BE
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/Payload/SM18.cfg
+		SHA = 36-7B-BE-6D-2A-1B-D9-21-C6-B3-B5-77-54-BF-86-4D-A3-7A-B4-6A-71-48-BF-E5-9C-23-F2-F7-CA-55-56-90
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/Payload/SM25.cfg
+		SHA = FA-E9-63-B5-68-6B-E7-C9-90-9F-03-16-BF-E8-D7-62-27-09-BA-15-61-95-C3-E1-B1-C0-5D-A9-41-4F-03-42
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/Pods/KV1Pod.cfg
+		SHA = 18-22-9A-5F-F6-C6-BE-CD-96-43-DE-56-E6-29-8B-09-05-7C-84-05-F0-C3-BB-6C-03-76-81-87-93-87-73-77
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/Pods/KV2Pod.cfg
+		SHA = 20-0F-05-49-FB-53-74-7C-6A-75-FF-D2-47-AA-51-48-8D-3C-06-54-E3-54-6F-06-5C-EE-31-09-0A-31-93-51
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/Pods/KV3Pod.cfg
+		SHA = 24-EC-61-38-B2-C7-63-5F-7F-8D-D3-EB-81-E2-DC-F1-49-6D-CB-C9-34-09-6A-EF-0B-33-3E-03-7C-EF-ED-72
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/Pods/Mk2Pod.cfg
+		SHA = 00-1E-BA-6B-26-79-FB-04-C9-DA-AB-3E-B8-FA-2B-BB-93-BD-35-CC-56-3B-55-8B-F2-12-18-3F-AB-07-1B-94
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/Pods/Size1_5_Lander.cfg
+		SHA = 28-27-ED-A0-D4-1F-0A-BF-63-59-E7-93-1D-E7-14-FB-C6-DE-4E-C0-AB-75-DF-F2-AB-BB-62-F5-47-1E-33-F7
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/Prebuilt/kerbalEVAfemaleVintage.cfg
+		SHA = ED-38-54-07-E1-CF-83-5C-0B-45-3A-3F-17-6F-A8-07-E0-EB-32-A5-96-09-C2-EE-77-3F-07-6A-AC-17-9F-D9
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/Prebuilt/kerbalEVAVintage.cfg
+		SHA = 48-EA-BB-F9-C6-BA-DC-76-16-F0-BD-0B-2D-CE-FF-F4-9B-ED-B3-84-5F-51-13-2B-B3-48-7C-F4-EA-5F-75-88
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/Structural/EquiTriangle0.cfg
+		SHA = 21-F1-84-26-F9-E0-2B-A4-28-F0-99-55-12-D4-09-DA-3E-20-A2-F9-33-0E-42-05-AE-F9-2D-C2-57-AD-16-78
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/Structural/EquiTriangle1.cfg
+		SHA = 31-53-BF-9C-E9-E9-3B-1B-09-E1-23-E0-AC-23-4E-93-4A-70-5F-D5-3D-27-12-3A-0C-9C-8F-76-66-BA-E6-15
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/Structural/EquiTriangle1p5.cfg
+		SHA = 87-E9-18-1E-7F-84-81-1B-B6-54-32-08-82-87-63-0B-B2-8F-10-50-9B-A5-0F-8B-A7-AE-FB-1F-0A-4B-80-3A
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/Structural/EquiTriangle2.cfg
+		SHA = 34-74-45-F0-76-0B-3C-D6-40-DA-60-02-72-26-5E-3F-C1-DC-B9-0E-86-3E-E5-55-CD-92-BA-6B-89-78-8A-FE
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/Structural/Panel0.cfg
+		SHA = 82-78-BF-23-04-7F-0D-E6-F3-98-A0-E0-61-98-FF-E9-C9-B5-E4-BB-EF-66-A8-1C-18-85-EF-F6-12-E4-60-37
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/Structural/Panel1.cfg
+		SHA = A3-07-9E-1B-0B-92-4D-40-24-65-94-65-E3-7E-AA-DE-14-11-41-DC-EA-12-91-DE-4E-4D-E3-8C-07-14-D0-01
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/Structural/Panel1p5.cfg
+		SHA = CB-CA-23-19-36-30-1B-53-A9-AC-07-AD-96-BE-54-F6-80-75-E2-B2-51-AB-1F-EE-22-55-6D-08-D3-89-16-05
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/Structural/Panel2.cfg
+		SHA = 31-E0-A2-97-6A-AD-E9-E8-A7-35-E3-F4-29-DA-4A-4E-F7-FD-D9-DF-55-F9-52-E0-B6-68-1D-44-DF-0A-22-4F
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/Structural/Triangle0.cfg
+		SHA = 84-E3-C0-22-AA-3C-0A-51-AC-84-73-3E-DA-0B-D2-A7-08-6B-85-BD-C7-5E-8A-C4-92-47-AB-11-CA-B0-51-1A
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/Structural/Triangle1.cfg
+		SHA = 7D-7A-2B-5B-8F-13-F5-1C-0F-FE-F5-03-2D-29-58-CB-F3-86-F9-2D-CF-A7-D4-AC-E5-76-BC-A0-80-F5-FC-BB
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/Structural/Triangle1p5.cfg
+		SHA = 18-8C-35-C2-7C-4B-CA-4C-C5-7E-0D-75-CD-11-2C-FB-AD-41-FD-AF-5B-ED-DB-C7-EF-4F-50-81-DC-9D-68-BF
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/Structural/Triangle2.cfg
+		SHA = 19-44-FA-EE-E1-F7-8C-8D-D3-32-9F-CD-D3-4A-E2-3B-8D-59-EA-94-58-32-C8-8D-29-D9-69-24-9B-C3-8B-F9
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/Structural/Tube1.cfg
+		SHA = 06-DF-FF-31-E5-E5-BD-20-06-55-8A-77-82-23-AD-83-04-8F-61-62-0A-1B-96-44-BD-8F-83-D5-96-55-D9-E0
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/Structural/Tube1p5.cfg
+		SHA = C4-5D-3A-ED-BE-90-58-78-D6-42-F4-C9-F0-F7-DB-EF-29-6E-C2-3E-C3-72-01-50-2F-AF-A4-D3-BB-3D-E4-64
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/Structural/Tube2.cfg
+		SHA = 9F-6B-05-6C-53-1A-DD-45-AE-65-83-5B-9F-D2-32-3F-3C-E2-25-93-83-C9-90-43-5F-8E-09-61-B1-7D-55-CB
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/Structural/Tube3.cfg
+		SHA = 96-6D-53-06-41-9C-4A-5E-C4-F2-73-33-73-BC-E8-DE-64-81-37-B4-2B-1F-68-F0-D7-6F-3E-9A-B6-FE-7D-05
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/Structural/Tube4.cfg
+		SHA = ED-20-3F-43-0C-2B-DC-A2-71-54-2C-C3-3D-43-95-69-CD-DE-56-DC-35-93-8B-CD-E9-68-5E-5A-1F-4D-03-CF
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/Thermal/HeatShield1p5.cfg
+		SHA = 46-8C-73-0A-40-CE-71-37-D0-CA-DA-9C-41-3B-B7-24-53-D6-27-27-C6-E3-0E-24-B3-98-21-AF-88-B1-FF-55
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/Utility/flags/flagSize1p5/flagSize1p5.cfg
+		SHA = A7-2E-F0-64-49-CE-D9-CA-B9-EE-AE-85-9D-50-80-77-AD-CF-84-A0-76-D5-2E-D4-56-46-BA-F8-F0-A3-40-42
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Parts/Utility/flags/flagSize4/flagSize4.cfg
+		SHA = 14-BB-FF-D6-B4-F4-81-F2-FE-0B-C0-BE-FA-70-5B-06-29-2C-25-C9-76-4C-9D-21-F8-BC-45-6B-F3-C1-D3-E7
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Spaces/KVPods/Airlock_Internal.cfg
+		SHA = F5-B7-58-00-17-82-83-21-00-43-72-6D-54-0B-D9-DF-1B-42-27-97-4D-41-97-25-26-2B-BF-41-5B-4D-A0-E7
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Spaces/KVPods/KV1_Internal.cfg
+		SHA = 73-E0-A8-A1-F0-9E-79-8D-EA-E2-58-F6-71-3A-60-FC-E1-B2-54-68-31-69-5C-3C-30-C6-EA-66-E1-8A-15-C9
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Spaces/KVPods/KV2_Internal.cfg
+		SHA = 77-59-95-50-4B-2C-3E-AB-3D-36-66-6B-24-19-62-AB-79-FE-4D-CB-EF-A0-C3-7A-A9-7C-8D-AF-4B-92-22-21
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Spaces/KVPods/KV3_Internal.cfg
+		SHA = 85-3F-AD-86-A1-0E-1E-06-0F-7E-94-66-85-80-44-02-5A-3B-1B-8A-DD-54-81-D5-63-9C-33-BE-A8-02-44-3D
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Spaces/MEM/MEM_IVA.cfg
+		SHA = 8C-7D-86-00-3C-E4-ED-F7-82-5C-FA-77-68-08-6D-43-3B-F0-CA-5D-60-40-09-EE-74-95-2B-AB-8E-5D-8F-70
+	}
+	FILE
+	{
+		filename = SquadExpansion/MakingHistory/Spaces/Mk2Pod/Mk2Pod_Internal.cfg
+		SHA = 5C-7B-56-FD-62-A5-C0-89-84-7F-B9-F9-69-26-44-4A-82-58-0B-80-0E-CA-AB-DA-37-D8-56-AE-7C-66-5A-25
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Contracts/contracts.cfg
+		SHA = 0B-CB-42-9E-CC-62-17-87-2E-82-62-AA-5C-25-8D-9B-12-50-91-7C-22-96-39-7E-15-66-C0-02-BD-4C-D3-CF
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Experience/Traits.cfg
+		SHA = 01-B7-2B-39-55-B2-1A-2E-BA-BC-66-0C-46-A5-24-35-2E-33-9D-BE-54-46-A8-69-0C-1D-58-E6-A7-E4-D9-B4
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Localization/dictionary.cfg
+		SHA = 2C-6D-F9-F4-4E-F6-97-9C-7B-5B-40-26-FF-13-6C-57-0E-1E-61-89-63-6E-40-A6-46-DD-FE-9D-20-42-1F-1E
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Parts/Aero/FanShroud_01.cfg
+		SHA = 89-1C-46-1D-AE-73-C7-0C-6D-1B-FF-44-DA-A4-EA-D2-9C-6F-75-48-23-80-44-DC-10-91-84-C9-34-E7-7D-92
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Parts/Aero/FanShroud_02.cfg
+		SHA = F1-E9-E2-27-2F-B6-20-88-DD-5E-FE-29-31-DB-B8-03-27-99-2A-66-E0-50-29-9B-5A-1F-69-CB-A4-6C-E4-E9
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Parts/Aero/FanShroud_03.cfg
+		SHA = EA-C6-EC-EE-87-1C-11-98-1C-3E-AB-FB-B4-E5-0E-FA-F5-F7-88-8C-36-92-9E-33-74-39-3A-1C-55-CE-24-11
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Parts/Aero/noseconeTiny.cfg
+		SHA = 9B-38-2B-58-D1-0F-93-2A-9B-46-2B-F3-DE-73-B0-F8-0C-E8-8D-E4-AE-E7-98-23-47-2B-2B-4D-84-99-BF-86
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Parts/Aero/noseconeVS.cfg
+		SHA = 7E-5E-F9-C9-E1-37-1B-F2-B2-F6-02-F9-52-AE-5B-A2-0C-0A-24-9A-52-B6-CB-8B-4F-FF-96-27-9C-89-90-BE
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Parts/Cargo/cargoContainer/cargoContainer.cfg
+		SHA = 4F-21-9C-C5-54-9E-C0-08-E0-EB-25-28-A1-03-C1-C3-DD-E1-8B-16-82-1E-7F-50-82-86-2E-41-BA-1A-65-6D
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Parts/Cargo/smallCargoContainer/smallCargoContainer.cfg
+		SHA = 05-5B-1C-AA-0B-69-88-3D-4B-FD-81-26-9A-E1-41-9C-71-A8-57-61-17-AB-FD-86-7D-A8-5D-24-8C-31-43-68
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Parts/DeployedScience/centralStation.cfg
+		SHA = B0-54-5D-AA-98-F3-06-5A-27-51-91-27-E0-74-F3-49-05-B5-44-5A-71-F0-E7-30-49-03-60-06-5D-8C-C8-F2
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Parts/DeployedScience/gooObservation.cfg
+		SHA = A9-6F-04-4F-2D-C6-C3-5C-38-7C-67-84-AD-0F-1A-B7-DD-37-59-39-68-6F-9E-03-D0-51-22-26-95-FD-89-6F
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Parts/DeployedScience/ionCollector.cfg
+		SHA = D1-C1-B6-48-27-D9-65-46-C9-6D-47-9E-C4-74-87-92-3A-53-55-A8-11-05-A4-6C-9E-39-3C-15-94-86-37-82
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Parts/DeployedScience/rtg.cfg
+		SHA = D2-1F-62-79-0D-E8-DA-1A-C6-90-18-00-54-CC-32-1D-1E-E7-30-2A-6F-56-A0-B5-23-B8-A9-13-29-6F-02-16
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Parts/DeployedScience/satDish.cfg
+		SHA = D0-BA-0F-6A-8D-CB-6A-F1-23-8C-37-60-0E-1D-B1-44-DD-E0-83-DB-1E-1C-9C-34-A3-F1-8A-17-45-59-E2-B9
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Parts/DeployedScience/seismicSensor.cfg
+		SHA = 28-04-A9-02-D7-E6-81-B5-7C-14-50-14-90-EC-78-DF-1B-BD-BE-16-BE-4D-F9-23-D9-3C-A3-68-A2-94-08-ED
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Parts/DeployedScience/solarPanel.cfg
+		SHA = D0-53-97-D5-59-77-36-1A-68-A5-14-86-8F-37-E1-A2-61-4D-25-2E-6E-52-90-9A-89-6D-31-E3-58-4E-A8-7C
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Parts/DeployedScience/weatherStation.cfg
+		SHA = D4-25-F4-59-E0-16-A5-85-FA-8E-72-D2-36-6D-F9-6F-E5-E5-21-F9-1B-76-8E-7C-D3-90-B2-40-BB-9B-6E-A3
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Parts/Prebuilt/kerbalEVA.cfg
+		SHA = 8D-5A-75-C3-E2-B9-4E-B7-DD-7B-1D-D5-F7-BE-18-7F-9B-FD-BB-0F-F4-47-95-2E-38-1A-E6-AF-A2-57-75-4F
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Parts/Prebuilt/kerbalEVAfemale.cfg
+		SHA = 8F-FA-14-EC-26-B1-47-67-8B-80-73-FE-BA-AC-3C-81-82-05-84-3C-81-66-5D-F0-74-ED-90-F8-7C-49-20-BB
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Parts/Prebuilt/kerbalEVAfemaleFuture.cfg
+		SHA = 11-14-94-BB-64-1B-41-2B-2D-64-14-60-A2-22-BB-4A-14-F3-A0-10-AD-57-78-39-DD-39-53-4E-80-2A-09-DF
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Parts/Prebuilt/kerbalEVAfemaleVintage.cfg
+		SHA = D7-31-35-0E-46-4E-EB-DD-8E-BA-D1-39-23-2E-37-01-2D-B9-94-BE-3D-99-97-BF-27-06-A3-37-E4-3F-6B-1B
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Parts/Prebuilt/kerbalEVAFuture.cfg
+		SHA = B0-44-4D-B8-E7-1C-02-76-3F-A5-E3-24-68-F5-B9-56-7C-E5-30-08-C5-A4-A3-83-91-9B-19-EF-AA-CD-C3-7F
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Parts/Prebuilt/kerbalEVAVintage.cfg
+		SHA = 7D-5D-16-75-3A-AB-06-28-42-16-7E-7F-6B-CE-71-28-EE-77-46-A5-B8-6C-68-40-86-DA-75-36-9E-0C-57-F4
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Parts/Propellers/largeFanBlade.cfg
+		SHA = C2-AF-3C-7A-67-9F-39-97-E4-F0-C2-14-DC-79-18-19-89-5B-AA-01-9F-0D-C4-5C-52-76-BE-3F-7F-CF-C5-16
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Parts/Propellers/largeHeliBlade.cfg
+		SHA = 3D-74-FF-C3-47-E8-5C-74-48-CA-84-7A-9D-E1-1A-8F-EA-12-87-00-E6-94-79-3D-C5-C0-81-1C-5E-0E-2A-CC
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Parts/Propellers/largePropeller.cfg
+		SHA = DE-B7-15-B0-54-78-A8-17-5C-03-EF-C3-11-CF-DA-6C-EC-86-FD-5A-98-90-D2-A9-F8-CE-9F-C1-F7-F2-D3-32
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Parts/Propellers/mediumFanBlade.cfg
+		SHA = 06-E0-F9-96-A9-0C-1E-79-26-97-D1-7A-C0-74-BD-DB-EE-D4-E1-23-0B-81-8F-70-20-73-8A-2E-15-9A-45-99
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Parts/Propellers/mediumHeliBlade.cfg
+		SHA = B0-44-63-9F-E8-93-3F-4E-BA-01-8D-76-F9-2A-29-EB-9B-79-82-A5-F2-5F-18-54-81-42-BC-EB-E3-38-76-82
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Parts/Propellers/mediumPropeller.cfg
+		SHA = 72-8C-3E-12-9F-E7-15-FD-F5-E8-64-25-0B-13-82-4E-73-CE-43-F0-6F-1D-80-B1-B1-27-16-10-4F-37-2B-8E
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Parts/Propellers/smallFanBlade.cfg
+		SHA = B2-61-47-80-0A-81-A5-2E-3F-B6-0A-91-6A-59-88-1B-32-30-46-3D-95-C8-7D-E3-75-E7-7B-BD-93-09-1B-24
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Parts/Propellers/smallHeliBlade.cfg
+		SHA = CD-B2-64-E2-49-A5-19-42-4A-51-D6-DA-15-F9-8D-05-6B-51-22-78-DB-A1-8B-72-40-1F-2A-CF-00-E7-B3-16
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Parts/Propellers/smallPropeller.cfg
+		SHA = 85-99-5F-C4-7A-59-5E-D2-FE-C9-E6-02-19-72-B4-E1-72-13-2C-A5-2B-92-66-8D-CB-33-AF-25-82-25-38-1D
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Parts/Robotics/hinge_01.cfg
+		SHA = F5-98-85-4C-D6-29-EA-2D-0B-A1-3D-93-8C-29-60-C0-F3-DB-63-4E-D9-53-D7-9F-C9-4F-1B-F7-3A-4B-68-3E
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Parts/Robotics/hinge_01_s.cfg
+		SHA = FF-D8-25-5F-40-F9-2D-C6-36-3D-AF-A7-8D-46-54-20-84-8C-9D-5C-4F-BA-BD-98-6E-77-8F-79-B8-78-B4-55
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Parts/Robotics/hinge_03.cfg
+		SHA = 33-28-51-06-AC-C9-F8-27-C4-0A-7E-3E-FC-A8-A1-CC-D3-C6-41-C7-09-89-90-D9-6D-9A-F0-F4-A3-00-C1-FC
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Parts/Robotics/hinge_03_s.cfg
+		SHA = 5B-15-E0-08-61-E9-98-0B-3A-BB-9C-9B-51-F4-21-8C-AE-3B-2F-A7-DB-C9-43-40-B9-C0-7B-5C-F8-EE-49-1B
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Parts/Robotics/hinge_04.cfg
+		SHA = 73-42-30-4F-C6-3E-F6-B3-04-6B-E1-94-7F-5F-54-0E-8F-86-E3-11-74-03-42-FE-53-62-3B-CA-F9-23-D9-7F
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Parts/Robotics/piston_01.cfg
+		SHA = D5-44-D4-D2-EA-80-BF-34-A6-BA-4B-69-D1-E3-86-A7-77-34-88-96-39-1D-09-8C-09-8D-54-55-49-E3-FC-E9
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Parts/Robotics/piston_02.cfg
+		SHA = 2D-64-24-A0-1F-1F-B6-5F-09-13-01-75-29-94-2B-CC-4A-AB-2A-72-5E-DB-99-F1-91-46-84-F5-7D-6B-2F-43
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Parts/Robotics/piston_03.cfg
+		SHA = E4-B5-00-5C-2D-59-97-E2-66-D5-10-20-1D-61-AE-C8-40-1D-E3-11-66-F3-98-BD-16-0C-3D-DE-CB-F1-7E-31
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Parts/Robotics/piston_04.cfg
+		SHA = 95-90-11-89-54-D2-E9-3E-3D-97-CE-B6-24-01-D5-EC-CF-E1-24-33-EE-2E-A0-BF-1A-49-FD-7D-2D-EB-93-08
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Parts/Robotics/RotorEngine_02.cfg
+		SHA = 0B-46-8D-14-84-C9-55-6D-DF-88-D4-E4-65-48-7A-FA-97-14-F7-A6-86-61-E6-1E-A9-C1-33-6D-B0-39-E1-FE
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Parts/Robotics/RotorEngine_03.cfg
+		SHA = CC-14-E8-82-CD-9F-D6-E7-B9-F8-F9-2F-EF-03-39-ED-1D-32-00-EB-B6-0E-00-45-A9-77-3E-23-F8-86-9C-94
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Parts/Robotics/rotor_01.cfg
+		SHA = F1-FD-26-59-5B-D2-9E-A8-09-52-9B-6A-DA-FD-57-E8-B5-AD-11-02-2D-53-7F-DF-87-EF-6B-5E-9C-39-31-01
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Parts/Robotics/rotor_01s.cfg
+		SHA = 0E-96-AF-AD-2C-EB-1D-A7-2A-BB-76-85-D0-5C-CC-87-0A-10-09-E5-04-95-0A-9F-50-5A-0E-FA-8D-31-A3-C4
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Parts/Robotics/rotor_02.cfg
+		SHA = D0-68-22-FC-1B-48-28-4A-E4-20-FD-75-FD-52-62-A5-F1-79-D7-A0-72-40-05-65-4B-75-04-CA-24-07-70-9E
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Parts/Robotics/rotor_02s.cfg
+		SHA = EB-F7-4A-C3-87-CD-4C-45-89-0D-AB-F4-F6-D9-E5-01-2C-7E-FD-B9-9E-1B-97-8B-32-E1-E2-09-FA-9A-2F-C2
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Parts/Robotics/rotor_03.cfg
+		SHA = 0E-7E-94-61-1F-1C-70-AA-A9-6E-E9-8B-7D-F9-3C-76-06-E6-07-06-F4-1B-FE-DD-F9-31-38-96-A2-00-8D-00
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Parts/Robotics/rotor_03s.cfg
+		SHA = 70-88-B4-18-7B-11-9B-5E-CA-9D-82-C6-AF-D6-9A-D8-A8-8E-84-CA-DB-EB-5E-C0-ED-6D-96-F2-C5-61-EE-42
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Parts/Robotics/rotoServo_00.cfg
+		SHA = ED-D0-5A-28-46-49-FC-A8-CA-FF-93-61-08-69-8F-60-AA-EA-90-A0-E9-42-C5-8B-4F-D7-50-28-2B-56-4E-21
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Parts/Robotics/rotoServo_02.cfg
+		SHA = 18-62-1B-04-E8-AA-5D-27-1C-C2-1B-58-7A-2B-56-B9-7A-09-DC-52-EF-2E-0D-24-FD-B3-F5-99-DD-CA-D6-52
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Parts/Robotics/rotoServo_03.cfg
+		SHA = 6B-A8-E1-81-B5-33-F8-10-29-68-A6-4A-D9-E6-D7-0D-C2-67-7D-7B-69-00-2E-BA-9E-7C-36-86-A1-31-14-52
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Parts/Robotics/rotoServo_04.cfg
+		SHA = 90-60-9A-82-74-E8-16-30-14-F7-28-E9-F6-87-68-D9-53-B3-6F-A1-ED-5E-C8-63-81-30-57-F4-3B-EE-4A-BF
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Parts/Robotics/Controllers/KAL1000.cfg
+		SHA = 6F-AF-52-68-0C-F9-BC-5E-E0-95-76-C0-33-4C-19-38-55-E5-01-0D-AB-83-93-3C-AF-2D-C4-75-3B-73-45-A3
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Parts/Science/RobotArmScanner/RobotArmScanner_S1.cfg
+		SHA = 61-98-FA-7A-55-00-CA-F3-B4-E6-E7-35-46-4C-38-19-9B-91-8E-78-2C-DA-A0-C0-BB-75-4D-86-AA-B2-0D-9C
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Parts/Science/RobotArmScanner/RobotArmScanner_S2.cfg
+		SHA = 31-30-6E-FF-DF-EC-DF-03-95-E4-EA-48-F4-6E-0F-0C-BC-8C-AA-22-A5-1B-06-7D-84-E5-1F-08-39-21-F9-A1
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Parts/Science/RobotArmScanner/RobotArmScanner_S3.cfg
+		SHA = 87-BC-46-45-B0-71-56-89-7B-23-9D-6B-FF-76-E2-CE-D2-6A-37-AE-A3-51-80-B3-BC-3C-CB-29-A6-2E-7C-0D
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Parts/Structural/gripPads/lGripPad.cfg
+		SHA = D7-19-7E-AD-70-ED-0D-A1-BB-80-93-60-51-BA-23-EF-8E-31-AE-14-BB-BC-4D-24-35-22-CD-9D-29-44-8E-35
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Parts/Structural/gripPads/lGripStrip.cfg
+		SHA = C3-19-90-E3-8E-48-AD-FF-E0-0D-05-31-9C-C3-96-37-16-D1-83-50-AB-10-C4-09-3E-32-DC-16-BA-C2-E8-65
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Parts/Structural/gripPads/mGripPad.cfg
+		SHA = F1-4F-D0-DB-03-4C-0F-59-44-4A-A8-AD-A4-6B-4A-C6-C3-B2-61-37-CB-E7-79-7E-FF-AB-D9-7A-CC-06-E3-44
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Parts/Structural/gripPads/sGripPad.cfg
+		SHA = 72-5F-58-AD-22-9D-3E-F1-85-17-76-2B-5B-F8-76-24-83-A3-6C-5C-7C-B5-98-69-BA-73-B6-41-D6-B4-48-0E
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Parts/Structural/gripPads/sGripStrip.cfg
+		SHA = 98-C3-EA-A7-F7-06-A7-AB-48-45-FB-F5-60-1B-64-A8-C4-1C-49-AD-71-E8-49-97-96-4E-91-F3-02-29-5D-14
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Resources/DeployedScience.cfg
+		SHA = 92-39-45-31-DF-D2-41-2C-FA-96-40-BC-1C-FC-A1-4D-0B-D3-71-31-DD-24-6A-17-38-B8-34-3C-F2-FD-59-B9
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Resources/PhysicsMaterials.cfg
+		SHA = 65-44-95-BB-6C-CF-9A-1A-5D-52-BF-D5-6D-25-5E-9F-56-1B-48-FC-18-AC-0A-4B-92-2F-2B-25-19-71-F8-59
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Resources/rocsdef.cfg
+		SHA = 4F-46-AE-3A-D8-F5-46-10-66-EA-36-64-2E-D9-02-21-21-B5-0E-C7-58-4F-B2-5B-5E-27-2D-B6-FD-F2-AC-9E
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Resources/ScienceDefs.cfg
+		SHA = 71-9C-B2-B8-CB-45-14-1B-F4-51-7A-6F-B3-2A-EA-64-B6-63-B1-82-8A-3E-F5-5A-34-C8-E0-6E-37-59-03-AE
+	}
+	FILE
+	{
+		filename = SquadExpansion/Serenity/Resources/StoryDefs.cfg
+		SHA = 5E-AD-A1-99-EA-19-54-A6-75-34-90-59-76-C9-9E-3F-EA-C1-ED-89-7E-80-9C-A3-A0-E2-43-B2-9D-F6-95-34
 	}
 	FILE
 	{

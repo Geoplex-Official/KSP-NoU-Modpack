@@ -290,7 +290,7 @@
         <Abbreviation>HUD 2</Abbreviation>
         <EditorPositionX>710</EditorPositionX>
         <EditorPositionY>290</EditorPositionY>
-        <FloatingPositionX>1229</FloatingPositionX>
+        <FloatingPositionX>1040</FloatingPositionX>
         <FloatingPositionY>0</FloatingPositionY>
         <showEditButton>true</showEditButton>
         <showFloatButton>true</showFloatButton>
@@ -314,6 +314,28 @@
   </SettingItem>
   <SettingItem>
     <Name>CustomSections</Name>
-    <Value xsi:type="ArrayOfSectionModule" />
+    <Value xsi:type="ArrayOfSectionModule">
+      <SectionModule>
+        <showButton>true</showButton>
+        <Abbreviation>CUST 1</Abbreviation>
+        <EditorPositionX>1030</EditorPositionX>
+        <EditorPositionY>470</EditorPositionY>
+        <FloatingPositionX>1465</FloatingPositionX>
+        <FloatingPositionY>3</FloatingPositionY>
+        <showEditButton>true</showEditButton>
+        <showFloatButton>true</showFloatButton>
+        <IsEditorVisible>false</IsEditorVisible>
+        <IsFloating>true</IsFloating>
+        <IsHud>true</IsHud>
+        <IsDeleted>false</IsDeleted>
+        <IsHudBackground>false</IsHudBackground>
+        <IsVisible>true</IsVisible>
+        <LineCount>1</LineCount>
+        <Name>Custom 1</Name>
+        <ReadoutModuleNames>
+          <string>Surface.GeeForce</string>
+        </ReadoutModuleNames>
+      </SectionModule>
+    </Value>
   </SettingItem>
 </ArrayOfSettingItem>

@@ -1,18 +1,23 @@
 NAME;TITLE;AUTHOR;MANUFACTURER;PART_MASS;PART_COST;PART_CRASHTOLERANCE;PART_MAXTEMP;radar_name;rwrThreatType;omnidirectional;directionalFieldOfView;boresightFOV;scanRotationSpeed;lockRotationSpeed;lockRotationAngle;showDirectionWhileScan;multiLockFOV;lockAttemptFOV;canScan;canLock;canTrackWhileScan;canRecieveRadarData;maxLocks;radarGroundClutterFactor;radarDetectionCurve;radarLockTrackCurve
-AeroAntenna;WW2 Ball Antenna;VintageXP;Roaken Armory;0.054;800;12;1200;WW2 Ball Antenna;FIGHTER;False;60;10;100;120;4;False;30;2;True;True;False;False;1;0.25;0@-3.402823E+38;0@-3.402823E+38
+AeroAntenna;WW2 Ball Antenna;VintageXP;Roaken Armory;0.054;800;12;1200;;FIGHTER;False;60;10;100;120;4;False;30;2;True;True;False;False;1;0.25;0@-3.402823E+38;0@-3.402823E+38
 ringantenna;WW2 Ring Antenna;VintageXP;Roaken Armory;0.006;800;12;1200;;SAM;True;90;10;120;120;4;True;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
 awacsRadar;AWACS Detection Radar;BahamutoD;Bahamuto Dynamics;1.45;600;7;1523.15;AWACS Detection Radar;AWACS;True;90;10;110;120;4;True;30;2;True;False;False;True;1;0.2;30@80;0@-3.402823E+38
 ew.liana;Liana Airborne Early Warning Radar;BahamutoD;Bahamuto Dynamics;1.45;600;7;1523.15;Liana Airborne Early Warning Radar;AWACS;True;85;10;100;40;40;False;20;2;True;False;False;True;1;0.2;300@398.2;0@-3.402823E+38
 bahaGoalKeeper;Goalkeeper CIWS;BahamutoD;Bahamuto Dynamics;4;950;50;1523.15;Goalkeeper CIWS Radar;SAM;True;90;10;240;120;4;True;30;2;True;True;True;True;1;0.1;20@10;40@10
 BDAcGKmk2;Goalkeeper MK2 CIWS;BahamutoD;Bahamuto Dynamics;4.4;950;50;1523.15;Goalkeeper Data Receiver;SAM;True;90;10;120;120;4;True;30;2;False;False;False;True;1;0.1;0@-3.402823E+38;0@-3.402823E+38
 scanLockRadar1;TWS Locking Radar;BahamutoD;Bahamuto Dynamics;1;600;7;1523.15;TWS Locking Radar;SAM;True;90;10;300;120;4;True;30;2;True;True;True;True;1;0.15;40@30;50@30
-radarsuper2;ultimateradar;BahamutoD;Bahamuto Dynamics;1;600;7;1523.15;TWS Locking Radar;SAM;True;90;10;300;120;4;True;30;2;True;True;True;True;1;1;0@1000;0@1000
+surv.fps27;AN/FPS-27 Search Radar;BahamutoD;Bahamuto Dynamics;1;600;7;1523.15;AN/FPS-27 Search Radar;DETECTION;True;6.5;10;36;120;4;False;30;2;True;False;False;True;1;0.5;190@410;50@30
+radarsuper2;ultimateradar;BahamutoD;Bahamuto Dynamics;1;600;7;1523.15;TWS Locking Radar;SAM;True;90;10;300;120;4;True;30;2;True;True;True;True;5;1;0@1000;0@1000
 scanLargeRadar;Large Detection Radar;BahamutoD;Bahamuto Dynamics;1.45;600;7;1523.15;Large Detection Radar;DETECTION;True;90;10;110;120;4;False;30;2;True;False;False;True;1;0.2;30@40;0@-3.402823E+38
+surv.p70;P-70 Lena-M Early Warning Radar;BahamutoD;Bahamuto Dynamics;1.45;600;7;1523.15;P-70 Lena-M;DETECTION;True;1;10;6;120;4;False;30;2;True;False;False;True;1;1;130.4021@666.7;0@-3.402823E+38
+surv.type85;AMES Type 85 Early Warning Radar;BahamutoD;Bahamuto Dynamics;1.45;600;7;1523.15;AMES Type 85 Early Warning Radar;DETECTION;True;0.5;10;24;120;4;False;30;2;True;False;False;True;1;1.3;110@450;0@-3.402823E+38
 radarDataReceiver;Radar Data Receiver;BahamutoD;Bahamuto Dynamics;0.05;600;7;1523.15;Radar Data Receiver;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
 bdRadome1;AN/APG-63 Radome;BahamutoD;Bahamuto Dynamics;0.375;320;40;1000;AN/APG-63V2 Radome;FIGHTER;False;120;10;120;120;4;True;40;2;True;True;True;False;3;0.1;25@35;35@35
 radarsuper;ultimateradar;BahamutoD;Bahamuto Dynamics;0.375;320;40;1000;AN/APG-63V2 Radome;FIGHTER;False;120;10;120;120;4;True;40;2;True;True;True;False;3;1;0@1000;0@1000
 bdRadome1GA;APG-77v1 air-to-ground Radar;BahamutoD;Bahamuto Dynamics;0.375;320;40;1000;APG-77 atg;FIGHTER;False;120;10;120;120;4;True;40;2;True;True;True;False;3;1.7;35@40;40@40
 bdRadome1inline;AN/APG-63 Inline Radome;BahamutoD;Bahamuto Dynamics;0.375;320;40;1000;AN/APG-63V2 Inline Radome;FIGHTER;False;120;10;120;120;4;True;40;2;True;True;True;False;3;0.1;25@35;35@35
+trg.ari5390;ARI.5390 Airpass II Radar;BahamutoD;Bahamuto Dynamics;0.375;320;40;1000;ARI.5390;FIGHTER;False;55;10;100;20;20;False;30;2;True;True;False;True;1;1.2;212.2451@259.3;225.7498@121.9413
+trg.anapq100;AN-APQ-100 Airborne Fire Control Radar;BahamutoD;Bahamuto Dynamics;0.375;320;40;1000;AI.23 AIRPASS Radar;FIGHTER;False;55;10;100;20;20;False;30;2;True;True;False;True;1;0.1;135.8279@76.84827;150@64
 trg.ai23;AI.23 AIRPASS Radar;BahamutoD;Bahamuto Dynamics;0.375;320;40;1000;AI.23 AIRPASS Radar;FIGHTER;False;55;10;100;20;20;False;30;2;True;True;False;True;1;0.1;135.8279@76.84827;150@64
 trg.rp21;RP-21 "Sapfir" Radar;BahamutoD;Bahamuto Dynamics;0.375;320;40;1000;RP-21 "Sapfir" Radar;FIGHTER;False;60;10;60;15;15;False;20;2;True;True;False;True;1;0.1;25@35;8@20
 trg.apq120;AN/APQ-120 Targeting Radar;BahamutoD;Bahamuto Dynamics;0.375;320;40;1000;AN/APQ-120 Targeting Radar;FIGHTER;False;50;10;30;60;20;False;30;2;True;True;False;True;1;0.9;37@93;50@40
@@ -24,8 +29,9 @@ bdRadome1inlineGA;APG-77v1 air-to-ground Radar (Inline);BahamutoD;Bahamuto Dynam
 bdRadome1snub;AN/APG-63 Radome;BahamutoD;Bahamuto Dynamics;0.375;320;40;1000;AN/APG-63V1 Radome;FIGHTER;False;120;10;120;120;4;True;40;2;True;True;True;False;1;0.4;30@30;35@30
 bdRadome1snubGA;APG-77v1 air-to-ground Radar (Snub);BahamutoD;Bahamuto Dynamics;0.375;320;40;1000;APG-77 atg;FIGHTER;False;120;10;120;120;4;True;40;2;True;True;True;False;1;1.7;35@40;40@40
 BDAsonarPod1A;BDA MK1 Sonar Pod;Spanner;Bahamuto Dynamics;0.001;600;7;1523.15;BDA MK1 Sonar Pod;SONAR;True;90;10;90;90;4;True;30;2;True;True;True;True;1;0.4;150@40;200@40
+search.aps20;AN/APS-95 Airborne Search Radar;Spanner;SM Armory;0.001;600;7;1523.15;AN/APS-20 Search Radar;AWACS;True;6.7;10;9.4;120;4;False;30;2;True;False;False;True;1;1.6;390@420;200@40
 ground.aps33;AN/APS-33 Ground Search Radar;Spanner;SM Armory;0.001;600;7;1523.15;AN/APS-33 Ground Search Radar;AWACS;True;5;10;10;120;4;False;30;2;True;True;False;True;1;3;1000@35;200@40
-search.aps20;AN/APS-20 Airborne Search Radar;Spanner;SM Armory;0.001;600;7;1523.15;AN/APS-20 Search Radar;AWACS;True;5;10;10;120;4;False;30;2;True;False;False;True;1;0.5;200.3817@402.7174;200@40
+search.aps20;AN/APS-20 Airborne Search Radar;Spanner;SM Armory;0.001;600;7;1523.15;AN/APS-20 Search Radar;AWACS;True;5;10;10;120;4;False;30;2;True;False;False;True;1;1.5;414.9879@370;200@40
 HSTVAP;HSTV APFSDS;Marhfg;Fox Defense Contracts;3.075;3425;250;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
 M103AP;M103 120mm AP;Marhfg;Fox Defense Contracts;8.51;3425;250;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
 M103HE;M103 120mm HE;Marhfg;Fox Defense Contracts;8.51;3425;250;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
@@ -84,6 +90,7 @@ STIRradar;STIR Locking Radar;Themorris;MalFunc Industries;1;600;7;1523.15;STIR F
 3X;3X TRUCK;Johnny005611;Johnny005611;10;950;600;1523.15;Radar Data Receiver;SAM;True;90;10;120;120;4;False;30;2;False;True;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
 3XR;3XR;Johnny005611;Johnny005611;5;950;600;1523.15;3X Radar;SAM;True;180;10;240;240;360;True;180;180;True;True;True;True;1000;1;2@1200;2@1200
 NAS.RA.21GoKai2.IJN;Type 2 Mark 2 Model 1 Air Search Radar Kai-2;BahamutoD & Kerwis;Kerbin Navy;0.43;400;10;1050;21-Go Air Search Radar;DETECTION;True;90;10;45;15;4;True;30;2;True;True;False;False;1;0.2;65@24;90@24
+trg.p40;P-40 Armour Targeting Radar;BahamutoD & Kerwis;Kerbin Navy;0.43;400;10;1050;P-40 Armour;DETECTION;True;1.5;10;90;120;4;False;30;2;True;True;False;True;1;1;168.3803@370;212.2451@144.757
 search.p12;P-12 "Yenisei" (Spoon Rest A) Search Radar;BahamutoD & Kerwis;Kerbin Navy;0.43;400;10;1050;P-12 "Yenisei" Search Radar;DETECTION;True;1;10;60;120;4;False;30;2;True;False;False;True;1;0.5;501.4065@286.6304;90@24
 search.type80;AMES Type 80 Search Radar;BahamutoD & Kerwis;Kerbin Navy;0.43;400;10;1050;AMES Type 80 Search Radar;DETECTION;True;1;10;24;120;4;False;30;2;True;False;False;True;1;0.5;500@451.087;90@24
 NAS.RA.FuMO61.KM;FuMO 61 "Hohentwiel U";BahamutoD & Kerwis;Kerbin Navy;0.14;360;10;1050;FuMO 61;DETECTION;True;90;10;120;30;4;True;30;2;True;True;False;True;1;0.1;32@20;0@-3.402823E+38

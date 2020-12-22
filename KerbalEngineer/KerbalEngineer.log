@@ -1,8 +1,8 @@
 Executing: KerbalEngineer - 1.1.7.2
 Assembly: C:\Program Files\KerbalSpaceProgram\KSP 1.10.1\GameData\KerbalEngineer\KerbalEngineer.dll
 
-[Log 21:52:21.8235300]: images (UnityEngine.AssetBundle)
-[Log 21:53:46.4824441]: Assembly: Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+[Log 10:57:22.6843160]: images (UnityEngine.AssetBundle)
+[Log 10:58:48.3918726]: Assembly: Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: Scale_Redist, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: ModuleManager, Version=4.1.4.0, Culture=neutral, PublicKeyToken=null
 Assembly: ClickThroughBlocker, Version=0.1.10.14, Culture=neutral, PublicKeyToken=null
@@ -15,8 +15,8 @@ Assembly: AtmosphereAutopilot.UI, Version=1.0.0.0, Culture=neutral, PublicKeyTok
 Assembly: AAPartCategory, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: AviatorArsenal, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: B9_Aerospace_WingStuff, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-Assembly: BDArmory.Core, Version=1.3.8.0, Culture=neutral, PublicKeyToken=null
-Assembly: BDArmory, Version=1.3.8.0, Culture=neutral, PublicKeyToken=null
+Assembly: BDArmory.Core, Version=1.3.8.3, Culture=neutral, PublicKeyToken=null
+Assembly: BDArmory, Version=1.3.8.3, Culture=neutral, PublicKeyToken=null
 Assembly: BDATeamIcons, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: CameraTools, Version=1.14.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: DeadlyReentry, Version=7.8.0.0, Culture=neutral, PublicKeyToken=null
@@ -27,7 +27,6 @@ Assembly: FerramAerospaceResearch, Version=0.16.0.1, Culture=neutral, PublicKeyT
 Assembly: ferramGraph, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: Scale_Redist, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: Firespitter, Version=7.3.7287.12431, Culture=neutral, PublicKeyToken=null
-Assembly: VLSLauncher, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: FShangarExtender, Version=3.6.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: HullBreach, Version=0.1.8.1, Culture=neutral, PublicKeyToken=null
 Assembly: KerbalEngineer, Version=1.1.7.2, Culture=neutral, PublicKeyToken=null
@@ -52,13 +51,61 @@ Assembly: Scale, Version=2.4.3.21, Culture=neutral, PublicKeyToken=null
 Assembly: VesselMover, Version=1.10.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: ZeroMiniAVC, Version=1.1.0.1, Culture=neutral, PublicKeyToken=null
 
-[Log 21:53:46.4824441]: FlightEngineerCore->Awake
-[Log 21:53:50.6813928]: FlightEngineerCore->Start
-[Log 21:53:51.8606596]: FlightEngineerCore->OnDestroy
-[Log 21:54:38.9893371]: BuildAdvanced->OnDestroy
-[Log 21:54:41.9029482]: ActionMenu->Awake
-[Log 21:54:41.9029482]: FlightEngineerCore->Awake
-[Log 21:54:48.6176711]: ActionMenu->Start
-[Log 21:54:48.6396760]: FlightEngineerCore->Start
-[Log 21:59:07.8295232]: ActionMenu->OnDestroy
-[Log 21:59:08.0955841]: FlightEngineerCore->OnDestroy
+[Log 10:58:48.3928729]: FlightEngineerCore->Awake
+[Log 10:58:52.6174709]: FlightEngineerCore->Start
+[Log 10:58:53.7689790]: FlightEngineerCore->OnDestroy
+[Log 10:59:55.1934879]: BuildAdvanced->OnDestroy
+[Log 10:59:58.3657659]: ActionMenu->Awake
+[Log 10:59:58.3657659]: FlightEngineerCore->Awake
+[Log 11:00:05.3379437]: ActionMenu->Start
+[Log 11:00:05.3579483]: FlightEngineerCore->Start
+[Log 11:10:17.3962653]: FlightEngineerCore->OnDestroy
+[Log 11:10:17.4212803]: ActionMenu->OnDestroy
+[Log 11:11:09.9434260]: BuildAdvanced->OnDestroy
+[Log 11:11:13.2616621]: ActionMenu->Awake
+[Log 11:11:13.2626633]: FlightEngineerCore->Awake
+[Log 11:11:20.5780212]: ActionMenu->Start
+[Log 11:11:20.5980248]: FlightEngineerCore->Start
+[Log 11:14:11.9192466]: FlightEngineerCore->OnDestroy
+[Log 11:14:11.9272486]: ActionMenu->OnDestroy
+[Log 11:14:55.0095430]: BuildAdvanced->OnDestroy
+[Log 11:14:58.5149740]: ActionMenu->Awake
+[Log 11:14:58.5149740]: FlightEngineerCore->Awake
+[Log 11:15:05.8811337]: ActionMenu->Start
+[Log 11:15:05.9011382]: FlightEngineerCore->Start
+[Log 11:16:47.5010454]: FlightEngineerCore->OnDestroy
+[Log 11:16:47.5864918]: ActionMenu->OnDestroy
+[Log 11:16:48.0275906]: ActionMenu->Awake
+[Log 11:16:48.0275906]: FlightEngineerCore->Awake
+[Log 11:16:52.3104379]: ActionMenu->Start
+[Log 11:16:52.3304424]: FlightEngineerCore->Start
+[11:17:46.5511011]: Exception SimManager.StartSimulation() // System.NullReferenceException: Object reference not set to an instance of an object
+  at KerbalEngineer.VesselSimulator.SimManager.StartSimulation () [0x00054] in <df610534f02e44eabb2fe7c95c06a0aa>:0 
+[]:   at KerbalEngineer.VesselSimulator.SimManager.StartSimulation () [0x00054] in <df610534f02e44eabb2fe7c95c06a0aa>:0 
+
+[Log 11:17:47.1219566]: ActionMenu->OnDestroy
+[Log 11:17:47.1409615]: FlightEngineerCore->OnDestroy
+[Log 11:18:17.1491921]: BuildAdvanced->OnDestroy
+[Log 11:18:20.9994331]: ActionMenu->Awake
+[Log 11:18:20.9994331]: FlightEngineerCore->Awake
+[Log 11:18:28.6347365]: ActionMenu->Start
+[Log 11:18:28.6547408]: FlightEngineerCore->Start
+[Log 11:19:15.8659451]: FlightEngineerCore->OnDestroy
+[Log 11:19:15.9454774]: ActionMenu->OnDestroy
+[Log 11:19:16.4476846]: ActionMenu->Awake
+[Log 11:19:16.4476846]: FlightEngineerCore->Awake
+[Log 11:19:20.9037136]: ActionMenu->Start
+[Log 11:19:20.9247268]: FlightEngineerCore->Start
+[11:22:07.1726593]: Exception SimManager.StartSimulation() // System.NullReferenceException: Object reference not set to an instance of an object
+  at KerbalEngineer.VesselSimulator.SimManager.StartSimulation () [0x00054] in <df610534f02e44eabb2fe7c95c06a0aa>:0 
+[]:   at KerbalEngineer.VesselSimulator.SimManager.StartSimulation () [0x00054] in <df610534f02e44eabb2fe7c95c06a0aa>:0 
+
+[Log 11:22:07.7317360]: FlightEngineerCore->OnDestroy
+[Log 11:22:07.7587418]: ActionMenu->OnDestroy
+[Log 11:29:11.3206853]: BuildAdvanced->OnDestroy
+[Log 11:29:15.4499410]: ActionMenu->Awake
+[Log 11:29:15.4509413]: FlightEngineerCore->Awake
+[Log 11:29:23.0589189]: ActionMenu->Start
+[Log 11:29:23.0789147]: FlightEngineerCore->Start
+[Log 11:30:44.0260455]: ActionMenu->OnDestroy
+[Log 11:30:44.4361288]: FlightEngineerCore->OnDestroy

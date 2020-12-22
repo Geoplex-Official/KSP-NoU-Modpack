@@ -1,8 +1,8 @@
 Executing: KerbalEngineer - 1.1.7.2
 Assembly: C:\Program Files\KerbalSpaceProgram\KSP 1.10.1\GameData\KerbalEngineer\KerbalEngineer.dll
 
-[Log 18:06:30.4725342]: images (UnityEngine.AssetBundle)
-[Log 18:09:52.5981195]: Assembly: Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+[Log 22:30:42.6679755]: images (UnityEngine.AssetBundle)
+[Log 22:34:08.2529691]: Assembly: Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: Scale_Redist, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: ModuleManager, Version=4.1.4.0, Culture=neutral, PublicKeyToken=null
 Assembly: ClickThroughBlocker, Version=0.1.10.14, Culture=neutral, PublicKeyToken=null
@@ -53,7 +53,21 @@ Assembly: Scale, Version=2.4.3.21, Culture=neutral, PublicKeyToken=null
 Assembly: VesselMover, Version=1.10.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: ZeroMiniAVC, Version=1.1.0.1, Culture=neutral, PublicKeyToken=null
 
-[Log 18:09:52.5981195]: FlightEngineerCore->Awake
-[Log 18:09:57.0973934]: FlightEngineerCore->Start
-[Log 18:09:58.6017320]: FlightEngineerCore->OnDestroy
-[Log 18:24:52.5943149]: BuildAdvanced->OnDestroy
+[Log 22:34:08.2529691]: FlightEngineerCore->Awake
+[Log 22:34:12.9072298]: FlightEngineerCore->Start
+[Log 22:34:14.4656006]: FlightEngineerCore->OnDestroy
+[22:34:35.7293510]: Exception  // System.NullReferenceException: Object reference not set to an instance of an object
+  at KerbalEngineer.Editor.BuildOverlayPartInfo.OnGUI () [0x00021] in <df610534f02e44eabb2fe7c95c06a0aa>:0 
+[]:   at KerbalEngineer.Editor.BuildOverlayPartInfo.OnGUI () [0x00021] in <df610534f02e44eabb2fe7c95c06a0aa>:0 
+
+[22:34:35.7323517]: Exception  // System.NullReferenceException: Object reference not set to an instance of an object
+  at KerbalEngineer.Editor.BuildOverlayPartInfo.OnGUI () [0x00021] in <df610534f02e44eabb2fe7c95c06a0aa>:0 
+[]:   at KerbalEngineer.Editor.BuildOverlayPartInfo.OnGUI () [0x00021] in <df610534f02e44eabb2fe7c95c06a0aa>:0 
+
+[Log 22:34:36.2784775]: BuildAdvanced->OnDestroy
+[Log 22:34:40.4759145]: ActionMenu->Awake
+[Log 22:34:40.4759145]: FlightEngineerCore->Awake
+[Log 22:34:47.5855316]: ActionMenu->Start
+[Log 22:34:47.6075363]: FlightEngineerCore->Start
+[Log 22:38:15.7302358]: FlightEngineerCore->OnDestroy
+[Log 22:38:16.1013196]: ActionMenu->OnDestroy

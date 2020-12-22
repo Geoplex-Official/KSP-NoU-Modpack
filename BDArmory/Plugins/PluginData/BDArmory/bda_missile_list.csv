@@ -8,6 +8,8 @@ WW2RP3Rocket;WW2 Rocket RP-3;VintageXP;Roaken Armory;0.048;650;5;1523.15;5;5;0;0
 bahaAgm86B;AGM-86C Cruise Missile;BahamutoD;Bahamuto Dynamics;1.15;2400;5;1523.15;70;3;11;180;28;25;-1;150;True;cruise;gps;125;700;40000;310;False;;0;6000;False;360;6;150;0;0
 bahaAim120;AIM-120 AMRAAM Missile;BahamutoD;Bahamuto Dynamics;0.152;2000;5;1523.15;55;2.2;25;120;35;25;-1;150;True;aam;radar;0;500;25000;1372;False;;0;6000;True;120;7;150;0;0
 AMRAAM.EMP;AMRAAM EMP Missile;BahamutoD;Bahamuto Dynamics;0.152;2000;5;1523.15;55;2.2;25;120;35;25;-1;150;True;aam;radar;0;500;25000;1372;False;;0;6000;True;120;7;150;0;0
+AIM4FalconGAR2;AIM-4 Falcon GAR-2;Kurgan;Bahamuto Dynamics;0.061;400;5;1523.15;15;9;0;0;6;25;-1;150;True;aam;heat;0;200;9700;1080;False;;0;6000;False;65;2;30;0;0
+AIM4FalconMK1;AIM-4 Falcon GAR-1;Kurgan;Bahamuto Dynamics;0.061;400;5;1523.15;15;9;0;0;6;25;-1;150;True;aam;radar;0;200;9700;1080;False;;0;9700;True;45;2;150;0;0
 bahaClusterBomb;CBU-87 Cluster Bomb;BahamutoD;Bahamuto Dynamics;0.467;150;5;1523.15;0;2.2;0;45;20;25;-1;150;False;none;none;0;10;5000;220;False;;0;6000;False;360;2.5;150;0;0
 bahaHarm;AGM-88 HARM Missile;BahamutoD;Bahamuto Dynamics;0.355;568;5;1523.15;60;2.5;15;60;35;25;-1;150;True;agm;antirad;0;800;30000;633.33;False;antirad;30000;6000;False;65;7;150;0;0
 bahaHEKV1;HE-KV-1 Missile;BahamutoD;Bahamuto Dynamics;0.14;4000;5;1523.15;12;42;0;0;25;25;-1;150;True;rcs;radar;0;500;100000;220;False;;0;40000;True;360;15;150;0;0
@@ -124,6 +126,8 @@ Kh-22;Kh-22;Toonu;MKB Raduga;5.82;2400;5;1523.15;450;30;300;300;10;25;-1;150;Tru
 Kh-66;Kh-66;Toonu;Bahamuto Dynamics;0.3;2400;5;1523.15;40;0;90;20;2;25;-1;150;True;beamriding;laser;0;100;10000;700;False;heat;0;0;False;30;10;100;0;0
 Krug;9M8Krug;Toonu;Bahamuto Dynamics;2.45;4000;5;1523.15;400;20;275;80;30;25;-1;150;True;aam;radar;0;8000;55000;1372;False;heat;0;0;False;180;20;100;0;0
 KS-1;KS-1 Komet;Toonu;MKB Raduga;3;2400;5;1523.15;70;5;40;290;25;25;-1;150;True;cruise;laser;125;700;90000;309;False;radar;10000;10000;True;100;100;5;0;0
+KS-1A;KS-1 Kometanti;Toonu;MKB Raduga;3;2400;5;1523.15;70;5;40;290;25;25;-1;150;True;cruise;laser;125;700;90000;309;False;antirad;10000;10000;True;100;100;5;0;0
+KS-1B;KS-1 Kometir;Toonu;MKB Raduga;3;2400;5;1523.15;70;5;40;290;25;25;-1;150;True;cruise;laser;125;700;90000;309;False;heat;10000;10000;True;100;100;5;0;0
 KSR-2;KSR-2;Toonu;MKB Raduga;4.1;2400;5;1523.15;30;20;30;800;7;25;-1;150;True;cruise;gps;125;25000;200000;347;False;heat;0;38000;False;360;7;100;0;0
 Kub;3M9 Kub;Toonu;Kalinin Machine-Building Plant;0.6;4000;5;1523.15;200;10;150;60;12;25;-1;150;True;aam;radar;0;6000;24000;960.4;False;heat;0;0;False;60;15;100;0;0
 MIM-3;MIM-3;Toonu;Bell Labs;1.12;4000;5;1523.15;240;3.5;12;200;8;25;-1;150;True;aam;radar;0;5000;48000;771.5;False;heat;0;0;True;180;15;100;0;0

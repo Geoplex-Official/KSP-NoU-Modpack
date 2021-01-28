@@ -1,8 +1,8 @@
 Executing: KerbalEngineer - 1.1.7.2
 Assembly: C:\Program Files\KerbalSpaceProgram\KSP 1.10.1\GameData\KerbalEngineer\KerbalEngineer.dll
 
-[Log 16:30:34.1075733]: images (UnityEngine.AssetBundle)
-[Log 16:31:37.2299886]: Assembly: Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+[Log 22:42:41.4029033]: images (UnityEngine.AssetBundle)
+[Log 22:44:05.6361498]: Assembly: Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: Scale_Redist, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: ModuleManager, Version=4.1.4.0, Culture=neutral, PublicKeyToken=null
 Assembly: ClickThroughBlocker, Version=0.1.10.14, Culture=neutral, PublicKeyToken=null
@@ -51,18 +51,16 @@ Assembly: Scale, Version=2.4.3.21, Culture=neutral, PublicKeyToken=null
 Assembly: VesselMover, Version=1.10.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: ZeroMiniAVC, Version=1.1.0.1, Culture=neutral, PublicKeyToken=null
 
-[Log 16:31:37.2299886]: FlightEngineerCore->Awake
-[Log 16:31:41.4233101]: FlightEngineerCore->Start
-[Log 16:31:42.6471219]: FlightEngineerCore->OnDestroy
-[Log 16:31:45.4375374]: ActionMenu->Awake
-[Log 16:31:45.4375374]: FlightEngineerCore->Awake
-[Log 16:31:49.2569262]: ActionMenu->Start
-[Log 16:31:49.2789402]: FlightEngineerCore->Start
-[Log 16:35:31.0837834]: ActionMenu->OnDestroy
-[Log 16:35:31.1053013]: FlightEngineerCore->OnDestroy
-[Log 16:35:31.5117204]: ActionMenu->Awake
-[Log 16:35:31.5117204]: FlightEngineerCore->Awake
-[Log 16:35:35.5842742]: ActionMenu->Start
-[Log 16:35:35.6042792]: FlightEngineerCore->Start
-[Log 16:41:43.1346928]: FlightEngineerCore->OnDestroy
-[Log 16:41:43.2907367]: ActionMenu->OnDestroy
+[Log 22:44:05.6361498]: FlightEngineerCore->Awake
+[Log 22:44:09.8403606]: FlightEngineerCore->Start
+[Log 22:44:11.0762375]: FlightEngineerCore->OnDestroy
+[Log 22:44:13.8590845]: ActionMenu->Awake
+[Log 22:44:13.8590845]: FlightEngineerCore->Awake
+[Log 22:44:17.6886606]: ActionMenu->Start
+[Log 22:44:17.7076567]: FlightEngineerCore->Start
+[Log 22:47:26.0405173]: FlightEngineerCore->OnDestroy
+[Log 22:47:26.0675242]: ActionMenu->OnDestroy
+[Log 22:47:26.4566119]: ActionMenu->Awake
+[Log 22:47:26.4566119]: FlightEngineerCore->Awake
+[Log 22:47:30.4778221]: ActionMenu->Start
+[Log 22:47:30.4978275]: FlightEngineerCore->Start

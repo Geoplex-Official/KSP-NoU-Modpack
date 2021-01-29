@@ -36,6 +36,8 @@ bahaGoalKeeper;Goalkeeper CIWS;BahamutoD;Bahamuto Dynamics;4;950;50;1523.15;4200
 GoalKeeperBDAcMk1;GoalkeeperMk1 CIWS;BahamutoD;Bahamuto Dynamics;4;750;50;1523.15;4200;0.5;4000;ballistic;30x173Bullet;30x173Ammo;0.388;1030;3600;36;900;8;-1;30;True
 BDAcGKmk2;Goalkeeper MK2 CIWS;BahamutoD;Bahamuto Dynamics;4.4;950;50;1523.15;4200;0.4;4000;ballistic;30x173Bullet;30x173Ammo;0.388;1030;3600;36;900;8;-1;30;True
 bahaHiddenVulcan;Vulcan (Hidden);BahamutoD;Bahamuto Dynamics;0.1;950;60;1523.15;5500;0.125;2500;ballistic;20x102mmHEBullet;20x102Ammo;0.388;1030;3600;36;820;8;-1;30;False
+GSh-23L;GSh-23L;BahamutoD;EngineEngineering;0.05;950;60;1523.15;3600;0.125;2500;ballistic;23x115mmBullet;23mm;0.388;1030;3600;36;820;8;-1;30;False
+M61A1;M61A1;BahamutoD;EngineEngineering;0.112;950;60;1523.15;6000;0.125;2500;ballistic;20mmBullet;20mm;0.388;1030;3600;36;820;8;-1;30;False
 bahaM102Howitzer;M102 Howitzer (Radial);BahamutoD;Bahamuto Dynamics;1;3500;60;1523.15;13;0.25;8000;ballistic;105mmBullet;CannonShells;0.388;1030;3600;60;740;8;-1;30;False
 bahaM102HowitzerHE;M102 Howitzer (Radial) HE;BahamutoD;Bahamuto Dynamics;1;3500;60;1523.15;13;0.25;8000;ballistic;105mmHEBullet;CannonShells;0.388;1030;3600;60;740;8;-1;30;False
 bahaM1Abrams;M1 Abrams Cannon;BahamutoD;Bahamuto Dynamics;2;3500;125;1523.15;10;0.2;8000;ballistic;120mmBullet;CannonShells;0.388;1030;3600;60;740;8;-1;30;False

@@ -46,7 +46,9 @@ bahaM230ChainGun;M230 Chain Gun Turret;BahamutoD;Bahamuto Dynamics;0.1;950;60;15
 bahaOMillennium;Oerlikon Millennium Cannon;BahamutoD;Bahamuto Dynamics;2;3500;125;1523.15;850;0.47;3800;ballistic;30x173HEBullet;30x173Ammo;0.388;1030;3600;200;740;8;-1;30;True
 theotomelara76compact;OTO Melara 76mm Compact;SPanner from original mesh by Themorris;MalFunc Industries;5.9;950;60;1523.15;100;0.2;16000;cannon;76x636mmBullet;76x636Ammo;0.388;1030;3600;100;1000;8;-1;30;True
 thephalanx;Phalanx CIWS;Spanner /Themorris;MalFunc Industries;0.1;950;60;1523.15;4500;0.12;3000;ballistic;20x102mmBullet;20x102Ammo;0.388;1030;3600;12;820;8;-1;30;False
+amx30;AMX-30;Toonu;Bahamuto Dynamics;6;3500;125;1523.15;8;0.04;2000;ballistic;105MMTAPCBC;CannonShells;0.388;1030;3600;60;740;8;-1;30;False
 centurion;Centurion Mk.10;BahamutoD;Bahamuto Dynamics;6;3500;125;1523.15;8;0.04;2000;ballistic;105MMTAPCBC;CannonShells;0.388;1030;3600;60;740;8;-1;30;False
+ChieftainMK3;Chieftain Mk.3;Toonu;Bahamuto Dynamics;6;3500;125;1523.15;8;0.04;2000;ballistic;105MMTAPCBC;CannonShells;0.388;1030;3600;60;740;8;-1;30;False
 ebr90;Panhard EBR-90;BahamutoD;Bahamuto Dynamics;3.4;3500;125;1523.15;7;0.04;8000;ballistic;90MMAP;CannonShells;0.388;1030;3600;60;740;8;-1;30;False
 m41;m41;BahamutoD;Bahamuto Dynamics;3.6;3500;125;1523.15;7.5;0.04;2000;ballistic;76MMAP;CannonShells;0.388;1030;3600;60;740;8;-1;30;False
 m48;m48;BahamutoD;Bahamuto Dynamics;5.6;3500;125;1523.15;6;0.04;2000;ballistic;90MMAP;CannonShells;0.388;1030;3600;60;740;8;-1;30;False

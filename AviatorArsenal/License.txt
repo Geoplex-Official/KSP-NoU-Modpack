@@ -1,4 +1,5 @@
-Aviator Arsenal V1.1.1 for KSP 1.0.5
+Aviator Arsenal V1.4 for KSP 1.4.5+
+Updated with permission from tetryds
 All Rights Reserved
 
 Requires BahamutoD's Armory: http://forum.kerbalspaceprogram.com/threads/85209

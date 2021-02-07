@@ -1,5 +1,5 @@
 NAME;TITLE;AUTHOR;MANUFACTURER;PART_MASS;PART_COST;PART_CRASHTOLERANCE;PART_MAXTEMP;alwaysOn;rcsReduction;rcsReducationFactor;lockbreaker;lockbreak_strength;jammerStrength
-bahaECMJammer;AN/ALQ-131 ECM Jammer;BahamutoD;Bahamuto Dynamics;0.3;600;7;1523.15;False;False;0;True;500;1200
+bahaECMJammer;AN/ALQ-131 ECM Jammer;BahamutoD;Bahamuto Dynamics;0.3;600;7;1523.15;False;False;0;True;300;1200
 jamm.alq218;AN/ALQ-218 ECM Suite;Toonu;Probodobodyne Inc;0.005;8800;8;1000;False;False;0;True;800;700
 jamm.alq135;AN/ALQ-135 ECM Suite;Toonu;Probodobodyne Inc;0.005;8800;8;1000;False;False;0;True;700;700
 jamm.alq181;AN/ALT-181 ECM Suite;Toonu;Probodobodyne Inc;0.005;8800;8;1000;False;False;0;True;600;800

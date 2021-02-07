@@ -1,4 +1,4 @@
-SHA = 55-67-FA-5F-92-50-E8-25-6A-7A-30-6D-09-D0-00-EE-06-0E-4D-DD-72-11-28-73-2F-10-E1-21-80-C8-01-DE
+SHA = C7-C3-B7-4E-AA-A3-A4-6A-21-47-00-F0-80-41-A7-B8-3F-2C-D1-A2-AF-64-01-40-FB-5A-D8-DC-B0-2F-B5-84
 version = 4.1.4.0
 KSPVersion = 1.10.1.2939
 FilesSHA
@@ -1691,32 +1691,32 @@ FilesSHA
 	FILE
 	{
 		filename = B9_Aerospace_ProceduralWings/FARVoxPatch.cfg
-		SHA = F2-FA-20-D2-2F-3E-3E-AC-F8-EA-30-97-8D-CB-48-A8-BE-C1-4D-84-74-43-2E-0F-D1-18-1D-F9-D0-E4-C8-9A
+		SHA = D8-F2-3F-61-F7-0A-8D-6D-B9-75-3C-49-9C-5F-73-4E-04-E4-1E-68-E2-A8-33-B1-02-63-25-00-BD-3A-0A-86
 	}
 	FILE
 	{
 		filename = B9_Aerospace_ProceduralWings/FuelConfigs.cfg
-		SHA = A6-00-AE-36-4A-4D-47-B2-02-42-D2-65-C4-7D-9C-A8-53-8A-E4-18-3C-5F-9D-79-56-FE-85-17-7C-E7-E0-11
+		SHA = 70-1C-0A-31-FE-22-19-B3-2D-B4-85-F1-63-26-BF-EC-87-D6-C1-40-D9-02-66-54-F4-D8-16-95-C6-EB-C1-D8
 	}
 	FILE
 	{
 		filename = B9_Aerospace_ProceduralWings/Parts/Aero_Wing_Procedural/wing_procedural_atm.cfg
-		SHA = 68-66-10-87-F2-3C-17-F4-14-9B-5E-DD-2D-71-B2-81-D1-21-49-B4-83-4E-FB-6A-35-3F-F2-A8-DD-45-8B-CF
+		SHA = 0E-09-82-F1-2F-94-25-BA-01-58-43-0B-59-45-6F-DE-7C-9C-5D-6D-F7-55-49-46-F4-46-1A-17-90-8D-CA-D8
 	}
 	FILE
 	{
 		filename = B9_Aerospace_ProceduralWings/Parts/Aero_Wing_Procedural/wing_procedural_typeA.cfg
-		SHA = 2B-B2-49-E8-3F-EF-36-5B-6B-85-B0-A2-D7-23-2E-C0-0F-6D-1E-F3-C5-EA-2F-49-EF-A9-62-FA-DA-0F-99-E4
+		SHA = 97-8E-F4-5A-62-23-9D-D2-76-A4-5E-DF-80-40-DC-C8-52-96-13-83-50-F1-E7-33-E0-5B-4A-20-4C-01-46-F7
 	}
 	FILE
 	{
 		filename = B9_Aerospace_ProceduralWings/Parts/Aero_Wing_Procedural/wing_procedural_typeB.cfg
-		SHA = 85-89-61-49-C6-94-B9-2B-17-CF-B1-E3-B6-70-4A-2D-9A-74-58-56-10-3B-19-F3-33-74-09-2B-4B-DE-0E-8D
+		SHA = 18-49-E9-FA-F6-5A-7C-6D-F9-91-C3-0E-EA-53-77-21-20-08-68-F1-D7-01-75-5D-8E-08-C1-4F-9E-05-0D-CB
 	}
 	FILE
 	{
 		filename = B9_Aerospace_ProceduralWings/Parts/Aero_Wing_Procedural/wing_procedural_typeC.cfg
-		SHA = 7E-33-ED-04-8F-5A-E1-E3-26-01-9D-99-6D-B4-5D-08-11-1E-DD-DD-51-F8-74-DD-F9-2C-47-DF-CB-38-4F-41
+		SHA = 22-C5-BB-0B-F6-FE-BD-FF-60-77-AE-35-C9-54-38-D0-45-BB-36-F6-75-FC-15-09-25-22-42-F1-F5-C2-49-6E
 	}
 	FILE
 	{
@@ -1872,16 +1872,6 @@ FilesSHA
 	{
 		filename = BDArmory/Parts/aim-120/amraam_emp.cfg
 		SHA = F0-C7-09-0F-99-D9-8E-79-8C-5E-F8-90-9E-2A-A9-3D-83-A9-3B-A6-54-10-AC-1E-71-09-DD-E7-52-2F-51-2B
-	}
-	FILE
-	{
-		filename = BDArmory/Parts/AIM4Falcon/AIM4FalconGAR2.cfg
-		SHA = 9A-C6-51-F0-98-38-B4-FB-94-AC-FA-8E-A7-AC-CD-E7-69-71-C8-57-9A-8F-CC-7E-32-94-CB-5B-89-F3-5A-36
-	}
-	FILE
-	{
-		filename = BDArmory/Parts/AIM4Falcon/AIM4FalconMK1.cfg
-		SHA = C4-87-F5-72-0D-34-C0-91-E9-D0-24-6A-0B-5C-2E-18-E4-75-95-02-99-9A-D0-82-13-00-F9-77-37-19-8B-68
 	}
 	FILE
 	{
@@ -2625,11 +2615,6 @@ FilesSHA
 	}
 	FILE
 	{
-		filename = FoxDefenseContracts/American/76MMAA/76mmAA.cfg
-		SHA = 6F-2D-61-BE-65-D5-AF-36-58-98-AD-0D-E9-F3-01-1D-CD-DE-D7-1B-42-0E-B6-EF-66-59-29-EE-B6-BA-C0-C6
-	}
-	FILE
-	{
 		filename = FoxDefenseContracts/American/HSTV/HSTV.cfg
 		SHA = 49-43-BD-FE-8A-FF-4A-CD-4B-F7-06-8D-7C-F1-08-1E-21-D7-3D-58-68-B4-E5-8D-66-B0-A0-BE-3E-65-67-C1
 	}
@@ -2640,28 +2625,8 @@ FilesSHA
 	}
 	FILE
 	{
-		filename = FoxDefenseContracts/American/M10Wolverine/M10Wolverine.cfg
-		SHA = 82-9A-86-06-67-DB-49-37-3F-29-85-1D-A3-92-21-94-75-A4-63-3D-7F-90-9B-3B-3D-E1-E9-47-13-33-39-08
-	}
-	FILE
-	{
-		filename = FoxDefenseContracts/American/M18Hellcat/M18Hellcat.cfg
-		SHA = 25-80-C6-AE-17-E7-8A-BD-96-8D-15-37-A5-C5-20-D9-89-27-BE-1D-BA-E7-DE-84-99-50-31-F4-76-D9-A8-3C
-	}
-	FILE
-	{
 		filename = FoxDefenseContracts/American/M1A2Abrams/M1A2Abrams.cfg
 		SHA = FA-F6-67-07-79-36-63-1E-68-18-42-90-76-59-B9-DF-F2-93-4A-17-41-42-1C-B9-99-AC-8C-43-82-18-A1-B7
-	}
-	FILE
-	{
-		filename = FoxDefenseContracts/American/M24Chaffee/M24Chaffee.cfg
-		SHA = F5-F7-44-F6-3E-4E-20-C9-83-FA-CB-F0-42-E4-9A-4B-A2-FC-F1-05-7C-4A-98-DC-55-EF-36-C8-54-EA-98-0E
-	}
-	FILE
-	{
-		filename = FoxDefenseContracts/American/M36Jackson/M36Jackson.cfg
-		SHA = AB-6B-85-B4-F9-A9-BF-11-AB-7D-91-6B-73-80-25-D0-8F-41-D2-44-3A-43-CB-26-D1-CC-5C-7C-6E-E4-41-FE
 	}
 	FILE
 	{
@@ -2670,53 +2635,13 @@ FilesSHA
 	}
 	FILE
 	{
-		filename = FoxDefenseContracts/American/M3Stuart/M3Stuart.cfg
-		SHA = 2D-E6-E8-7A-C6-B0-42-65-B6-AD-8D-B8-12-89-FB-12-94-79-9D-72-73-28-C8-FF-C8-6A-C8-8E-8B-3C-59-30
-	}
-	FILE
-	{
-		filename = FoxDefenseContracts/American/M41HMC/M41HMC.cfg
-		SHA = A4-F2-56-A1-CA-6C-29-57-46-7F-30-43-8D-BF-F1-ED-27-6A-83-8A-F2-FB-4C-6F-AA-B1-02-E1-09-2A-A0-BC
-	}
-	FILE
-	{
 		filename = FoxDefenseContracts/American/M42Duster/M42Duster.cfg
 		SHA = A3-26-F4-B6-AB-AE-3D-4B-E4-40-7E-AB-79-6D-F6-C0-A5-36-18-10-59-09-BF-02-C3-32-02-98-B5-8E-39-CD
 	}
 	FILE
 	{
-		filename = FoxDefenseContracts/American/M4Sherman/M4Sherman.cfg
-		SHA = 1E-85-EE-A3-17-9E-FA-34-EC-F1-B3-47-00-6C-88-30-87-85-62-3D-8D-63-D5-13-5D-AE-09-77-6D-91-94-A9
-	}
-	FILE
-	{
-		filename = FoxDefenseContracts/American/M4ShermanCoax/M4Sherman.cfg
-		SHA = E6-AC-A4-AF-44-6E-DF-2C-FC-80-30-85-A9-24-35-45-C4-65-57-AF-13-66-7D-7A-C3-A9-A8-2E-BC-D6-32-FF
-	}
-	FILE
-	{
-		filename = FoxDefenseContracts/American/M60A3/M60A3.cfg
-		SHA = 31-A0-E5-9D-78-A6-BE-F3-08-CB-DD-CF-E5-4E-30-D4-35-B1-73-69-0C-E6-71-FA-80-89-93-8B-82-70-37-6E
-	}
-	FILE
-	{
 		filename = FoxDefenseContracts/American/MBT-70/MBT-70.cfg
 		SHA = 77-52-FD-D2-11-D0-CA-88-BA-AB-33-1D-73-16-F0-EF-79-01-0F-D7-CF-AF-E5-D3-5F-0B-EB-7D-7F-CF-C0-E0
-	}
-	FILE
-	{
-		filename = FoxDefenseContracts/American/Sherman105/Sherman105.cfg
-		SHA = 21-06-DA-EA-84-F7-DD-15-6E-0A-FE-7F-B7-BE-C2-74-56-BB-58-49-57-85-D5-2F-38-46-89-9E-CF-26-53-4C
-	}
-	FILE
-	{
-		filename = FoxDefenseContracts/American/ShermanFireFly/ShermanFirefly.cfg
-		SHA = D9-94-62-C4-40-EA-A6-9A-B3-59-5C-C1-8D-60-D2-2F-00-42-D1-28-43-A1-89-34-B3-18-F2-6D-B0-1C-65-4F
-	}
-	FILE
-	{
-		filename = FoxDefenseContracts/American/ShermanJumbo/ShermanJumbo.cfg
-		SHA = 7F-51-9C-B5-F1-19-47-25-E0-3A-3D-3F-81-DC-F7-36-60-49-31-BE-BB-1B-A2-35-6B-D4-7A-40-E9-6A-3A-BD
 	}
 	FILE
 	{
@@ -2735,16 +2660,6 @@ FilesSHA
 	}
 	FILE
 	{
-		filename = FoxDefenseContracts/American/T3HMC/T3HMC.cfg
-		SHA = A4-59-F3-8F-6E-E5-EB-1A-EC-12-DF-73-B4-92-E1-B5-EC-74-F4-B3-D4-7D-41-27-CE-3A-56-B3-4B-AE-77-75
-	}
-	FILE
-	{
-		filename = FoxDefenseContracts/American/T56GMC/T56GMC.cfg
-		SHA = 7F-A7-88-07-7D-53-08-9F-D0-63-26-A0-C9-86-E6-E4-0A-71-A2-23-8F-0D-35-CE-40-45-24-40-F0-A8-3C-FB
-	}
-	FILE
-	{
 		filename = FoxDefenseContracts/American/T57/T57.cfg
 		SHA = C9-AB-7A-FA-96-17-10-0E-20-D7-41-52-28-40-4A-52-4F-1B-1F-13-D7-98-75-0B-A0-5D-93-9F-B2-75-7F-35
 	}
@@ -2755,43 +2670,13 @@ FilesSHA
 	}
 	FILE
 	{
-		filename = FoxDefenseContracts/British/Cromwell/Cromwell.cfg
-		SHA = D9-0C-A4-B3-9B-C7-33-5D-A6-B2-72-A8-AC-B6-97-D0-5B-24-09-42-6D-1B-B1-54-FF-99-B8-D9-3D-C5-4F-74
-	}
-	FILE
-	{
-		filename = FoxDefenseContracts/British/Crusader/Crusader.cfg
-		SHA = 4D-AD-71-E3-B4-13-03-60-68-F9-E2-DD-9B-E5-EA-D3-72-5F-65-BC-5E-8A-2F-F6-DC-15-A0-59-64-17-D4-0D
-	}
-	FILE
-	{
 		filename = FoxDefenseContracts/British/FV4005/FV4005StageII.cfg
 		SHA = E0-4C-C3-8A-EB-3C-6E-A1-97-EE-E3-86-32-F1-78-0B-54-74-26-40-48-04-DD-3F-F3-34-39-29-39-09-A6-14
 	}
 	FILE
 	{
-		filename = FoxDefenseContracts/British/Sexton/SextonHE.cfg
-		SHA = A5-79-87-2F-4A-6A-A1-95-DC-90-EE-34-60-35-31-10-F8-24-1E-C7-84-99-58-71-7C-2F-0F-81-79-4B-76-AD
-	}
-	FILE
-	{
-		filename = FoxDefenseContracts/British/TOGII/TOGII.cfg
-		SHA = 95-CF-0E-0C-E1-A0-71-70-F5-5C-00-94-D4-35-A0-DA-B7-D3-61-C1-F7-66-F4-D2-BA-BC-E6-FC-C1-87-BC-57
-	}
-	FILE
-	{
 		filename = FoxDefenseContracts/British/Tortoise/Tortoise.cfg
 		SHA = 59-F6-83-0B-AE-79-F8-03-05-6F-7F-C2-A7-FC-A9-BE-BB-61-ED-B8-8B-DA-37-A9-67-EB-64-91-6F-80-63-57
-	}
-	FILE
-	{
-		filename = FoxDefenseContracts/British/UC2pdr/UC2pdr.cfg
-		SHA = 61-03-F4-4A-79-4F-0A-4A-4D-36-71-AE-AE-CE-1D-CF-AF-81-7D-58-37-40-94-B2-63-7D-3D-2D-CC-98-09-BF
-	}
-	FILE
-	{
-		filename = FoxDefenseContracts/British/ValentineAT/ValentineAT.cfg
-		SHA = 97-E2-28-5D-E9-7F-71-16-20-88-0F-18-D9-3B-41-97-47-38-6B-06-4A-18-8E-84-BD-AA-D7-6A-F7-2C-9A-3C
 	}
 	FILE
 	{
@@ -2825,21 +2710,6 @@ FilesSHA
 	}
 	FILE
 	{
-		filename = FoxDefenseContracts/French/FCM36Pak/FCMPak36.cfg
-		SHA = AF-98-34-F7-02-43-C6-6D-4C-37-37-BE-43-E8-64-93-4C-C6-7C-12-43-9C-41-A9-B8-73-16-42-C7-A1-DD-BE
-	}
-	FILE
-	{
-		filename = FoxDefenseContracts/French/FT_Ac/FT_AC.cfg
-		SHA = 98-7F-07-48-FC-22-4A-91-D3-E1-6E-06-FC-1C-82-66-FA-5D-B1-5F-12-81-E3-50-A0-C8-62-97-26-5C-56-B2
-	}
-	FILE
-	{
-		filename = FoxDefenseContracts/French/RenaultFT/RenaultFT.cfg
-		SHA = F6-A0-F8-E1-29-1F-59-34-7A-81-4C-EF-29-CA-32-79-E2-30-C1-F2-A4-CF-B7-37-9C-08-4D-3D-55-6C-8E-C5
-	}
-	FILE
-	{
 		filename = FoxDefenseContracts/German/50MMAA/5cmFlak.cfg
 		SHA = 1C-22-26-06-52-72-B8-00-1E-B4-55-E0-FF-B2-18-CF-A5-38-98-24-FC-7A-26-32-A9-52-71-42-E7-19-6F-9F
 	}
@@ -2860,83 +2730,13 @@ FilesSHA
 	}
 	FILE
 	{
-		filename = FoxDefenseContracts/German/Marder38T/Marder38T.cfg
-		SHA = 1E-F6-09-8E-8C-11-F1-D6-F1-7F-97-C9-84-EF-03-90-1D-BF-E5-06-1D-28-D2-05-5B-A3-95-32-1B-6E-93-EF
-	}
-	FILE
-	{
-		filename = FoxDefenseContracts/German/Maus/Maus.cfg
-		SHA = 1E-6F-93-DC-5A-6D-A8-6A-2C-43-46-66-E8-1A-02-DA-B6-E3-FC-F2-E4-38-B7-B7-EC-89-8E-A8-30-28-81-1C
-	}
-	FILE
-	{
-		filename = FoxDefenseContracts/German/Pak36/Pak36.cfg
-		SHA = 75-87-AE-68-0F-67-05-3C-02-D8-A6-84-D9-70-BB-EE-0A-B0-D4-86-F5-AD-7B-B3-33-9C-88-52-2F-1E-DD-2E
-	}
-	FILE
-	{
-		filename = FoxDefenseContracts/German/Pak40/Pak40.cfg
-		SHA = 86-B9-FA-C1-24-43-1C-B5-69-B3-23-A7-E9-8B-07-F1-D2-2F-52-10-26-DD-8A-F2-43-E2-FD-F2-03-E7-30-F3
-	}
-	FILE
-	{
-		filename = FoxDefenseContracts/German/Panther/Panther.cfg
-		SHA = 81-9E-DE-18-CE-8E-6D-E5-07-4F-83-53-7A-8B-C0-ED-06-AC-52-A7-2C-FB-F3-6E-D0-69-3C-B1-08-53-55-66
-	}
-	FILE
-	{
 		filename = FoxDefenseContracts/German/PantherII/PantherII.cfg
 		SHA = 22-6D-B4-04-29-EC-E5-79-9B-9C-5E-2D-45-DA-1E-59-8E-4B-7E-FB-84-AF-64-8C-BC-55-BE-D1-26-61-8B-0D
 	}
 	FILE
 	{
-		filename = FoxDefenseContracts/German/PanzerIIIausfJ/PanzerIIIausfJ.cfg
-		SHA = A4-B1-76-FF-D0-7F-3B-A6-EE-A5-9D-22-5A-3E-C7-58-62-E0-4E-53-C9-E9-ED-5D-A5-ED-FF-B5-54-16-B9-C7
-	}
-	FILE
-	{
-		filename = FoxDefenseContracts/German/PanzerIV/PanzerIv.cfg
-		SHA = AB-FB-4C-4D-58-3A-AB-DA-67-FB-8A-18-D9-09-83-02-18-F5-30-E0-16-D5-56-7D-40-73-59-E3-A9-2A-93-2F
-	}
-	FILE
-	{
-		filename = FoxDefenseContracts/German/Pz38T/Pz38T.cfg
-		SHA = CB-91-9B-87-DF-0C-AB-02-7C-60-45-26-F0-FB-CB-89-CB-08-2A-E4-2C-60-CD-C9-6B-D9-7E-0E-92-E0-5A-9B
-	}
-	FILE
-	{
-		filename = FoxDefenseContracts/German/PzJagerI/PzJagerI.cfg
-		SHA = 36-CD-00-F1-1A-D6-E6-C9-F2-7B-66-76-E0-2C-D4-02-12-81-40-49-EA-76-77-C2-74-7A-60-58-00-76-0E-68
-	}
-	FILE
-	{
 		filename = FoxDefenseContracts/German/Ru251/Ru251.cfg
 		SHA = 7A-DA-EB-EF-63-C1-2D-2C-A6-89-46-16-F7-DE-F6-33-D7-8F-89-8E-A3-9B-C5-F9-7E-6D-7B-ED-F7-F9-8E-09
-	}
-	FILE
-	{
-		filename = FoxDefenseContracts/German/SdKFz/SdKfz5cm.cfg
-		SHA = D4-3B-F8-A7-C7-EB-8F-D8-15-BC-44-5A-5E-EB-B1-4A-69-49-5C-BF-00-08-40-41-19-5F-8F-0C-99-91-2F-E5
-	}
-	FILE
-	{
-		filename = FoxDefenseContracts/German/StugIII/StugIII.cfg
-		SHA = 65-A3-FC-46-1F-D3-97-85-40-53-3C-CD-4B-F7-B2-DE-2A-A6-DC-4A-BE-01-D9-0F-3D-04-18-2F-F1-D0-AC-25
-	}
-	FILE
-	{
-		filename = FoxDefenseContracts/German/SturmPanzerII/SturmPanzerIIHE.cfg
-		SHA = C4-EC-44-1E-46-06-D0-7A-D9-44-74-ED-A0-7C-AA-96-3B-0D-54-CB-17-F1-4D-7A-AA-AF-F1-A7-20-92-16-B3
-	}
-	FILE
-	{
-		filename = FoxDefenseContracts/German/SturmTiger/SturmTigerHE.cfg
-		SHA = 27-B5-14-A8-18-B4-B3-6A-BE-DE-01-91-F6-99-9B-51-71-24-6C-5F-A7-D2-28-E1-F4-FE-26-5E-8C-1E-B2-5C
-	}
-	FILE
-	{
-		filename = FoxDefenseContracts/German/TigerI/TigerI.cfg
-		SHA = 3D-7F-DC-CC-17-A4-84-AA-AE-63-D1-9D-52-8B-4F-F3-4A-D0-5C-ED-A7-7E-44-4E-6D-2E-31-53-99-C3-E2-E6
 	}
 	FILE
 	{
@@ -2950,31 +2750,6 @@ FilesSHA
 	}
 	FILE
 	{
-		filename = FoxDefenseContracts/Japanese/ChiNu/ChiNu.cfg
-		SHA = 19-FC-1F-A8-FF-44-99-B0-B4-29-B7-9A-29-D8-48-0F-4E-A0-D5-5C-A2-2C-D7-8E-1A-C1-EB-B4-E8-F6-A1-36
-	}
-	FILE
-	{
-		filename = FoxDefenseContracts/Japanese/ChiRi/ChiRi.cfg
-		SHA = 3F-0D-F7-05-86-6A-43-94-1E-12-38-74-83-28-60-10-FC-FB-01-B9-DD-08-CC-EB-58-58-43-5E-5F-F7-36-98
-	}
-	FILE
-	{
-		filename = FoxDefenseContracts/Japanese/O-I/O-I.cfg
-		SHA = 4A-A2-66-69-A2-AE-18-C7-BD-0A-E8-0E-79-94-BF-3E-8C-BC-75-F3-05-74-F2-B8-8C-66-70-22-97-87-B4-F7
-	}
-	FILE
-	{
-		filename = FoxDefenseContracts/Japanese/Type-97/Type-97.cfg
-		SHA = 8D-A0-A4-6A-12-A9-F9-4F-FE-44-C3-75-DE-33-23-1E-2E-BF-40-1B-01-9D-A6-81-E3-B9-64-91-23-D7-AF-FF
-	}
-	FILE
-	{
-		filename = FoxDefenseContracts/Misc/7TP/7TP.cfg
-		SHA = 16-8A-C1-08-D2-50-C6-F9-DF-E7-7D-1F-35-0C-77-68-09-34-6E-E8-C1-30-5A-6A-96-AC-E3-A5-29-D3-21-8D
-	}
-	FILE
-	{
 		filename = FoxDefenseContracts/Misc/AmmoBox/FDCUniversalAmmoBox.cfg
 		SHA = 12-5B-50-49-87-DE-60-FE-83-B6-35-F5-8F-E9-43-ED-F6-43-1C-9A-2B-7E-40-10-17-BE-9F-A4-67-EC-85-DF
 	}
@@ -2982,16 +2757,6 @@ FilesSHA
 	{
 		filename = FoxDefenseContracts/Misc/ERA/ERA.cfg
 		SHA = 53-B0-50-49-96-79-30-98-7F-42-A8-E6-02-21-62-AB-51-4B-F4-3A-AD-6C-4A-8A-8E-FB-CA-15-38-5F-2B-16
-	}
-	FILE
-	{
-		filename = FoxDefenseContracts/Misc/Landmine/Landmine.cfg
-		SHA = 65-F1-C7-69-85-74-C6-C7-F3-8E-AE-16-15-45-9C-F9-0B-D9-59-DC-A0-44-42-86-7F-E3-28-9F-7D-DE-79-AE
-	}
-	FILE
-	{
-		filename = FoxDefenseContracts/Misc/STvz39T/STvz39T.cfg
-		SHA = CD-30-BA-C8-F7-2E-D9-C7-C7-33-65-ED-84-B4-0E-32-E4-9D-B8-FD-73-60-B4-79-5D-92-B2-1A-54-57-81-D9
 	}
 	FILE
 	{
@@ -3010,58 +2775,13 @@ FilesSHA
 	}
 	FILE
 	{
-		filename = FoxDefenseContracts/Russian/BT-7/BT-7.cfg
-		SHA = D4-59-BF-BF-7C-F3-FA-88-60-64-66-8C-59-DF-19-3A-FF-90-85-0A-7C-63-F1-A4-37-00-1B-58-92-90-2D-90
-	}
-	FILE
-	{
-		filename = FoxDefenseContracts/Russian/IS-1/IS-1.cfg
-		SHA = 1C-48-14-56-8D-DE-74-75-1B-F7-F6-D0-1A-0B-5A-1A-5D-DE-32-DF-26-E1-17-89-AF-43-65-7C-95-B4-92-86
-	}
-	FILE
-	{
 		filename = FoxDefenseContracts/Russian/IS-2/IS-2.cfg
 		SHA = 24-51-D9-E9-31-4A-95-9F-96-6C-7F-EC-DD-9A-3D-D6-B9-22-F5-4E-81-93-53-9E-F7-4B-7A-73-86-CB-93-EA
 	}
 	FILE
 	{
-		filename = FoxDefenseContracts/Russian/KV-1/KV-1.cfg
-		SHA = 68-9D-2E-90-06-AC-C6-D7-61-33-D7-1F-D6-60-2A-34-DD-2B-24-68-90-11-A0-C2-D4-BA-FC-14-58-F6-46-45
-	}
-	FILE
-	{
-		filename = FoxDefenseContracts/Russian/KV-2/KV-2HE.cfg
-		SHA = 8A-B8-05-02-62-62-DD-11-CA-43-81-93-45-05-95-9E-B1-18-39-F4-09-77-E9-B0-16-21-14-D0-A9-88-DB-03
-	}
-	FILE
-	{
-		filename = FoxDefenseContracts/Russian/SU100Y/SU100Y.cfg
-		SHA = F2-85-08-47-80-3F-E6-56-BA-CF-10-93-FE-A7-7A-95-F5-F1-30-43-F2-47-29-EB-25-47-A9-A2-0E-05-D1-A4
-	}
-	FILE
-	{
-		filename = FoxDefenseContracts/Russian/Su14/Su14HE.cfg
-		SHA = E4-7F-E3-62-E3-8C-63-32-42-7E-98-4B-63-9C-BD-34-B4-B3-8C-3E-F2-DD-17-83-7B-F0-77-38-9F-76-CF-65
-	}
-	FILE
-	{
-		filename = FoxDefenseContracts/Russian/Su5/Su5HE.cfg
-		SHA = 12-21-C8-C9-BE-CC-44-27-FE-EE-4D-AD-5B-91-E9-E0-63-2D-BF-FA-70-8B-CF-9C-9A-65-34-BD-97-21-83-30
-	}
-	FILE
-	{
 		filename = FoxDefenseContracts/Russian/T-10/T-10.cfg
 		SHA = D8-DF-C0-9D-10-74-45-9C-54-E0-05-7F-12-52-3C-97-92-87-D4-14-14-36-D4-B3-27-7A-AF-18-CE-14-2F-0A
-	}
-	FILE
-	{
-		filename = FoxDefenseContracts/Russian/T-26/T-26.cfg
-		SHA = B7-C9-AB-3D-4E-86-3F-35-23-09-E0-74-36-72-B5-32-A8-20-30-5B-50-2A-3F-9F-3E-40-67-EC-1E-32-6F-D3
-	}
-	FILE
-	{
-		filename = FoxDefenseContracts/Russian/T-34/T-34.cfg
-		SHA = EE-FE-8F-A6-B6-D0-28-31-38-37-FD-8B-E4-50-01-52-D5-A2-49-AF-CE-57-71-EA-A8-D6-95-1A-68-A4-98-C3
 	}
 	FILE
 	{
@@ -5405,11 +5125,6 @@ FilesSHA
 	}
 	FILE
 	{
-		filename = NoU/EW/Ammo.cfg
-		SHA = 45-FD-FD-E2-97-BB-7C-85-39-BB-64-39-82-8A-F1-F0-3D-F8-1A-BC-A3-76-C6-9B-4F-04-4A-5A-76-9E-11-7E
-	}
-	FILE
-	{
 		filename = NoU/EW/ArmorFinal.cfg
 		SHA = E5-95-A4-77-41-B2-4B-A0-74-20-9E-DF-51-B7-A3-15-28-90-AC-A0-5C-0E-63-91-20-C5-51-F0-DF-32-D9-54
 	}
@@ -5761,57 +5476,57 @@ FilesSHA
 	FILE
 	{
 		filename = NoU/Turrets/AMX30.cfg
-		SHA = 08-7A-F1-88-92-19-C6-43-61-EC-E3-C8-D2-E5-42-9C-E2-72-1B-05-E4-03-4F-8B-8C-3A-FF-2E-80-42-DA-C1
+		SHA = EA-66-3C-BB-56-7E-46-EA-5E-79-B5-CB-35-8F-CD-88-92-39-9E-91-C3-1B-21-46-53-C3-91-DB-FD-13-28-F4
 	}
 	FILE
 	{
 		filename = NoU/Turrets/Centurion.cfg
-		SHA = F3-DB-6C-73-D6-C2-24-34-45-59-B2-B8-FC-F1-52-DF-C6-80-3A-E1-C4-AB-AA-D3-A0-B3-3D-18-A1-0F-15-7D
+		SHA = 56-38-35-17-C8-16-D7-4D-C7-AB-08-70-59-86-B8-54-64-49-0F-64-9D-BB-86-93-EF-C7-24-1B-17-CC-63-8F
 	}
 	FILE
 	{
 		filename = NoU/Turrets/ChieftainMk3.cfg
-		SHA = 4D-D8-39-47-F8-5A-8D-CB-B9-83-1A-1C-1A-72-50-46-73-1A-DD-3D-1A-E4-24-57-9A-72-BB-64-41-54-3B-EF
+		SHA = 8E-77-F2-C3-B7-A4-4B-EF-C9-37-43-77-51-7C-5A-73-2A-33-74-DA-B3-36-87-14-70-67-02-84-2D-6F-18-F7
 	}
 	FILE
 	{
 		filename = NoU/Turrets/EBR90.cfg
-		SHA = EF-76-50-B0-E3-11-99-47-66-5F-BC-CB-00-66-23-1E-60-5E-7C-7A-E7-61-EC-E6-4A-E0-FF-03-21-06-4A-DF
+		SHA = B4-D8-C9-88-AF-2C-21-1B-C2-48-E4-DC-48-B8-A9-A2-49-E0-90-C0-9E-9B-74-05-CF-53-7E-B0-80-CE-8C-A2
 	}
 	FILE
 	{
 		filename = NoU/Turrets/Leopard1.cfg
-		SHA = 25-6F-70-4D-D4-C3-23-41-52-AE-CA-05-24-FB-09-D5-45-86-8A-3E-F1-3C-D4-8E-95-6B-48-D6-E7-6A-2E-C2
+		SHA = 72-32-BE-94-32-9F-E4-01-8B-91-27-AC-70-A0-74-D7-32-F1-91-8D-5A-0C-6D-0F-70-11-1E-1C-75-45-6A-64
 	}
 	FILE
 	{
 		filename = NoU/Turrets/Leopard1A1.cfg
-		SHA = 23-10-E1-88-4E-2A-C7-3E-98-1D-0E-A4-04-AF-10-1B-9E-DB-6C-08-1F-04-76-B1-8B-5D-50-64-E0-B1-D9-42
+		SHA = E2-11-93-6B-06-1E-38-0F-FA-E1-AD-7D-19-82-84-BD-C3-92-23-64-D7-A1-94-30-C2-D4-A5-24-3D-79-B8-36
 	}
 	FILE
 	{
 		filename = NoU/Turrets/m41.cfg
-		SHA = 97-B4-F9-38-23-D9-52-38-AA-B5-7C-3A-9B-8A-F2-8D-31-8F-47-47-D4-F9-98-98-79-36-2C-77-D1-56-EC-CD
+		SHA = BF-B2-2A-C8-73-D8-BD-D5-74-EE-5A-A0-C5-01-FE-3D-E2-D0-69-E8-0F-02-F2-EC-63-66-E5-DD-6D-F6-C9-D9
 	}
 	FILE
 	{
 		filename = NoU/Turrets/m48.cfg
-		SHA = B1-85-01-E9-C9-D2-DA-CA-AE-4A-0B-FC-50-FE-B2-75-A8-07-00-C7-3C-C1-66-0D-D5-06-4C-FC-D4-8F-70-52
+		SHA = 5F-B9-94-C2-67-AB-6B-7D-63-81-76-8B-F3-F4-A6-1B-DB-04-2B-90-CD-8B-C9-D7-36-17-00-F3-BD-76-0C-11
 	}
 	FILE
 	{
 		filename = NoU/Turrets/M551.cfg
-		SHA = 78-39-2D-CD-50-4C-DC-F2-61-39-A4-C6-BD-CE-2A-87-9B-90-56-74-80-B6-85-7B-8F-56-77-1F-36-46-DE-78
+		SHA = B3-28-CE-8D-8C-08-97-69-45-FF-7A-7B-C1-4C-7F-14-5A-DA-ED-13-F7-2B-A0-ED-A0-DF-97-4D-FF-4F-4A-B6
 	}
 	FILE
 	{
 		filename = NoU/Turrets/M60A1.cfg
-		SHA = FD-A9-2D-64-E6-B9-FB-76-19-9B-2F-D6-F3-25-4B-C8-F6-F2-EA-BB-C3-7D-8D-62-EB-F6-3D-DC-D3-2C-FC-94
+		SHA = 96-93-DC-9C-E3-91-15-AB-A7-75-8B-86-7B-27-18-46-F3-BA-D3-BC-23-70-FE-8B-ED-0E-B6-FC-8F-E6-A9-9B
 	}
 	FILE
 	{
 		filename = NoU/Turrets/M60A2.cfg
-		SHA = 79-DE-7A-3F-08-79-FC-BA-0D-1A-5F-16-D4-D3-05-4B-45-37-24-45-45-AD-E5-7C-98-E3-E6-93-F8-22-03-CC
+		SHA = 5D-03-56-93-00-64-A7-EB-7E-BD-88-B5-82-74-21-EA-B2-14-3F-F8-BC-BF-E3-A3-F3-42-26-A8-D0-56-21-4A
 	}
 	FILE
 	{
@@ -5821,17 +5536,17 @@ FilesSHA
 	FILE
 	{
 		filename = NoU/Turrets/PT-76.cfg
-		SHA = 72-7A-37-4C-60-DE-88-45-FA-57-66-2B-C7-74-2B-DF-34-47-24-27-75-9B-45-58-A1-CD-4B-20-D8-C6-7D-33
+		SHA = E0-82-F1-32-4C-C7-A4-B1-0E-C8-7E-AD-5E-E6-97-7E-B3-CF-72-40-12-E3-EA-22-8A-F5-9D-D4-AD-1E-5E-EA
 	}
 	FILE
 	{
 		filename = NoU/Turrets/T-54.cfg
-		SHA = 7F-60-D2-61-07-F8-96-80-1F-4A-11-21-DC-EA-7D-52-4F-C7-A9-4B-68-71-6D-B4-F3-12-32-A9-7E-C4-9B-9A
+		SHA = 4F-78-C9-0B-F8-86-DE-99-96-D6-2A-18-56-5F-1A-13-F4-99-6B-23-2E-8C-12-B2-FA-23-D8-E3-01-D5-B4-13
 	}
 	FILE
 	{
 		filename = NoU/Turrets/T-62.cfg
-		SHA = B4-CC-F6-A4-8A-26-BC-7F-01-64-84-5E-73-00-62-59-D6-02-9F-EA-8F-2E-FF-27-8B-2A-28-17-E6-84-52-42
+		SHA = 11-B7-EC-92-0E-85-6F-5A-7D-AC-62-0F-83-00-03-AF-42-44-8F-86-91-41-9D-0E-DA-B3-62-AF-24-96-4A-99
 	}
 	FILE
 	{

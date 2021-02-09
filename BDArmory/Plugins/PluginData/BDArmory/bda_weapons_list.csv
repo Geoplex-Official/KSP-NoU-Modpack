@@ -1,12 +1,12 @@
 NAME;TITLE;AUTHOR;MANUFACTURER;PART_MASS;PART_COST;PART_CRASHTOLERANCE;PART_MAXTEMP;WEAPON_RPM;WEAPON_DEVIATION;WEAPON_MAXEFFECTIVEDISTANCE;WEAPON_TYPE;WEAPON_BULLETTYPE;WEAPON_AMMONAME;WEAPON_BULLETMASS;WEAPON_BULLET_VELOCITY;WEAPON_MAXHEAT;WEAPON_HEATPERSHOT;WEAPON_HEATLOSS;CANNON_SHELLPOWER;CANNON_SHELLHEAT;CANNON_SHELLRADIUS;CANNON_AIRDETONATION
 hispanoEnclosed;WW2 Hispano MK2 20mm Cannon (Enclosed);VintageXP;Roaken Armory;0.054;800;12;1200;700;0.188;2500;ballistic;20x110mmAPShell; 20x110mmHEShell;20mm;0.388;1030;16200;399.3;512.22;0;False
-NS-30;NS-30;VintageXP;EngineEngineering;0.054;800;12;1200;1000;0.188;2500;ballistic;30mmBullet;30mm;0.388;1030;16200;399.3;512.22;0;False
-NR-23;NS-23;VintageXP;EngineEngineering;0.054;800;12;1200;850;0.188;2500;ballistic;23x115mmBullet;20mm;0.388;1030;16200;399.3;512.22;0;False
-N-37;N-37;VintageXP;EngineEngineering;0.054;800;12;1200;400;0.188;2500;ballistic;37MMAP;40mm;0.388;1030;16200;399.3;512.22;0;False
-DEFA;DEFA;VintageXP;EngineEngineering;0.054;800;12;1200;1700;0.188;2500;ballistic;30mmBullet;30mm;0.388;1030;16200;399.3;512.22;0;False
-ADEN;ADEN;VintageXP;EngineEngineering;0.054;800;12;1200;1700;0.188;2500;ballistic;30mmBullet;30mm;0.388;1030;16200;399.3;512.22;0;False
-AN/M3;AN/M3;VintageXP;EngineEngineering;0.054;800;12;1200;890;0.188;2500;ballistic;12.7mmBullet;.50cal;0.388;1030;16200;399.3;512.22;0;False
-M39A1;M39A1;VintageXP;EngineEngineering;0.054;800;12;1200;1500;0.188;2500;ballistic;20x102mmBullet;20mm;0.388;1030;16200;399.3;512.22;0;False
+NS-30;NS-30;VintageXP;Kerbal Kombat Anthology;0.054;800;12;1200;1000;0.188;2500;ballistic;30mmBullet;30mm;0.388;1030;16200;399.3;512.22;0;False
+NR-23;NS-23;VintageXP;Kerbal Kombat Anthology;0.054;800;12;1200;850;0.188;2500;ballistic;23x115mmBullet;20mm;0.388;1030;16200;399.3;512.22;0;False
+N-37;N-37;VintageXP;Kerbal Kombat Anthology;0.054;800;12;1200;400;0.188;2500;ballistic;37MMAP;40mm;0.388;1030;16200;399.3;512.22;0;False
+DEFA;DEFA;VintageXP;Kerbal Kombat Anthology;0.054;800;12;1200;1700;0.188;2500;ballistic;30mmBullet;30mm;0.388;1030;16200;399.3;512.22;0;False
+ADEN;ADEN;VintageXP;Kerbal Kombat Anthology;0.054;800;12;1200;1700;0.188;2500;ballistic;30mmBullet;30mm;0.388;1030;16200;399.3;512.22;0;False
+AN/M3;AN/M3;VintageXP;Kerbal Kombat Anthology;0.054;800;12;1200;890;0.188;2500;ballistic;12.7mmBullet;.50cal;0.388;1030;16200;399.3;512.22;0;False
+M39A1;M39A1;VintageXP;Kerbal Kombat Anthology;0.054;800;12;1200;1500;0.188;2500;ballistic;20x102mmBullet;20mm;0.388;1030;16200;399.3;512.22;0;False
 hispanoExposed;WW2 Hispano MK2 20mm Cannon;VintageXP;Roaken Armory;0.048;800;12;1200;710;0.215;2500;ballistic;20x110mmAPShell; 20x110mmHEShell;20mm;0.388;1030;14400;399.3;515.86;0;False
 WW2Ho5WingMount;WW2 Ho-5 20mm Cannon;VintageXP, SuicidalInsanity;Roaken Armory;0.037;800;12;1200;750;0.29;2500;ballistic;20x94mmAPTShell; 20x94mmHEShell;20mm;0.388;1030;14000;340.3;562.22;0;False
 Mg151Long;WW2 MG 151 15mm Long Barrel;VintageXP;Roaken Armory;0.042;800;12;1200;700;0.29;2500;ballistic;15x96mmAPBullet; 15x96mmHEBullet;15mm;0.388;1030;12600;246.24;609.58;0;False
@@ -44,8 +44,8 @@ BDAcGKmk2;Goalkeeper MK2 CIWS;BahamutoD;Bahamuto Dynamics;4.4;950;50;1523.15;420
 bahaH70Launcher;Hydra-70 Rocket Pod;BahamutoD;Bahamuto Dynamics;0.016;650;37;1523.15;650;1;4000;rocket;Hydra70;Hydra70Rocket;0.388;1030;3600;75;250;0;False
 bahaH70Turret;Hydra-70 Rocket Turret;BahamutoD;Bahamuto Dynamics;0.416;650;37;1523.15;650;1;4000;rocket;Hydra70;Hydra70Rocket;0.388;1030;3600;75;250;0;False
 bahaHiddenVulcan;Vulcan (Hidden);BahamutoD;Bahamuto Dynamics;0.1;950;60;1523.15;5500;0.125;2500;ballistic;20x102mmHEBullet;20x102Ammo;0.388;1030;3600;36;820;0;False
-GSh-23L;GSh-23L;BahamutoD;EngineEngineering;0.05;950;60;1523.15;3600;0.125;2500;ballistic;23x115mmBullet;23mm;0.388;1030;3600;36;820;0;False
-M61A1;M61A1;BahamutoD;EngineEngineering;0.112;950;60;1523.15;6000;0.125;2500;ballistic;20mmBullet;20mm;0.388;1030;3600;36;820;0;False
+GSh-23L;GSh-23L;BahamutoD;Kerbal Kombat Anthology;0.05;950;60;1523.15;3600;0.125;2500;ballistic;23x115mmBullet;23mm;0.388;1030;3600;36;820;0;False
+M61A1;M61A1;BahamutoD;Kerbal Kombat Anthology;0.112;950;60;1523.15;6000;0.125;2500;ballistic;20mmBullet;20mm;0.388;1030;3600;36;820;0;False
 bahaM102Howitzer;M102 Howitzer (Radial);BahamutoD;Bahamuto Dynamics;1;3500;60;1523.15;13;0.25;8000;ballistic;105mmBullet; 105mmHEBullet;CannonShells;0.388;1030;3600;60;740;0;False
 bahaM102HowitzerHE;M102 Howitzer (Radial) HE;BahamutoD;Bahamuto Dynamics;1;3500;60;1523.15;13;0.25;8000;ballistic;105mmHEBullet;CannonShells;0.388;1030;3600;60;740;0;False
 bahaM1Abrams;M1 Abrams Cannon;BahamutoD;Bahamuto Dynamics;2;3500;125;1523.15;10;0.2;8000;ballistic;120mmBullet; 120mmBulletHE; 120mmBulletCannister;CannonShells;0.388;1030;3600;60;740;0;False
@@ -90,17 +90,17 @@ T-54;T-54;Marhfg;Fox Defense Contracts;5.4;3425;250;1523.15;6;0.039;8000;ballist
 T-64;T-64A;Marhfg;Fox Defense Contracts;5.7;3425;250;1523.15;8;0.032;8000;ballistic;3BM22APFSDS; 3BM22HEATFS;3BM22;0.388;1030;3600;60;740;0;False
 theotomelara76compact;OTO Melara 76mm Compact;SPanner from original mesh by Themorris;MalFunc Industries;5.9;950;60;1523.15;100;0.2;16000;cannon;76x636mmBullet;76x636Ammo;0.388;1030;3600;100;1000;0;True
 thephalanx;Phalanx CIWS;Spanner /Themorris;MalFunc Industries;0.1;950;60;1523.15;4500;0.12;3000;ballistic;20x102mmBullet;20x102Ammo;0.388;1030;3600;12;820;0;False
-amx30;AMX-30;Toonu;Bahamuto Dynamics;6;3500;125;1523.15;7.8;0.04;2000;ballistic;105MMHEATFS;CannonShells;0.388;1030;3600;60;740;0;False
-centurion;Centurion Mk.10;Toonu;Bahamuto Dynamics;6;3500;125;1523.15;7.8;0.04;2000;ballistic;105MMAPDS;CannonShells;0.388;1030;3600;60;740;0;False
-ChieftainMK3;Chieftain Mk.3;Toonu;Bahamuto Dynamics;8;3500;125;1523.15;7;0.04;2000;ballistic;120MMFAP;CannonShells;0.388;1030;3600;60;740;0;False
-ebr90;Panhard EBR-90;Toonu;Bahamuto Dynamics;3.4;3500;125;1523.15;12;0.04;8000;ballistic;90MMAP;CannonShells;0.388;1030;3600;60;740;0;False
-Leopard1A0;Leopard 1;Toonu;Bahamuto Dynamics;5;3500;125;1523.15;7.8;0.04;2000;ballistic;105MMLeopard1APDS; 105MMLeopard1HESH; 105MMLeopard1HEATFS;CannonShells;0.388;1030;3600;60;740;0;False
-Leopard1A1;Leopard 1A1;Toonu;Bahamuto Dynamics;6;3500;125;1523.15;7.8;0.04;2000;ballistic;105MMAPDS; 105MMHEATFS;CannonShells;0.388;1030;3600;60;740;0;False
-m41;m41;Toonu;Bahamuto Dynamics;3.6;3500;125;1523.15;8.8;0.04;2000;ballistic;76MMAP; 76MMAPCR;CannonShells;0.388;1030;3600;60;740;0;False
-m48;m48;Toonu;Bahamuto Dynamics;5.6;3500;125;1523.15;7;0.04;2000;ballistic;90MMM36APCR; 90MMHEATFSGer;CannonShells;0.388;1030;3600;60;740;0;False
-M551;M551;Toonu;Bahamuto Dynamics;5;3500;125;1523.15;3.6;0.04;2000;ballistic;152MMHEAT;CannonShells;0.388;1030;3600;60;740;0;False
-M60A1;M60A1;Toonu;Bahamuto Dynamics;6.5;3500;125;1523.15;6.8;0.04;2000;ballistic;105MMTAPCR; 105MMHEATFS;CannonShells;0.388;1030;3600;60;740;0;False
-M60A2;M60A2;Toonu;Bahamuto Dynamics;6;3500;125;1523.15;4.5;0.04;2000;ballistic;152MMHEAT;CannonShells;0.388;1030;3600;60;740;0;False
-pt76;PT-76;Toonu;Bahamuto Dynamics;3.5;3500;125;1523.15;6;0.04;2000;ballistic;76.2MMRAPCR; 76MMHE;CannonShells;0.388;1030;3600;60;740;0;False
-t54;T-54;Toonu;Bahamuto Dynamics;5.4;3500;125;1523.15;6.15;0.05;2000;ballistic;100MMAPCR;CannonShells;0.388;1030;3600;60;740;0;False
-t62;T-62;Toonu;Bahamuto Dynamics;6.2;3500;125;1523.15;5.7;0.04;2000;ballistic;120MMFAP; 120MMHEAT;CannonShells;0.388;1030;3600;60;740;0;False
+amx30;AMX-30;Toonu;Kerbal Kombat Anthology;6;3500;125;1523.15;7.8;0.04;2000;ballistic;105MMHEATFS;CannonShells;0.388;1030;3600;60;740;0;False
+centurion;Centurion Mk.10;Toonu;Kerbal Kombat Anthology;6;3500;125;1523.15;7.8;0.04;2000;ballistic;105MMAPDS;CannonShells;0.388;1030;3600;60;740;0;False
+ChieftainMK3;Chieftain Mk.3;Toonu;Kerbal Kombat Anthology;8;3500;125;1523.15;7;0.04;2000;ballistic;120MMFAP;CannonShells;0.388;1030;3600;60;740;0;False
+ebr90;Panhard EBR-90;Toonu;Kerbal Kombat Anthology;3.4;3500;125;1523.15;12;0.04;8000;ballistic;90MMAP;CannonShells;0.388;1030;3600;60;740;0;False
+Leopard1A0;Leopard 1;Toonu;Kerbal Kombat Anthology;5;3500;125;1523.15;7.8;0.04;2000;ballistic;105MMLeopard1APDS; 105MMLeopard1HESH; 105MMLeopard1HEATFS;CannonShells;0.388;1030;3600;60;740;0;False
+Leopard1A1;Leopard 1A1;Toonu;Kerbal Kombat Anthology;6;3500;125;1523.15;7.8;0.04;2000;ballistic;105MMAPDS; 105MMHEATFS;CannonShells;0.388;1030;3600;60;740;0;False
+m41;m41;Toonu;Kerbal Kombat Anthology;3.6;3500;125;1523.15;8.8;0.04;2000;ballistic;76MMAP; 76MMAPCR;CannonShells;0.388;1030;3600;60;740;0;False
+m48;m48;Toonu;Kerbal Kombat Anthology;5.6;3500;125;1523.15;7;0.04;2000;ballistic;90MMM36APCR; 90MMHEATFSGer;CannonShells;0.388;1030;3600;60;740;0;False
+M551;M551;Toonu;Kerbal Kombat Anthology;5;3500;125;1523.15;3.6;0.04;2000;ballistic;152MMHEAT;CannonShells;0.388;1030;3600;60;740;0;False
+M60A1;M60A1;Toonu;Kerbal Kombat Anthology;6.5;3500;125;1523.15;6.8;0.04;2000;ballistic;105MMTAPCR; 105MMHEATFS;CannonShells;0.388;1030;3600;60;740;0;False
+M60A2;M60A2;Toonu;Kerbal Kombat Anthology;6;3500;125;1523.15;4.5;0.04;2000;ballistic;152MMHEAT;CannonShells;0.388;1030;3600;60;740;0;False
+pt76;PT-76;Toonu;Kerbal Kombat Anthology;3.5;3500;125;1523.15;6;0.04;2000;ballistic;76.2MMRAPCR; 76MMHE;CannonShells;0.388;1030;3600;60;740;0;False
+t54;T-54;Toonu;Kerbal Kombat Anthology;5.4;3500;125;1523.15;6.15;0.05;2000;ballistic;100MMAPCR;CannonShells;0.388;1030;3600;60;740;0;False
+t62;T-62;Toonu;Kerbal Kombat Anthology;6.2;3500;125;1523.15;5.7;0.04;2000;ballistic;120MMFAP; 120MMHEAT;CannonShells;0.388;1030;3600;60;740;0;False

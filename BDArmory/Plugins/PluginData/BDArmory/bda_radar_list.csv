@@ -41,9 +41,9 @@ thephalanx;Phalanx CIWS;Spanner /Themorris;MalFunc Industries;0.1;950;60;1523.15
 SEARAMLauncherTurret;SeaRAM Launcher;Spanner / Themorris;MalFunc Industries;1.75;950;60;1523.15;SeaRAM Radar;SAM;True;90;10;240;120;4;True;30;2;True;True;True;True;1;0.2;10@10;10@10
 smartsradar;SMART-S Radar;BahamutoD;MalFunc Industries;1;600;7;1523.15;SMART-S Radar;DETECTION;True;90;10;180;120;4;True;30;2;True;False;False;True;1;0.25;30@50;0@-3.402823E+38
 STIRradar;STIR Locking Radar;Themorris;MalFunc Industries;1;600;7;1523.15;STIR Fire Control Radar;SAM;True;90;10;120;120;4;True;30;2;False;True;False;True;1;0.6;20@30;20@30
-ebr90;Panhard EBR-90;Toonu;Bahamuto Dynamics;3.4;3500;125;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
-m41;m41;Toonu;Bahamuto Dynamics;3.6;3500;125;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
-m48;m48;Toonu;Bahamuto Dynamics;5.6;3500;125;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
-pt76;PT-76;Toonu;Bahamuto Dynamics;3.5;3500;125;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
-t54;T-54;Toonu;Bahamuto Dynamics;5.4;3500;125;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
-t62;T-62;Toonu;Bahamuto Dynamics;6.2;3500;125;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
+ebr90;Panhard EBR-90;Toonu;Kerbal Kombat Anthology;3.4;3500;125;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
+m41;m41;Toonu;Kerbal Kombat Anthology;3.6;3500;125;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
+m48;m48;Toonu;Kerbal Kombat Anthology;5.6;3500;125;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
+pt76;PT-76;Toonu;Kerbal Kombat Anthology;3.5;3500;125;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
+t54;T-54;Toonu;Kerbal Kombat Anthology;5.4;3500;125;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
+t62;T-62;Toonu;Kerbal Kombat Anthology;6.2;3500;125;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38

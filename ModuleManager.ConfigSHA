@@ -1,4 +1,4 @@
-SHA = 04-9B-27-53-BB-21-E3-85-97-33-14-39-66-EF-C1-22-74-8A-2D-E8-44-04-73-EE-37-69-9B-E4-C8-3D-A2-8F
+SHA = 18-D1-13-66-E5-40-8F-2E-88-BD-F3-BE-70-58-7D-5C-18-E2-B2-FE-49-75-F7-D7-E9-B0-D4-0E-82-DF-14-EF
 version = 4.1.4.0
 KSPVersion = 1.10.1.2939
 FilesSHA
@@ -5835,93 +5835,8 @@ FilesSHA
 	}
 	FILE
 	{
-		filename = SMI_MissilesLaunchers/Config2/533Twintubes.cfg
-		SHA = CD-BA-B0-B0-23-13-93-57-F6-DA-09-E6-35-75-90-CF-22-68-5B-48-04-32-69-00-69-A6-53-B7-F3-90-FE-5C
-	}
-	FILE
-	{
-		filename = SMI_MissilesLaunchers/Config2/BLM-MK1Tube.cfg
-		SHA = EA-D6-58-0E-6D-96-46-62-83-02-B0-28-A4-D0-CE-08-1F-6C-7C-76-68-5F-B6-F9-BA-C0-C9-20-DE-15-35-17
-	}
-	FILE
-	{
-		filename = SMI_MissilesLaunchers/Config2/BrimAGM3.cfg
-		SHA = 6D-97-15-63-47-6A-09-53-78-96-C3-CD-5F-AC-82-43-0E-12-48-BD-F9-A6-B3-FE-E1-7E-97-AB-03-F6-AF-31
-	}
-	FILE
-	{
-		filename = SMI_MissilesLaunchers/Config2/BrimAGM5.cfg
-		SHA = 15-A4-36-50-3A-8E-13-16-65-E8-58-8A-3F-F6-5B-79-0A-7E-EB-69-C6-33-B4-46-2E-70-CA-12-6A-D0-84-D6
-	}
-	FILE
-	{
-		filename = SMI_MissilesLaunchers/Config2/CMS109.cfg
-		SHA = BA-55-1C-2C-C4-C0-D2-F8-64-E6-C5-8C-D0-05-17-77-8F-B0-24-FC-C3-33-7D-8C-D3-7D-81-A6-9C-AA-91-16
-	}
-	FILE
-	{
-		filename = SMI_MissilesLaunchers/Config2/CMS109b.cfg
-		SHA = 4C-DB-BD-24-D9-6D-26-A3-55-3D-C1-96-7A-80-99-C2-2D-9C-8F-E3-3D-2A-0E-06-26-47-D9-E4-71-55-C7-48
-	}
-	FILE
-	{
-		filename = SMI_MissilesLaunchers/Config2/HedgeHogTurret.cfg
-		SHA = 97-1A-6E-02-D0-66-28-E2-ED-9E-4E-CE-70-61-71-B7-5D-56-B9-EA-1F-C8-33-D8-ED-45-ED-91-3C-AE-73-ED
-	}
-	FILE
-	{
-		filename = SMI_MissilesLaunchers/Config2/LauncherpaintMM.cfg
-		SHA = C1-62-ED-15-BE-B8-63-8D-37-FF-5A-42-3E-EE-5F-55-D0-DA-53-F3-FB-63-B5-BB-06-F2-A1-E8-74-F8-29-BF
-	}
-	FILE
-	{
-		filename = SMI_MissilesLaunchers/Config2/LP10missileTurret.cfg
-		SHA = 5B-20-18-CB-28-93-16-74-2E-44-86-E3-F4-75-EA-CC-04-C7-DC-E2-EF-51-49-C5-1B-66-B9-54-4D-B7-FA-A7
-	}
-	FILE
-	{
-		filename = SMI_MissilesLaunchers/Config2/LP10missileTurretpaint_MM.cfg
-		SHA = 62-70-C2-AA-3B-13-D7-BF-14-B9-4E-5F-89-9C-5A-FE-D6-88-9B-66-C2-C2-E9-AE-BC-D5-A3-17-3D-65-24-71
-	}
-	FILE
-	{
-		filename = SMI_MissilesLaunchers/Config2/LP10missileTurretS.cfg
-		SHA = 02-20-25-7C-4C-83-29-D9-1F-29-F0-11-29-3A-CB-A8-FB-4B-8E-20-47-67-BE-47-32-3F-BD-8F-78-61-22-EB
-	}
-	FILE
-	{
-		filename = SMI_MissilesLaunchers/Config2/LTBM2.cfg
-		SHA = BC-CB-D7-47-21-0D-57-7A-52-DB-60-AE-7E-4D-A5-B5-81-56-B6-5B-E6-4F-36-97-2D-F3-41-0D-22-45-8B-93
-	}
-	FILE
-	{
-		filename = SMI_MissilesLaunchers/Config2/LTBM2paintMM.cfg
-		SHA = 2B-14-25-A1-FA-DC-7D-1C-FC-08-DE-DA-34-98-21-BC-F7-D4-FE-B6-B7-B0-B3-14-8F-AF-77-93-F5-3D-80-3B
-	}
-	FILE
-	{
-		filename = SMI_MissilesLaunchers/Config2/MissileLaunchCannister3.cfg
-		SHA = DA-65-15-92-30-45-E8-DE-C1-DE-AC-3A-78-0A-16-F8-BE-32-04-4B-AA-57-3B-A1-56-7E-56-15-DD-0E-2E-3E
-	}
-	FILE
-	{
-		filename = SMI_MissilesLaunchers/Config2/MissileLaunchCannister6.cfg
-		SHA = 72-C1-AF-47-12-FD-23-D8-4F-6C-1A-64-E5-63-29-2F-78-B1-46-37-42-28-55-E7-11-99-55-33-93-AD-9C-1B
-	}
-	FILE
-	{
 		filename = SMI_MissilesLaunchers/Config2/MK141GMLS.cfg
 		SHA = AB-AE-4D-59-3A-92-F6-7F-87-90-A3-AF-A0-AA-1C-1A-86-24-0A-6F-A0-45-18-94-76-DE-50-22-30-B4-64-6B
-	}
-	FILE
-	{
-		filename = SMI_MissilesLaunchers/Config2/MK32Launcher.cfg
-		SHA = 93-3E-7F-3F-7F-D0-E3-48-EA-3B-6D-B5-0E-4F-CC-B7-8C-D6-7D-FF-8A-00-03-25-44-AD-C5-44-4B-13-33-4A
-	}
-	FILE
-	{
-		filename = SMI_MissilesLaunchers/Config2/MK32Launchersingle.cfg
-		SHA = 44-04-D9-AB-B1-41-EA-95-50-79-7F-1D-23-AB-CB-87-FB-E9-5B-71-E6-7C-04-8D-39-F7-AD-11-D0-55-2B-4E
 	}
 	FILE
 	{
@@ -5937,66 +5852,6 @@ FilesSHA
 	{
 		filename = SMI_MissilesLaunchers/Config2/P1KSLTpaintMM.cfg
 		SHA = 58-CF-F2-A2-0D-0E-42-C2-D6-53-ED-1D-F4-1B-05-A4-6F-05-D7-3D-5A-1B-E2-09-23-80-19-DB-1D-0E-1F-5D
-	}
-	FILE
-	{
-		filename = SMI_MissilesLaunchers/Config2/SMAMk331TLT.cfg
-		SHA = 85-5C-AD-18-0F-CC-4E-BC-5B-C7-D5-8C-1D-7C-17-99-6D-7C-F4-8C-75-31-0D-D1-DF-EE-71-E2-E6-0D-FA-F0
-	}
-	FILE
-	{
-		filename = SMI_MissilesLaunchers/Config2/UniversalLauncherMK1.cfg
-		SHA = C7-FC-5F-73-6E-35-85-EB-C1-EA-86-60-34-BB-30-7B-EA-C1-0B-1B-6B-C6-4D-AB-35-FE-F3-07-3E-D5-F7-64
-	}
-	FILE
-	{
-		filename = SMI_MissilesLaunchers/Config2/V2LauncherMK1.cfg
-		SHA = 21-5B-84-00-1F-5C-8E-7B-4F-3A-E2-D9-8D-C0-D8-1A-74-1A-FD-92-E5-C7-4C-B7-45-52-DD-06-D0-46-40-A4
-	}
-	FILE
-	{
-		filename = SMI_MissilesLaunchers/Config2/ZIF101LauncherMK1.cfg
-		SHA = 0D-99-5A-C0-9A-CA-A4-E8-31-4B-CA-6A-10-DF-C6-DD-F9-40-0A-E0-1C-53-D6-BE-09-8D-5D-C7-89-5E-C1-D6
-	}
-	FILE
-	{
-		filename = SMI_MissilesLaunchers/Config2/ZIF101LauncherMK2.cfg
-		SHA = 37-08-D3-06-83-90-7A-65-5B-25-47-82-D4-74-9C-CD-B8-AF-B9-98-FE-D5-55-92-00-F3-84-46-6E-78-29-49
-	}
-	FILE
-	{
-		filename = SMI_MissilesLaunchers/PofD/PofDSCT.cfg
-		SHA = 1A-AD-F2-D7-40-13-45-A2-FE-55-13-83-CC-93-6E-60-E4-A1-CA-A8-43-73-A1-77-39-0B-9F-09-1C-0B-83-50
-	}
-	FILE
-	{
-		filename = SMI_MissilesLaunchers/PofD/PofDSCT_ARAD.cfg
-		SHA = 29-62-9A-59-C0-1B-E0-F9-AF-FC-FE-55-1B-C2-C2-D3-02-D0-35-4D-E1-67-1D-85-9F-3B-8D-EE-CD-2A-DE-F7
-	}
-	FILE
-	{
-		filename = SMI_MissilesLaunchers/SCARR/SCARR.cfg
-		SHA = 4F-A3-83-07-32-45-28-DE-9A-64-AF-6B-C1-47-6A-4B-FE-03-E4-71-AA-53-38-36-7E-A3-4D-B8-9F-15-4C-4D
-	}
-	FILE
-	{
-		filename = SMI_MissilesLaunchers/SMhydrostaticDC/DCdecoupler.cfg
-		SHA = A9-DE-BD-54-B0-B8-93-71-96-1A-40-40-7A-EA-C5-6F-A8-71-95-EC-7D-78-B8-BF-62-64-BD-7C-2B-23-CF-8C
-	}
-	FILE
-	{
-		filename = SMI_MissilesLaunchers/SMhydrostaticDC/HBmine200.cfg
-		SHA = 18-BC-D5-97-17-9E-C2-85-6F-22-0D-FD-F7-43-93-AE-94-98-50-68-E8-7B-27-A8-02-E9-9C-27-D8-B6-B0-63
-	}
-	FILE
-	{
-		filename = SMI_MissilesLaunchers/SMhydrostaticDC/HBM_MM_Crushable.cfg
-		SHA = B3-E2-8E-DF-50-DD-C2-BC-6E-EA-E0-90-6B-BC-CC-32-67-20-2C-BA-51-E7-EA-F1-24-AF-17-A7-5C-C3-6F-9B
-	}
-	FILE
-	{
-		filename = SMI_MissilesLaunchers/SMhydrostaticDC/HBDClauncher/HBDClauncher.cfg
-		SHA = 53-3E-48-69-56-AE-C3-CC-5C-D5-A8-9A-FD-54-4C-4B-4C-98-7F-EF-EE-8B-53-6E-3B-D2-4A-28-84-0F-66-B0
 	}
 	FILE
 	{

@@ -21,61 +21,33 @@ trg.anapq100;AN-APQ-100 Airborne Fire Control Radar;BahamutoD;Bahamuto Dynamics;
 trg.ai23;AI.23 AIRPASS Radar;BahamutoD;Bahamuto Dynamics;0.375;320;40;1000;AI.23 AIRPASS Radar;FIGHTER;False;55;10;100;20;20;False;30;2;True;True;False;True;1;0.1;135.8279@76.84827;150@64
 trg.rp21;RP-21 "Sapfir" Radar;BahamutoD;Bahamuto Dynamics;0.375;320;40;1000;RP-21 "Sapfir" Radar;FIGHTER;False;60;10;60;15;15;False;20;2;True;True;False;True;1;0.1;25@35;8@20
 trg.apq120;AN/APQ-120 Targeting Radar;BahamutoD;Bahamuto Dynamics;0.375;320;40;1000;AN/APQ-120 Targeting Radar;FIGHTER;False;50;10;30;60;20;False;30;2;True;True;False;True;1;0.9;37@93;50@40
-trg.rp2u;RP-2U Izumrud-2 Targeting Radar;BahamutoD;Bahamuto Dynamics;0.375;320;40;1000;RP-2U Izumrud-2 Targeting Radar;FIGHTER;False;20;10;30;20;20;False;30;2;True;True;False;True;1;0.1;90@10;35@35
-trg.al17;Air Interception Radar Al.17;BahamutoD;Bahamuto Dynamics;0.375;320;40;1000;Air Interception Radar Al.17;FIGHTER;False;45;10;30;45;45;False;30;2;True;True;False;True;1;0.1;499.0458@40.32608;35@35
-trg.apg51;AN/APG-51 Targeting Radar;BahamutoD;Bahamuto Dynamics;0.375;320;40;1000;AN/APG-51 Targeting Radar;FIGHTER;False;45;10;30;45;45;False;30;2;True;True;False;True;1;0.1;499.0458@40.32608;35@35
+trg.rp2u;RP-2U Izumrud-2 Targeting Radar;BahamutoD;Bahamuto Dynamics;0.375;320;40;1000;RP-2U Izumrud-2 Targeting Radar;FIGHTER;False;20;10;30;20;20;False;30;2;True;True;False;True;1;0.1;100@7.5;150@10
+trg.al17;Air Interception Radar Al.17;BahamutoD;Bahamuto Dynamics;0.375;320;40;1000;Air Interception Radar Al.17;FIGHTER;False;45;10;30;45;45;False;30;2;True;True;False;True;1;0.1;100@33;100@8.5
+trg.apq51;AN/APQ-51 Targeting Radar;BahamutoD;Bahamuto Dynamics;0.375;320;40;1000;AN/APG-51 Targeting Radar;FIGHTER;False;45;10;30;45;45;False;30;2;True;True;False;True;1;0.1;100@37;100@10
 grnd.radar1;Radar Beam Guidance Radar;BahamutoD;Bahamuto Dynamics;0.375;320;40;1000;Radar Beam Guidance Radar;FIGHTER;False;90;10;360;360;45;False;30;4;True;True;False;True;1;2;90@90;35@35
 bdRadome1inlineGA;APG-77v1 air-to-ground Radar (Inline);BahamutoD;Bahamuto Dynamics;0.375;320;40;1000;APG-77 atg;FIGHTER;False;120;10;120;120;4;True;40;2;True;True;True;False;3;1.7;35@40;40@40
 bdRadome1snub;AN/APG-63 Radome;BahamutoD;Bahamuto Dynamics;0.375;320;40;1000;AN/APG-63V1 Radome;FIGHTER;False;120;10;120;120;4;True;40;2;True;True;True;False;1;0.4;30@30;35@30
 bdRadome1snubGA;APG-77v1 air-to-ground Radar (Snub);BahamutoD;Bahamuto Dynamics;0.375;320;40;1000;APG-77 atg;FIGHTER;False;120;10;120;120;4;True;40;2;True;True;True;False;1;1.7;35@40;40@40
 BDAsonarPod1A;BDA MK1 Sonar Pod;Spanner;Bahamuto Dynamics;0.001;600;7;1523.15;BDA MK1 Sonar Pod;SONAR;True;90;10;90;90;4;True;30;2;True;True;True;True;1;0.4;150@40;200@40
-search.aps20;AN/APS-95 Airborne Search Radar;Spanner;SM Armory;0.001;600;7;1523.15;AN/APS-20 Search Radar;AWACS;True;6.7;10;9.4;120;4;False;30;2;True;False;False;True;1;1.6;390@420;200@40
+search.aps95;AN/APS-95 Airborne Search Radar;Spanner;SM Armory;0.001;600;7;1523.15;AN/APS-20 Search Radar;AWACS;True;6.7;10;9.4;120;4;False;30;2;True;False;False;True;1;1.6;390@420;200@40
 ground.aps33;AN/APS-33 Ground Search Radar;Spanner;SM Armory;0.001;600;7;1523.15;AN/APS-33 Ground Search Radar;AWACS;True;5;10;10;120;4;False;30;2;True;True;False;True;1;3;1000@35;200@40
 search.aps20;AN/APS-20 Airborne Search Radar;Spanner;SM Armory;0.001;600;7;1523.15;AN/APS-20 Search Radar;AWACS;True;5;10;10;120;4;False;30;2;True;False;False;True;1;1.5;414.9879@370;200@40
 HSTVAP;HSTV APFSDS;Marhfg;Fox Defense Contracts;3.075;3425;250;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
-M103AP;M103 120mm AP;Marhfg;Fox Defense Contracts;8.51;3425;250;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
-M103HE;M103 120mm HE;Marhfg;Fox Defense Contracts;8.51;3425;250;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
-M103HEAT;M103 120mm HEAT-FS;Marhfg;Fox Defense Contracts;8.51;3425;250;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
-AbramsA2AP;M1A2 Abrams APFSDS;Marhfg;Fox Defense Contracts;9.26;3425;250;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
-AbramsA2HEAT;M1A2 Abrams HEAT-FS;Marhfg;Fox Defense Contracts;9.26;3425;250;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
+M103;M103 120mm;Marhfg;Fox Defense Contracts;8.51;3425;250;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
+AbramsA2;M1A2 Abrams;Marhfg;Fox Defense Contracts;9.26;3425;250;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
 M3Bradly;M3 Bradley APDS;Marhfg;Fox Defense Contracts;4.125;3425;250;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
-M3Stuart;M3 Stuart AP;Marhfg;Fox Defense Contracts;2;3425;250;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
-M3StuartAPC;M3 Stuart APC;Marhfg;Fox Defense Contracts;2;3425;250;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
-M4Sherman;M4 Sherman 75mm AP;Marhfg;Fox Defense Contracts;4.6;3425;250;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
-M4ShermanAPCBC;M4 Sherman 75mm APCBC;Marhfg;Fox Defense Contracts;4.6;3425;250;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
-M4ShermanHE;M4 Sherman 75mm HE;Marhfg;Fox Defense Contracts;4.6;3425;250;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
-T26E4;T26E4 AP;Marhfg;Fox Defense Contracts;7.5;2700;250;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
-T26E4CamoHE;T26E4 HE;Marhfg;Fox Defense Contracts;7.5;2700;250;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
-T26E4CamoAPCBC;T26E4 APCBC;Marhfg;Fox Defense Contracts;7.5;2700;250;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
-T26E4CamoAPCR;T26E4 APCR;Marhfg;Fox Defense Contracts;7.5;2700;250;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
-AMT34;T34 Heavy Tank Turret APCBC;Marhfg;Fox Defense Contracts;9.77;3425;250;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
-AMT34APCR;T34 Heavy Tank Turret APCR;Marhfg;Fox Defense Contracts;9.77;3425;250;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
-AMT34HE;T34 Heavy Tank Turret HE;Marhfg;Fox Defense Contracts;9.77;3425;250;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
-FV4005APCR;FV4005 Stage II 183MM APCR;Marhfg;Fox Defense Contracts;9;3425;250;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
-FV4005HESH2;FV4005 Stage II 183MM HESH;Marhfg;Fox Defense Contracts;9;3425;250;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
-Amx50B;Amx 50B APC;Marhfg;Fox Defense Contracts;8.67;2700;250;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
-Amx50BHE;Amx 50B HE;Marhfg;Fox Defense Contracts;8.67;2700;250;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
-AmxELCbis;Amx ELC Bis APC;Marhfg;Fox Defense Contracts;1.01;2700;250;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
-AmxELCbisHE;Amx ELC Bis HE;Marhfg;Fox Defense Contracts;1.01;2700;250;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
-BatChat25;BatChat_25T APC;Marhfg;Fox Defense Contracts;3.75;2700;250;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
-BatChat25HE;BatChat_25T HE;Marhfg;Fox Defense Contracts;3.75;2700;250;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
+T26E4;T26E4;Marhfg;Fox Defense Contracts;7.5;2700;250;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
+AMT34;T34 Heavy Tank Turret;Marhfg;Fox Defense Contracts;9.77;3425;250;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
+FV4005;FV4005 Stage II 183MM;Marhfg;Fox Defense Contracts;9;3425;250;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
+Amx50B;Amx 50B;Marhfg;Fox Defense Contracts;8.67;2700;250;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
+AmxELCbis;Amx ELC Bis;Marhfg;Fox Defense Contracts;1.01;2700;250;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
+BatChat25;BatChat_25T;Marhfg;Fox Defense Contracts;3.75;2700;250;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
 BMP3HE;BMP-3 HE;Marhfg;Fox Defense Contracts;2.8;3425;250;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
-IS2APHE;IS-2 APHE;Marhfg;Fox Defense Contracts;7;3425;250;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
-IS-2HE;IS-2 HE;Marhfg;Fox Defense Contracts;7;3425;250;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
-IS-2APHEBC;IS-2 APHEBC;Marhfg;Fox Defense Contracts;7;3425;250;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
-T-10APDS;T-10/IS-8 APDS;Marhfg;Fox Defense Contracts;7.5;3425;250;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
-T-10HEATFS;T-10/IS-8 HEATFS;Marhfg;Fox Defense Contracts;7.5;3425;250;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
-T-10APCBC;T-10/IS-8 APCBC;Marhfg;Fox Defense Contracts;7.5;3425;250;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
-T-10HE;T-10/IS-8 HE;Marhfg;Fox Defense Contracts;7.5;3425;250;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
-T-44APHE;T-44 APHE;Marhfg;Fox Defense Contracts;4.8;3425;250;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
-T-44HE;T-44 HE;Marhfg;Fox Defense Contracts;4.8;3425;250;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
-T-44APHEBC;T-44 APHEBC;Marhfg;Fox Defense Contracts;4.8;3425;250;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
-T-54APHE;T-54 APHE;Marhfg;Fox Defense Contracts;5.4;3425;250;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
-T-54HE;T-54 HE;Marhfg;Fox Defense Contracts;5.4;3425;250;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
-T-54APCBC;T-54 APCBC;Marhfg;Fox Defense Contracts;5.4;3425;250;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
-T-54APCR;T-54 APCR;Marhfg;Fox Defense Contracts;5.4;3425;250;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
-T-64APFSDS;T-64A APFSDS;Marhfg;Fox Defense Contracts;5.7;3425;250;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
-T-64HEATFS;T-64A HEAT-FS;Marhfg;Fox Defense Contracts;5.7;3425;250;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
+IS2;IS-2;Marhfg;Fox Defense Contracts;7;3425;250;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
+T-10;T-10/IS-8;Marhfg;Fox Defense Contracts;7.5;3425;250;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
+T-44;T-44;Marhfg;Fox Defense Contracts;4.8;3425;250;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
+T-54;T-54;Marhfg;Fox Defense Contracts;5.4;3425;250;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
+T-64;T-64A;Marhfg;Fox Defense Contracts;5.7;3425;250;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
 LD2000;CN LD2000 CIWS;BahamutoD & Kerwis;Kerbal Liberation Army;1.5;950;50;1523.15;LD2000 CIWS Radar;SAM;True;90;10;240;120;4;True;30;2;True;True;True;True;1;0.25;5@40;5@40
 PGZ-07;CN PGZ-07 AAA;Kerbal armed;Kerbal Liberation Army;2.5;950;500;1523.15;PGZ07 RADAR;SAM;True;360;10;500;120;120;True;30;2;True;True;True;True;5;0.45;1.353@40;1.95@40
 RADAR346B;CN 346B Radar;BahamutoD & Kerwis;Kerbal Liberation Army;1.2;600;700;1523.15;346B Radar;SAM;True;160;10;2500;120;140;True;30;2;True;True;True;True;120;0.6;1.28@320;1.92@320
@@ -103,20 +75,21 @@ NAS.RA.Mk25FC.USN;Mark 25 Fire Control Radar;BahamutoD & Kerwis;Kerbin Navy;0.12
 NMB-F14D;NMB-F-14D "Tomcat" Cockpit;Bingo;Kerbal Battle Field;1.2;8888;80;1200;AN/APG-71 Radar;FIGHTER;False;200;10;300;300;40;True;40;2;True;True;True;True;3;1;10@35;20@100
 FA-18C;NMB-F/A-18C Cockpit;Bingo;Kerbal Battle Field;1.2;8888;80;1200;AN/APG-73;FIGHTER;False;200;10;300;300;40;True;40;2;True;True;True;True;3;1;10@35;20@100
 J10C;NMB-J10C Cockpit with DIS intake;Bingo;Kerbal Battle Field;1.2;8888;80;1200;J10C AESA Radar;FIGHTER;False;200;10;300;300;40;True;40;2;True;True;True;True;3;1;10@35;20@100
+SU30cockpit;NMB-SU-30 cockpit;Bingo;Kerwis team;1.6;8888;50;1200;SU-30 Radar;FIGHTER;False;200;10;300;300;40;True;40;2;True;True;True;True;3;1;10@35;20@100
 SuperFlanker;NMB-Super-Flanker cockpit;Bingo;Kerbal Battle Field;1.6;8888;80;1200;SuperFlanker Radar;FIGHTER;False;200;10;300;300;40;True;40;2;True;True;True;True;3;1;10@35;20@100
 SUPER-SYLPH;NMB FFR-31MR-D-SUPER SYLPH;Bingo;Kerbal Battle Field;2;8888;80;1200;SYLPH Radar;FIGHTER;False;200;10;300;300;40;True;40;2;True;True;True;True;3;1;10@35;20@100
 Type-AdvancedFlanker;NMB-Type-AdvancedFlanker Cockpit;Bingo;Kerbal Battle Field;1.8;8888;80;1200;N011;FIGHTER;False;200;10;300;300;40;True;40;2;True;True;True;True;3;1;4@100;4@100
-type20Cockpit;NMB-type-20-2 Cockpit with DIS intake;Bingo;Kerbal Battle Field;2.5;8888;80;1200;Type-20 AESA Radar;FIGHTER;False;200;10;300;300;40;True;40;2;True;True;True;True;3;1;10@35;20@100
 type-20Cockpit;NMB-type-20 Cockpit with DIS intake;Bingo;Kerbal Battle Field;2.5;8888;80;1200;Type-20 AESA Radar;FIGHTER;False;200;10;300;300;40;True;40;2;True;True;True;True;3;1;10@35;20@100
 Type-22Cockpit;Type22 cockpit with CARET intake;Bingo;Kerbal Battle Field;2;1600;80;800;AN/APG-77;FIGHTER;False;200;10;300;300;40;True;40;2;True;True;True;True;3;1;10@35;20@100
 Type-35-Cockpit;NMB-Type 35 Cockpit with DSI intake;Bingo;Kerbal Battle Field;2.2;8888;80;1200;AN/APG-81;FIGHTER;False;200;10;300;300;40;True;40;2;True;True;True;True;3;1;10@35;20@100
 Type-57-Cockpit;NMB-Type 57 Cockpit;Bingo;Kerbal Battle Field;1.6;8888;80;1200;N036 AESA Radar;FIGHTER;False;200;10;300;300;40;True;40;2;True;True;True;True;3;1;10@35;20@100
-ebr90;Panhard EBR-90;BahamutoD;Bahamuto Dynamics;3.4;3500;125;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
-m41;m41;BahamutoD;Bahamuto Dynamics;3.6;3500;125;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
-m48;m48;BahamutoD;Bahamuto Dynamics;5.6;3500;125;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
-pt76;PT-76;BahamutoD;Bahamuto Dynamics;5.5;3500;125;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
-t54;T-54;BahamutoD;Bahamuto Dynamics;5.4;3500;125;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
-t62;T-62;BahamutoD;Bahamuto Dynamics;6.2;3500;125;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
+Vipercockpit;NMB-Viper cockpit;Bingo;Kerwis team;1.6;8888;50;1200;SU-30 Radar;FIGHTER;False;200;10;300;300;40;True;40;2;True;True;True;True;3;1;10@35;20@100
+ebr90;Panhard EBR-90;Toonu;Kerbal Kombat Anthology;3.4;3500;125;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
+m41;m41;Toonu;Kerbal Kombat Anthology;3.6;3500;125;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
+m48;m48;Toonu;Kerbal Kombat Anthology;5.6;3500;125;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
+pt76;PT-76;Toonu;Kerbal Kombat Anthology;3.5;3500;125;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
+t54;T-54;Toonu;Kerbal Kombat Anthology;5.4;3500;125;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
+t62;T-62;Toonu;Kerbal Kombat Anthology;6.2;3500;125;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
 Humvee;Humvee;Re-engineered for SM Armory Trucks by Spanner;SM Armory Trucks;2.676;3500;40;900;;SAM;True;90;10;120;120;4;True;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
 KUB2K12;KUB2K12;Spanner;SM Armory Tanks;18;3500;100;1523.15;;SAM;True;90;10;120;120;4;True;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
 M163VADS;M163 Vulcan Air Defense System;Spanner;SM Armory Tanks;0.2;950;60;1523.15;AN/VPS-2;SAM;False;120;10;120;120;4;True;40;2;True;True;True;False;3;0.2;55@30;65@30

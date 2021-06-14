@@ -184,7 +184,6 @@ M551;M551;Toonu;Kerbal Kombat Anthology;5;3500;125;1523.15;3.6;0.04;2000;ballist
 M60A1;M60A1;Toonu;Kerbal Kombat Anthology;6.5;3500;125;1523.15;6.8;0.04;2000;ballistic;105MMTAPCR; 105MMHEATFS;CannonShells;0.388;1030;3600;60;740;0;False
 M60A2;M60A2;Toonu;Kerbal Kombat Anthology;6;3500;125;1523.15;4.5;0.04;2000;ballistic;152MMHEAT;CannonShells;0.388;1030;3600;60;740;0;False
 pt76;PT-76;Toonu;Kerbal Kombat Anthology;3.5;3500;125;1523.15;6;0.04;2000;ballistic;76.2MMRAPCR; 76MMHE;CannonShells;0.388;1030;3600;60;740;0;False
-t54;T-54;Toonu;Kerbal Kombat Anthology;5.4;3500;125;1523.15;6.15;0.05;2000;ballistic;100MMAPCR;CannonShells;0.388;1030;3600;60;740;0;False
 t62;T-62;Toonu;Kerbal Kombat Anthology;6.2;3500;125;1523.15;5.7;0.04;2000;ballistic;120MMFAP; 120MMHEAT;CannonShells;0.388;1030;3600;60;740;0;False
 AAV7turret20;Armored Amphibious Vehicle turret 20;SpannerMonkey;SM Armory Tanks;0.1;950;60;1300;500;0.1;2000;ballistic;20x102mmBullet;20x102Ammo;0.388;1030;3600;196;820;0;False
 APC30Cg2A42;APC 2A42 turret;Spanner;SM Armory Guns and Turrets;0.115;950;60;1523.15;370;0.2;3000;ballistic;30x165Bullet;30x165Ammo;0.388;1030;3600;67;1200;0;False

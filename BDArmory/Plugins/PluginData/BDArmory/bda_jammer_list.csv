@@ -1,8 +1,15 @@
 NAME;TITLE;AUTHOR;MANUFACTURER;PART_MASS;PART_COST;PART_CRASHTOLERANCE;PART_MAXTEMP;alwaysOn;rcsReduction;rcsReducationFactor;lockbreaker;lockbreak_strength;jammerStrength
 bahaECMJammer;AN/ALQ-131 ECM Jammer;BahamutoD;Bahamuto Dynamics;0.3;600;7;1523.15;False;False;0;True;300;1200
-jamm.alq218;AN/ALQ-218 ECM Suite;Toonu;Kerbal Kombat Anthology;0.005;8800;8;1000;False;False;0;True;800;700
+jamm.sps141;SPS-141 Siren ECM;Toonu;Kerbal Kombat Anthology;0.3;600;7;1523.15;False;False;0;True;450;1000
+jamm.spectra;Thales Spectra;Toonu;Kerbal Kombat Anthology;0.005;8800;8;1000;False;False;0;True;1100;700
+jamm.l175v;L-175V Khibiny ECM;Toonu;Kerbal Kombat Anthology;0.005;8800;8;1000;False;False;0;True;700;1000
+jamm.ari23246;ARI.23246/1 Sky Shadow;Toonu;Kerbal Kombat Anthology;0.005;8800;8;1000;False;False;0;True;550;700
+jamm.sps161;SPS-161 Geran ECM;Toonu;Kerbal Kombat Anthology;0.005;8800;8;1000;False;False;0;True;400;700
+jamm.smalta5;Smalta-V ECM System;Toonu;Kerbal Kombat Anthology;0.005;8800;8;1000;False;False;0;True;250;500
+jamm.ngj;AN/ALQ-318 Next Generation Jammer;Toonu;Kerbal Kombat Anthology;0.005;8800;8;1000;False;False;0;True;1050;600
+jamm.alq218;AN/ALQ-218 ECM Suite;Toonu;Kerbal Kombat Anthology;0.005;8800;8;1000;False;False;0;True;1000;700
+jamm.apq181;AN/APQ-181 ECM Suite;Toonu;Kerbal Kombat Anthology;0.005;8800;8;1000;False;False;0;True;600;800
 jamm.alq135;AN/ALQ-135 ECM Suite;Toonu;Kerbal Kombat Anthology;0.005;8800;8;1000;False;False;0;True;700;700
-jamm.alq181;AN/ALT-181 ECM Suite;Toonu;Kerbal Kombat Anthology;0.005;8800;8;1000;False;False;0;True;600;800
 jamm.alq99;AN/ALQ-99 ECM Suite;Toonu;Kerbal Kombat Anthology;0.005;8800;8;1000;False;False;0;True;450;800
-jamm.alt34;AN/ALT-34 Noise Jammer;Toonu;Kerbal Kombat Anthology;0.005;8800;8;1000;False;False;0;True;350;1000
-jamm.alt28;AN/ALT-28 Noise Jammer;Toonu;Kerbal Kombat Anthology;0.005;8800;8;1000;False;False;0;True;200;500
+jamm.alt34;AN/ALT-34 Noise Jammer;Toonu;Kerbal Kombat Anthology;0.005;8800;8;1000;False;False;0;True;400;2000
+jamm.alt28;AN/ALT-28 Noise Jammer;Toonu;Kerbal Kombat Anthology;0.005;8800;8;1000;False;False;0;True;100;2000

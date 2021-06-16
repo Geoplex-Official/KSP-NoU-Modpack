@@ -66,6 +66,6 @@ m48;M48A1;Toonu;Kerbal Kombat Anthology;5.6;3500;125;1523.15;7;0.04;2000;ballist
 M551;M551;Toonu;Kerbal Kombat Anthology;5;3500;125;1523.15;3.6;0.04;2000;ballistic;152MMHEAT;CannonShells;0.388;1030;3600;60;740;0;False
 M60A1;M60A1;Toonu;Kerbal Kombat Anthology;6.5;3500;125;1523.15;6.8;0.04;2000;ballistic;105MMAPDS; 105MMHEATFS;CannonShells;0.388;1030;3600;60;740;0;False
 M60A2;M60A2;Toonu;Kerbal Kombat Anthology;6;3500;125;1523.15;4.5;0.04;2000;ballistic;152MMHEAT;CannonShells;0.388;1030;3600;60;740;0;False
-pt76;PT-76;Toonu;Kerbal Kombat Anthology;3.5;3500;125;1523.15;6;0.04;2000;ballistic;76.2MMNAPDS; 76.2MMMHEATFS;CannonShells;0.388;1030;3600;60;740;0;False
+pt76;PT-76;Toonu;Kerbal Kombat Anthology;3.5;3500;125;1523.15;6;0.04;2000;ballistic;76.2MMNAPCR; 76.2MMMHEATFS;CannonShells;0.388;1030;3600;60;740;0;False
 t54;T-54;Toonu;Kerbal Kombat Anthology;5.4;3500;125;1523.15;6.15;0.05;2000;ballistic;100MMAPCR; 100MMAPDS;CannonShells;0.388;1030;3600;60;740;0;False
 t62;T-62;Toonu;Kerbal Kombat Anthology;6.2;3500;125;1523.15;5.7;0.04;2000;ballistic;115MMAPFSDS; 115MMHEATFS;CannonShells;0.388;1030;3600;60;740;0;False

@@ -53,54 +53,19 @@ bahaM1AbramsHE;M1 Abrams Cannon HE;BahamutoD;Bahamuto Dynamics;2;3500;125;1523.1
 bahaM230ChainGun;M230 Chain Gun Turret;BahamutoD;Bahamuto Dynamics;0.1;950;60;1523.15;625;0.4;2500;ballistic;30x173HEBullet;30x173Ammo;0.388;1030;3600;166;820;0;False
 bahaOMillennium;Oerlikon Millennium Cannon;BahamutoD;Bahamuto Dynamics;2;3500;125;1523.15;850;0.47;3800;ballistic;35x228HEBullet;30x173Ammo;0.388;1030;3600;200;740;0;True
 bahaS-8Launcher;S-8KOM Rocket Pod;BahamutoD;Bahamuto Dynamics;0.016;650;37;1523.15;1000;1;4000;rocket;8KOMS;S-8KOMRocket;0.388;1030;3600;75;250;0;False
-HSTVAP;HSTV APFSDS;Marhfg;Fox Defense Contracts;3.075;3425;250;1523.15;15;0.029;8000;ballistic;def;XM885;0.388;1030;3600;60;740;0;False
-M103;M103 120mm;Marhfg;Fox Defense Contracts;8.51;3425;250;1523.15;3;0.037;8000;ballistic;120MMM358AP; 120MMM469HEATFS; 120MMM356HE;M399;0.388;1030;3600;60;740;0;False
-AbramsA2;M1A2 Abrams;Marhfg;Fox Defense Contracts;9.26;3425;250;1523.15;8;0.027;8000;ballistic;M829APFSDS; M829HEAT-FS;M829;0.388;1030;3600;60;740;0;False
-M3Bradly;M3 Bradley APDS;Marhfg;Fox Defense Contracts;4.125;3425;250;1523.15;200;0.057;8000;ballistic;M791APDS;M791;0.388;1030;3600;60;740;0;False
-M42DusterAP;M42 Duster Ap-T;Marhfg;Fox Defense Contracts;3.4;3425;250;1523.15;90;0.47;7160;cannon;40MMAPT; 40MMHEFIT;MKII;0.388;1030;3600;60;740;0;False
-MBT-70;MBT-70;Marhfg;Fox Defense Contracts;7.8;2700;250;1523.15;6;0.0144;8000;ballistic;152MMAPFSDS; 152MMHEAT;152mmXM-150E5;0.388;1030;3600;60;740;0;False
-T95;T-95;Marhfg;Fox Defense Contracts;4.3;3425;250;1523.15;3;0.038;8000;cannon;105MMTHE; 105MMTAPCR; 105MMTAPCBC;105x654mmR;0.388;1030;3600;60;740;0;False
-T26E4;T26E4;Marhfg;Fox Defense Contracts;7.5;2700;250;1523.15;4;0.038;8000;ballistic;90MMAP; 90MMAPCR; 90MMAPCBC; 90MMHE;90x830mmR;0.388;1030;3600;60;740;0;False
-AMT34;T34 Heavy Tank Turret;Marhfg;Fox Defense Contracts;9.77;3425;250;1523.15;4;0.034;8000;ballistic;120MMT14E3; 120MMM73; 120MMT17E1;T15E2;0.388;1030;800;25;300;0;False
-T57AP-T;T57 Heavy Tank Turret;Marhfg;Fox Defense Contracts;8.2;3425;250;1523.15;35;0.035;8000;ballistic;120MMAP-T; 120MMHEATFS;120x248mmR;0.388;1030;6000;500;150;0;False
-T92HMC;T92Hmc Howitzer;Marhfg;Fox Defense Contracts;8.6;3425;250;1523.15;1;0.083;23000;cannon;240MMHE;240x1005mmR;0.388;1030;3600;2500;500;0;False
-FV4005;FV4005 Stage II 183MM;Marhfg;Fox Defense Contracts;9;3425;250;1523.15;2;0.036;8000;ballistic;183MMAPCR; 183MMHESH;183MMRound;0.388;1030;3600;60;740;0;False
-TortoiseAPCBC;Tortoise Gun APCBC;Marhfg;Fox Defense Contracts;4.07;3425;250;1523.15;5;0.033;8000;ballistic;94MMAPCBC; 94MMHE;94x737mmR;0.388;1030;3600;60;740;0;False
-40MMFlak;Mle51 T1;Marhfg;Fox Defense Contracts;3.1;3425;250;1523.15;200;0.32;11800;cannon;40MMHEFlak;40×353 mmR;0.388;1030;3600;60;740;0;False
-Amx50B;Amx 50B;Marhfg;Fox Defense Contracts;8.67;2700;250;1523.15;10;0.035;8000;ballistic;120MMFAP; 120MMFHE;120x467mmR;0.388;1030;750;50;100;0;False
-AmxELCbis;Amx ELC Bis;Marhfg;Fox Defense Contracts;1.01;2700;250;1523.15;4;0.038;8000;ballistic;90MMAPC; 90MMBHE;90MM MLE;0.388;1030;4500;500;450;0;False
-ARL44;ARL 44;Marhfg;Fox Defense Contracts;7.5;2700;250;1523.15;6;0.038;8000;ballistic;90MMARLAPC; 90MMARLHE;90MM MLE;0.388;1030;4500;100;300;0;False
-BatChat25;BatChat_25T;Marhfg;Fox Defense Contracts;3.75;2700;250;1523.15;15;0.038;8000;ballistic;90MMAPC; 90MMBHE;90MM MLE;0.388;1030;4500;600;300;0;False
-5cmFlak;5 cm FlaK 41;Marhfg;Fox Defense Contracts;2.6;3425;250;1523.15;140;0.35;10350;cannon;50MMHEFlak;50×384 mmR;0.388;1030;3600;60;740;0;False
-Flak88;FlakCannon 88;Marhfg;Fox Defense Contracts;4.6;3425;250;1523.15;15;0.4;9900;cannon;88MMHEFLAK;88x822mmR;0.388;1030;3600;60;740;0;False
-JadgPantherCamo;JadgPanther Radial Gun;Marhfg;Fox Defense Contracts;2.3;3425;250;1523.15;6;0.32;8000;ballistic;88MMAPCBC; 88MMAPCR; 88MMHEAT; 88MMHE;88x822mmR;0.388;1030;3600;60;740;0;False
-JadgTiger;JadgTiger 128mm;Marhfg;Fox Defense Contracts;1.8;1560;100;1523.15;3;0.033;8000;ballistic;128MMAPC; 128MMHE; 128MMAPCBC;128x869mmR;0.388;1030;3600;60;740;0;False
-Leopard1;Leopard I;Marhfg;Fox Defense Contracts;6;1560;100;1523.15;9;0.03;8000;ballistic;105MMLeopard1APDS; 105MMLeopard1HESH; 105MMLeopard1HEATFS;105x817mmR;0.388;1030;3600;60;740;0;False
-Leopard2A5;Leopard 2A5;Marhfg;Fox Defense Contracts;9;1560;100;1523.15;10;0.022;8000;ballistic;120MMLeopard2A5HEATFS; 120MMLeopard2A5APFSDS;120x570mmR;0.388;1030;3600;60;740;0;False
-PantherII;PantherII Turret;Marhfg;Fox Defense Contracts;8;3425;250;1523.15;6;0.034;8000;ballistic;88MMAPCBC; 88MMHE; 88MMAPCR; 88MMHEAT;88x822mmR;0.388;1030;3600;60;740;0;False
-Ru251;Spähpanzer RU-251;Marhfg;Fox Defense Contracts;3.83;1560;100;1523.15;8;0.03;8000;ballistic;90MMHEGer; 90MMHEATFSGer; 90MMHESHGer;BK90;0.388;1030;3600;60;740;0;False
-TigerII;Tiger II Turret;Marhfg;Fox Defense Contracts;10.2;3425;250;1523.15;6;0.034;8000;ballistic;88MMAPCBC; 88MMHE; 88MMAPCR; 88MMHEAT;88x822mmR;0.388;1030;3600;60;740;0;False
-Wirbelwind;Flakpanzer IV Wirbelwind;Marhfg;Fox Defense Contracts;3.75;3425;250;1523.15;400;0.052;5700;ballistic;Sprgr20mmHEFI;20×138mmB;0.388;1030;7200;40;1200;0;True
-37MMAA;37 mm automatic air defense gun M1939;Marhfg;Fox Defense Contracts;1.2;3425;250;1523.15;160;0.3;9500;cannon;37MMFrag-T;37×252 mmR;0.388;1030;3600;60;740;0;False
-BMP3HE;BMP-3 HE;Marhfg;Fox Defense Contracts;2.8;3425;250;1523.15;10;0.049;8000;cannon;3UOF19HET;3UOF19;0.388;1030;3600;60;740;0;False
-IS2;IS-2;Marhfg;Fox Defense Contracts;7;3425;250;1523.15;2;0.046;8000;ballistic;122MMAPHE; 122MMAPHEBC; 122MMHE;122x785mmR;0.388;1030;3600;60;740;0;False
-T-10;T-10/IS-8;Marhfg;Fox Defense Contracts;7.5;3425;250;1523.15;3;0.046;8000;ballistic;122MMAPDS; 122MMTHE; 122MMTAPCBC; 122MMHEATFS;122x785mmR;0.388;1030;3600;60;740;0;False
-T-44;T-44;Marhfg;Fox Defense Contracts;4.8;3425;250;1523.15;2;0.043;8000;ballistic;122MMAPHE; 122MMAPHEBC; 122MMHE;122x785mmR;0.388;1030;3600;60;740;0;False
-T-54;T-54;Marhfg;Fox Defense Contracts;5.4;3425;250;1523.15;6;0.039;8000;ballistic;100MMAPHE; 100MMAPCR; 100MMAPCBC; 100MMHE;100x535mmR;0.388;1030;3600;60;740;0;False
-T-64;T-64A;Marhfg;Fox Defense Contracts;5.7;3425;250;1523.15;8;0.032;8000;ballistic;3BM22APFSDS; 3BM22HEATFS;3BM22;0.388;1030;3600;60;740;0;False
 theotomelara76compact;OTO Melara 76mm Compact;SPanner from original mesh by Themorris;MalFunc Industries;5.9;950;60;1523.15;100;0.2;16000;cannon;76x636mmBullet;76x636Ammo;0.388;1030;3600;100;1000;0;True
 thephalanx;Phalanx CIWS;Spanner /Themorris;MalFunc Industries;0.1;950;60;1523.15;4500;0.12;3000;ballistic;20x102mmBullet;20x102Ammo;0.388;1030;3600;12;820;0;False
-amx30;AMX-30;Toonu;Kerbal Kombat Anthology;6;3500;125;1523.15;7.8;0.04;2000;ballistic;105MMHEATFS;CannonShells;0.388;1030;3600;60;740;0;False
+amx30;AMX-30;Toonu;Kerbal Kombat Anthology;6;3500;125;1523.15;7.8;0.04;2000;ballistic;105MMM1HEAT; 105MMLeopard1APDS;CannonShells;0.388;1030;3600;60;740;0;False
 centurion;Centurion Mk.10;Toonu;Kerbal Kombat Anthology;6;3500;125;1523.15;7.8;0.04;2000;ballistic;105MMAPDS;CannonShells;0.388;1030;3600;60;740;0;False
 ChieftainMK3;Chieftain Mk.3;Toonu;Kerbal Kombat Anthology;8;3500;125;1523.15;7;0.04;2000;ballistic;120MMFAP;CannonShells;0.388;1030;3600;60;740;0;False
-ebr90;Panhard EBR-90;Toonu;Kerbal Kombat Anthology;3.4;3500;125;1523.15;12;0.04;8000;ballistic;90MMAP;CannonShells;0.388;1030;3600;60;740;0;False
+ebr90;Panhard EBR-90;Toonu;Kerbal Kombat Anthology;3.4;3500;125;1523.15;12;0.04;8000;ballistic;90MMAPC;CannonShells;0.388;1030;3600;60;740;0;False
 Leopard1A0;Leopard 1;Toonu;Kerbal Kombat Anthology;5;3500;125;1523.15;7.8;0.04;2000;ballistic;105MMLeopard1APDS; 105MMLeopard1HESH; 105MMLeopard1HEATFS;CannonShells;0.388;1030;3600;60;740;0;False
-Leopard1A1;Leopard 1A1;Toonu;Kerbal Kombat Anthology;6;3500;125;1523.15;7.8;0.04;2000;ballistic;105MMAPDS; 105MMHEATFS;CannonShells;0.388;1030;3600;60;740;0;False
-m41;m41;Toonu;Kerbal Kombat Anthology;3.6;3500;125;1523.15;8.8;0.04;2000;ballistic;76MMAP; 76MMAPCR;CannonShells;0.388;1030;3600;60;740;0;False
-m48;m48;Toonu;Kerbal Kombat Anthology;5.6;3500;125;1523.15;7;0.04;2000;ballistic;90MMM36APCR; 90MMHEATFSGer;CannonShells;0.388;1030;3600;60;740;0;False
+Leopard1A1;Leopard 1A1;Toonu;Kerbal Kombat Anthology;6;3500;125;1523.15;7.8;0.04;2000;ballistic;105MMLeopard1APFSDS; 105MMLeopard1HEATFS;CannonShells;0.388;1030;3600;60;740;0;False
+m41;m41;Toonu;Kerbal Kombat Anthology;3.6;3500;125;1523.15;8.8;0.04;2000;ballistic;76MMAP; 76MMAPCR; 76MMHE;CannonShells;0.388;1030;3600;60;740;0;False
+m48;M48A1;Toonu;Kerbal Kombat Anthology;5.6;3500;125;1523.15;7;0.04;2000;ballistic;90MMAPCR; 90MMHEATFSGer;CannonShells;0.388;1030;3600;60;740;0;False
 M551;M551;Toonu;Kerbal Kombat Anthology;5;3500;125;1523.15;3.6;0.04;2000;ballistic;152MMHEAT;CannonShells;0.388;1030;3600;60;740;0;False
-M60A1;M60A1;Toonu;Kerbal Kombat Anthology;6.5;3500;125;1523.15;6.8;0.04;2000;ballistic;105MMTAPCR; 105MMHEATFS;CannonShells;0.388;1030;3600;60;740;0;False
+M60A1;M60A1;Toonu;Kerbal Kombat Anthology;6.5;3500;125;1523.15;6.8;0.04;2000;ballistic;105MMAPDS; 105MMHEATFS;CannonShells;0.388;1030;3600;60;740;0;False
 M60A2;M60A2;Toonu;Kerbal Kombat Anthology;6;3500;125;1523.15;4.5;0.04;2000;ballistic;152MMHEAT;CannonShells;0.388;1030;3600;60;740;0;False
-pt76;PT-76;Toonu;Kerbal Kombat Anthology;3.5;3500;125;1523.15;6;0.04;2000;ballistic;76.2MMRAPCR; 76MMHE;CannonShells;0.388;1030;3600;60;740;0;False
-t54;T-54;Toonu;Kerbal Kombat Anthology;5.4;3500;125;1523.15;6.15;0.05;2000;ballistic;100MMAPCR;CannonShells;0.388;1030;3600;60;740;0;False
-t62;T-62;Toonu;Kerbal Kombat Anthology;6.2;3500;125;1523.15;5.7;0.04;2000;ballistic;120MMFAP; 120MMHEAT;CannonShells;0.388;1030;3600;60;740;0;False
+pt76;PT-76;Toonu;Kerbal Kombat Anthology;3.5;3500;125;1523.15;6;0.04;2000;ballistic;76.2MMNAPDS; 76.2MMMHEATFS;CannonShells;0.388;1030;3600;60;740;0;False
+t54;T-54;Toonu;Kerbal Kombat Anthology;5.4;3500;125;1523.15;6.15;0.05;2000;ballistic;100MMAPCR; 100MMAPDS;CannonShells;0.388;1030;3600;60;740;0;False
+t62;T-62;Toonu;Kerbal Kombat Anthology;6.2;3500;125;1523.15;5.7;0.04;2000;ballistic;115MMAPFSDS; 115MMHEATFS;CannonShells;0.388;1030;3600;60;740;0;False

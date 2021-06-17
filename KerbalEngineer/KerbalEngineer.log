@@ -1,8 +1,8 @@
 Executing: KerbalEngineer - 1.1.8.3
 Assembly: C:\Program Files\KerbalSpaceProgram\KSP 1.10.1\GameData\KerbalEngineer\KerbalEngineer.dll
 
-[Log 19:27:27.7142031]: images (UnityEngine.AssetBundle)
-[Log 19:30:58.2369796]: Assembly: Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+[Log 17:54:52.4183848]: images (UnityEngine.AssetBundle)
+[Log 17:57:26.6841815]: Assembly: Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: Scale_Redist, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: ModuleManager, Version=4.1.4.0, Culture=neutral, PublicKeyToken=null
 Assembly: ClickThroughBlocker, Version=0.1.10.15, Culture=neutral, PublicKeyToken=null
@@ -52,32 +52,7 @@ Assembly: Scale, Version=2.4.4.5, Culture=neutral, PublicKeyToken=null
 Assembly: VesselMover, Version=1.10.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: ZeroMiniAVC, Version=1.1.0.1, Culture=neutral, PublicKeyToken=null
 
-[Log 19:30:58.2369796]: FlightEngineerCore->Awake
-[Log 19:31:02.9085357]: FlightEngineerCore->Start
-[Log 19:31:04.5158677]: FlightEngineerCore->OnDestroy
-[19:39:39.2485073]: Exception  // System.NullReferenceException: Object reference not set to an instance of an object
-  at KerbalEngineer.Editor.BuildOverlayPartInfo.OnGUI () [0x00021] in <f7b97258edac489d9f763fc3ebcf33c6>:0 
-[]:   at KerbalEngineer.Editor.BuildOverlayPartInfo.OnGUI () [0x00021] in <f7b97258edac489d9f763fc3ebcf33c6>:0 
-
-[19:39:39.2495075]: Exception  // System.NullReferenceException: Object reference not set to an instance of an object
-  at KerbalEngineer.Editor.BuildOverlayPartInfo.OnGUI () [0x00021] in <f7b97258edac489d9f763fc3ebcf33c6>:0 
-[]:   at KerbalEngineer.Editor.BuildOverlayPartInfo.OnGUI () [0x00021] in <f7b97258edac489d9f763fc3ebcf33c6>:0 
-
-[Log 19:39:39.8376409]: BuildAdvanced->OnDestroy
-[Log 19:39:44.1851836]: ActionMenu->Awake
-[Log 19:39:44.1861839]: FlightEngineerCore->Awake
-[Log 19:39:51.3009353]: ActionMenu->Start
-[Log 19:39:51.3319415]: FlightEngineerCore->Start
-[19:45:11.7366460]: Exception SimManager.StartSimulation() // System.NullReferenceException: Object reference not set to an instance of an object
-  at KerbalEngineer.VesselSimulator.SimManager.StartSimulation () [0x00054] in <f7b97258edac489d9f763fc3ebcf33c6>:0 
-[]:   at KerbalEngineer.VesselSimulator.SimManager.StartSimulation () [0x00054] in <f7b97258edac489d9f763fc3ebcf33c6>:0 
-
-[Log 19:45:12.6145145]: FlightEngineerCore->OnDestroy
-[Log 19:45:12.6466080]: ActionMenu->OnDestroy
-[Log 19:52:48.0131342]: BuildAdvanced->OnDestroy
-[Log 19:52:52.5918423]: ActionMenu->Awake
-[Log 19:52:52.5921204]: FlightEngineerCore->Awake
-[Log 19:53:00.2618328]: ActionMenu->Start
-[Log 19:53:00.2818373]: FlightEngineerCore->Start
-[Log 19:55:27.4435724]: FlightEngineerCore->OnDestroy
-[Log 19:55:27.4605767]: ActionMenu->OnDestroy
+[Log 17:57:26.6841815]: FlightEngineerCore->Awake
+[Log 17:57:31.1311789]: FlightEngineerCore->Start
+[Log 17:57:32.6695279]: FlightEngineerCore->OnDestroy
+[Log 17:58:47.8512262]: BuildAdvanced->OnDestroy

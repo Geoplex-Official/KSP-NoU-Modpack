@@ -1,11 +1,11 @@
-Executing: KerbalEngineer - 1.1.7.2
+Executing: KerbalEngineer - 1.1.8.3
 Assembly: C:\Program Files\KerbalSpaceProgram\KSP 1.10.1\GameData\KerbalEngineer\KerbalEngineer.dll
 
-[Log 11:08:26.9741017]: images (UnityEngine.AssetBundle)
-[Log 11:10:03.2626622]: Assembly: Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+[Log 15:17:53.5995951]: images (UnityEngine.AssetBundle)
+[Log 15:20:05.3654277]: Assembly: Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: Scale_Redist, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: ModuleManager, Version=4.1.4.0, Culture=neutral, PublicKeyToken=null
-Assembly: ClickThroughBlocker, Version=0.1.10.14, Culture=neutral, PublicKeyToken=null
+Assembly: ClickThroughBlocker, Version=0.1.10.15, Culture=neutral, PublicKeyToken=null
 Assembly: FilterExtensions, Version=3.2.6.0, Culture=neutral, PublicKeyToken=null
 Assembly: BlendshapeModelLoader, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: TexturesUnlimited, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
@@ -15,10 +15,10 @@ Assembly: AtmosphereAutopilot.UI, Version=1.0.0.0, Culture=neutral, PublicKeyTok
 Assembly: AAPartCategory, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: AviatorArsenal, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: B9_Aerospace_WingStuff, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-Assembly: BDArmory.Core, Version=1.4.1.0, Culture=neutral, PublicKeyToken=null
-Assembly: BDArmory, Version=1.4.1.0, Culture=neutral, PublicKeyToken=null
+Assembly: BDArmory.Core, Version=1.4.6.2, Culture=neutral, PublicKeyToken=null
+Assembly: BDArmory, Version=1.4.6.2, Culture=neutral, PublicKeyToken=null
 Assembly: BDATeamIcons, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-Assembly: CameraTools, Version=1.14.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: CameraTools, Version=1.16.2.0, Culture=neutral, PublicKeyToken=null
 Assembly: DeadlyReentry, Version=7.8.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: DestructionEffects, Version=1.12.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: FerramAerospaceResearch.Base, Version=0.16.0.1, Culture=neutral, PublicKeyToken=null
@@ -29,8 +29,8 @@ Assembly: Scale_Redist, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: Firespitter, Version=7.3.7287.12431, Culture=neutral, PublicKeyToken=null
 Assembly: FShangarExtender, Version=3.6.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: HullBreach, Version=0.1.8.1, Culture=neutral, PublicKeyToken=null
-Assembly: KerbalEngineer, Version=1.1.7.2, Culture=neutral, PublicKeyToken=null
 Assembly: KerbalEngineer.Unity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: KerbalEngineer, Version=1.1.8.3, Culture=neutral, PublicKeyToken=null
 Assembly: KerbalJointReinforcementNext, Version=4.1.15.0, Culture=neutral, PublicKeyToken=null
 Assembly: ACA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: KSPWheel, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
@@ -47,11 +47,12 @@ Assembly: HoverCraft, Version=1.0.4.4, Culture=neutral, PublicKeyToken=null
 Assembly: VLSLauncher, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: KSPSteamCtrlr, Version=0.0.1.35, Culture=neutral, PublicKeyToken=null
 Assembly: ModuleBounce, Version=0.3.29.5, Culture=neutral, PublicKeyToken=null
-Assembly: KSPe.Light.TweakScale, Version=2.2.0.2, Culture=neutral, PublicKeyToken=null
-Assembly: Scale, Version=2.4.3.21, Culture=neutral, PublicKeyToken=null
+Assembly: KSPe.Light.TweakScale, Version=2.2.2.2, Culture=neutral, PublicKeyToken=null
+Assembly: Scale, Version=2.4.4.5, Culture=neutral, PublicKeyToken=null
 Assembly: VesselMover, Version=1.10.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: ZeroMiniAVC, Version=1.1.0.1, Culture=neutral, PublicKeyToken=null
 
-[Log 11:10:03.2626622]: FlightEngineerCore->Awake
-[Log 11:10:07.4399074]: FlightEngineerCore->Start
-[Log 11:12:10.4694425]: FlightEngineerCore->OnDestroy
+[Log 15:20:05.3654277]: FlightEngineerCore->Awake
+[Log 15:20:09.8773317]: FlightEngineerCore->Start
+[Log 15:20:11.3571718]: FlightEngineerCore->OnDestroy
+[Log 15:21:36.7494841]: BuildAdvanced->OnDestroy

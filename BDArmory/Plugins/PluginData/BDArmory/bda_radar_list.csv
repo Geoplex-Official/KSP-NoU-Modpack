@@ -54,13 +54,13 @@ T-90;T-90;Marhfg;Fox Defense Contracts;6.98;3425;250;1523.15;Local Radio Antenna
 Elden40;Vagn Eldledning AutomatKanon 40;Marhfg;Fox Defense Contracts;2.9;3425;250;1523.15;Elden40 Locking Radar;SAM;True;30;10;120;120;4;True;30;2;True;True;True;True;1;0.3;35@30;60@25
 Luft9040c;Luftvärnskanonvagn 9040C;Marhfg;Fox Defense Contracts;2.85;3425;250;1523.15;Luftvärnskanonvagn 9040C Locking Radar;SAM;True;30;10;120;120;4;True;30;2;True;True;True;True;1;0.3;35@30;60@25
 Strids74;Stridsvagn 74;Marhfg;Fox Defense Contracts;3.9;3425;250;1523.15;Local Radio Antenna;SAM;True;90;10;120;120;4;False;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
-surv.p15;P-15 Tropa Surveillance Radar;Toonu;Kerbal Kombat Anthology;1.45;600;7;1523.15;P-15 Surveillance Radar;SAM;True;8;10;36;36;8;False;30;2;True;True;False;True;1;0.05;300@150;237.3948@150
 LD2000;CN LD2000 CIWS;BahamutoD & Kerwis;Kerbal Liberation Army;1.5;950;50;1523.15;LD2000 CIWS Radar;SAM;True;90;10;240;120;4;True;30;2;True;True;True;True;1;0.25;5@40;5@40
 PGZ-07;CN PGZ-07 AAA;Kerbal armed;Kerbal Liberation Army;2.5;950;500;1523.15;PGZ07 RADAR;SAM;True;360;10;500;120;120;True;30;2;True;True;True;True;5;0.45;1.353@40;1.95@40
 RADAR346B;CN 346B Radar;BahamutoD & Kerwis;Kerbal Liberation Army;1.2;600;700;1523.15;346B Radar;SAM;True;160;10;2500;120;140;True;30;2;True;True;True;True;120;0.6;1.28@320;1.92@320
 AESA;AESA Radar;BahamutoD & Kerwis;Kerbal Liberation Army;0.25;600;700;1523.15;AESA Radar;FIGHTER;True;120;10;1500;120;60;True;30;2;True;True;True;True;25;0.45;5@160;7.5@160
 99A2Structural;99A2Structural;PLA-BDA;Kerbal Liberation Army;40;600;1500;1523.15;99A-Radar;DETECTION;True;360;10;360;120;120;True;30;2;True;True;True;True;1;0.45;10@40;10@40
 CB90BOAT;US CB90BOAT;BF2,MMG;Kerbal Liberation Army;15;600;300;1523.15;CB90 Radar;DETECTION;True;90;10;240;120;4;True;30;2;True;True;True;True;1;0.45;10@40;10@40
+surv.p15;P-15 Tropa Surveillance Radar;Toonu;Kerbal Kombat Anthology;1.45;600;7;1523.15;P-15 Surveillance Radar;SAM;True;8;10;36;36;8;False;30;2;True;True;False;True;1;0.05;300@150;237.3948@150
 APARradar;Advanced Phased Array Radar;Themorris;MalFunc Industries;1.45;600;7;1523.15;APAR Tracking Radar;SAM;False;120;10;120;120;4;False;125;2;False;True;False;True;20;0.1;20@30;20@30
 thephalanx;Phalanx CIWS;Spanner /Themorris;MalFunc Industries;0.1;950;60;1523.15;Phalanx CIWS Radar;SAM;True;90;10;180;120;4;True;45;2;True;True;True;True;2;0.1;6@20;6@20
 SEARAMLauncherTurret;SeaRAM Launcher;Spanner / Themorris;MalFunc Industries;1.75;950;60;1523.15;SeaRAM Radar;SAM;True;90;10;240;120;4;True;30;2;True;True;True;True;1;0.2;10@10;10@10

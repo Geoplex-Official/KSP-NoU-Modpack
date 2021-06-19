@@ -53,8 +53,6 @@ bahaM1AbramsHE;M1 Abrams Cannon HE;BahamutoD;Bahamuto Dynamics;2;3500;125;1523.1
 bahaM230ChainGun;M230 Chain Gun Turret;BahamutoD;Bahamuto Dynamics;0.1;950;60;1523.15;625;0.4;2500;ballistic;30x173HEBullet;30x173Ammo;0.388;1030;3600;166;820;0;False
 bahaOMillennium;Oerlikon Millennium Cannon;BahamutoD;Bahamuto Dynamics;2;3500;125;1523.15;850;0.47;3800;ballistic;35x228HEBullet;30x173Ammo;0.388;1030;3600;200;740;0;True
 bahaS-8Launcher;S-8KOM Rocket Pod;BahamutoD;Bahamuto Dynamics;0.016;650;37;1523.15;1000;1;4000;rocket;8KOMS;S-8KOMRocket;0.388;1030;3600;75;250;0;False
-theotomelara76compact;OTO Melara 76mm Compact;SPanner from original mesh by Themorris;MalFunc Industries;5.9;950;60;1523.15;100;0.2;16000;cannon;76x636mmBullet;76x636Ammo;0.388;1030;3600;100;1000;0;True
-thephalanx;Phalanx CIWS;Spanner /Themorris;MalFunc Industries;0.1;950;60;1523.15;4500;0.12;3000;ballistic;20x102mmBullet;20x102Ammo;0.388;1030;3600;12;820;0;False
 tank.AMX30;AMX-30;Toonu;Kerbal Kombat Anthology;6;3500;125;1523.15;7.8;0.04;2000;ballistic;105MMM1HEAT; 105MMLeopard1APDS;CannonShells;0.388;1030;3600;60;740;0;False
 tank.CenturionMk10;Centurion Mk.10;Toonu;Kerbal Kombat Anthology;6;3500;125;1523.15;7.8;0.04;2000;ballistic;105MMAPDS;CannonShells;0.388;1030;3600;60;740;0;False
 tank.ChieftainMk3;Chieftain Mk.3;Toonu;Kerbal Kombat Anthology;8;3500;125;1523.15;7;0.04;2000;ballistic;120MMFAP;CannonShells;0.388;1030;3600;60;740;0;False
@@ -69,3 +67,48 @@ tank.M60A2;M60A2;Toonu;Kerbal Kombat Anthology;6;3500;125;1523.15;4.5;0.04;2000;
 tank.PT76;PT-76;Toonu;Kerbal Kombat Anthology;3.5;3500;125;1523.15;6;0.04;2000;ballistic;76.2MMNAPCR; 76.2MMMHEATFS;CannonShells;0.388;1030;3600;60;740;0;False
 tank.T54;T-54;Toonu;Kerbal Kombat Anthology;5.4;3500;125;1523.15;6.15;0.05;2000;ballistic;100MMAPCR; 100MMAPDS;CannonShells;0.388;1030;3600;60;740;0;False
 tank.T62;T-62;Toonu;Kerbal Kombat Anthology;6.2;3500;125;1523.15;5.7;0.04;2000;ballistic;115MMAPFSDS; 115MMHEATFS;CannonShells;0.388;1030;3600;60;740;0;False
+theotomelara76compact;OTO Melara 76mm Compact;SPanner from original mesh by Themorris;MalFunc Industries;5.9;950;60;1523.15;100;0.2;16000;cannon;76x636mmBullet;76x636Ammo;0.388;1030;3600;100;1000;0;True
+thephalanx;Phalanx CIWS;Spanner /Themorris;MalFunc Industries;0.1;950;60;1523.15;4500;0.12;3000;ballistic;20x102mmBullet;20x102Ammo;0.388;1030;3600;12;820;0;False
+NAS.BB.380M1935x4.FNFL;380 mm/45 Modèle 1935 Gun Quadruple Turret;BahamutoD & Kerwis;Kerbin Navy;1164;15000;1250;1523.15;1.8;0.72;16000;ballistic;15inchAPKM;380Shells;0.388;1030;3600;400;740;0;False
+NAS.AA.DD.100x2.IJN;10 cm/65 Type 98 Dual-purpose Gun Turret;BahamutoD & Kerwis;Kerbin Navy;17.6;3000;1250;1523.15;12;0.62;14000;ballistic;4.1inchHEKM;CannonShells;0.388;1030;3400;200;350;0;True
+NAS.AA.MG.25Type96x3.IJN;Type 96 25 mm AT/AA Gun Triple Mount;BahamutoD & Kerwis;Kerbin Navy;0.9;140;60;1200;110;1.75;2000;ballistic;25x115mmBullet;25x137Ammo;0.388;1030;2400;182;690;0;False
+NAS.BB.356x2.IJN;Vickers 14 inch/45 Naval Twin Turret;BahamutoD & Kerwis;Kerbin Navy;720;3500;1250;1523.15;1.5;0.64;27000;ballistic;14inchAPIJN; 14inchHEIJN;356Shells;0.388;1030;3600;0;740;0;True
+NAS.BB.410x2.IJN;41 cm/45 3rd Year Type Naval Gun;BahamutoD & Kerwis;Kerbin Navy;514;5000;1250;1523.15;2.5;0.69;25000;ballistic;16inchAPRN; 16inchHCUS;16inchShells;0.388;1030;3400;800;740;0;False
+NAS.BB.460x3.IJN;46 cm/45 Type 94 Naval Triple Turret;BahamutoD & Kerwis;Kerbin Navy;1390;12500;1500;1523.15;1.8;0.61;42030;ballistic;18inchAPIJN; 18inchHEIJN;460Shells;0.388;1030;3400;800;740;0;True
+NAS.CA.203x2.IJN;20.3 cm/50 3rd Year No.3 Naval Gun;BahamutoD & Kerwis;Kerbin Navy;88;4000;1500;1523.15;4;0.29;20000;ballistic;8inchAPIJN;8inchHEIJN;203Shells;0.388;1030;3400;800;740;0;True
+NAS.CL.140x2.IJN;14 cm/50 3rd Year Type Naval Gun Twin Mount;BahamutoD & Kerwis;Kerbin Navy;48;3600;1250;1523.15;6;0.45;19100;ballistic;6inchHCUS; 6inchAPUS; 6inchSAPUS;138_140Shells;0.388;1030;3600;500;740;0;False
+NAS.CL.155x3.IJN;15.5 cm/60 3rd Year Type Naval Gun Triple Mount;BahamutoD & Kerwis;Kerbin Navy;90.6;3600;1250;1523.15;5.5;0.43;20000;ballistic;6inchHCUS; 6inchAPUS;155Shells;0.388;1030;3600;500;740;0;False
+NAS.DD.127x2.IJN;12.7 cm/50 3rd Year Type Naval Gun Model C;BahamutoD & Kerwis;Kerbin Navy;16;2400;1250;1523.15;4.5;0.47;6400;ballistic;5inchVTUS; 5inchHEIJN; 5inchSAPIJN;5/62Shell;0.388;1030;3400;0;740;0;False
+NAS.AA.MG.20FlaK38x4.KM;2 cm Flakvierling 38;BahamutoD & Kerwis;Kerbin Navy;1.2;420;60;1200;200;2.5;2200;ballistic;20x110mmHEShell; 20x110mmAPShell;20x102Ammo;0.388;1030;2400;115;800;0;False
+NAS.AA.MG.37SKC30.KM;3.7 cm SK C/30 Anti-aircraft Gun Dual Mount;BahamutoD & Kerwis;Kerbin Navy;1.88;280;60;1300;30;1.25;4800;ballistic;37mmAPKM;37mmHEKM;37mmFlaKAmmo;0.388;1030;2600;480;840;0;False
+NAS.AA.SC.105SKC33.KM;10.5 cm SK C/33;BahamutoD & Kerwis;Kerbin Navy;13.85;3000;1250;1523.15;15;0.46;12500;ballistic;4.1inchAPKM;4.1inchHEKM;CannonShells;0.388;1030;3400;380;720;0;True
+NAS.BB.380x2.KM;38 cm SK C/34 Twin-turret;BahamutoD & Kerwis;Kerbin Navy;1050;13000;1250;1523.15;1.5;0.69;25000;ballistic;15inchAPKM; 15inchSAPRM; 15inchHERM;380Shells;0.388;1030;3400;0;740;0;False
+NAS.BC.283x3.KM;28 cm SK C/28 Triple Turret;BahamutoD & Kerwis;Kerbin Navy;1050;2700;1250;1523.15;2.5;0.57;25000;ballistic;11inchAPKM; 11inchSAPKM;11inShells;0.388;1030;3400;0;740;0;False
+NAS.CA.203x2.KM;20.3 cm SK C/34 Turret;BahamutoD & Kerwis;Kerbin Navy;134;10000;1250;1523.15;4.5;0.29;20000;ballistic;8inchAPIJN;8inchHEIJN;203Shells;0.388;1030;3400;0;740;0;True
+NAS.FD.356FortDrum.USA;14-inch M1909 Twin Turret (Fort Drum Type);BahamutoD & Kerwis;Kerbin Navy;640;3500;1600;1523.15;1.6;0.82;17556;cannon;14inchAPIJN;356Shells;0.388;1030;3600;200;740;0;False
+NAS.AA.MG.37Breda.RM;Cannone-Mitragliera da 37/54 (Breda) Model 1939;BahamutoD & Kerwis;Kerbin Navy;0.75;360;60;1300;120;0.75;4000;ballistic;37mmHERM;37mmFlaKAmmo;0.388;1030;2600;675;1300;0;False
+NAS.AA.SC.90A1938.RM;Cannone da 90 mm/50 Ansaldo Model 1938;BahamutoD & Kerwis;Kerbin Navy;9.6;3000;1250;1523.15;12;0.53;10800;ballistic;3.5inchHEVTRM;90mmShells;0.388;1030;3400;380;720;0;True
+NAS.BB.381x3.RM;Cannone da 381/50 Ansaldo M1934;BahamutoD & Kerwis;Kerbin Navy;804;4500;1250;1523.15;1.3;0.61;28000;ballistic;15inchAPKM; 15inchSAPRM; 15inchHERM;380Shells;0.388;1030;3400;720;900;0;False
+NAS.AA.MG.40Boforsx2.RN;Bofors 40 mm L/60 (QF 40 mm Mk I Mount);BahamutoD & Kerwis;Kerbin Navy;2.5;450;60;1300;120;1;2400;ballistic;40mmAPBF;40x311Ammo;0.388;1030;2600;464;1700;0;True
+NAS.AA.MG.QF2pdrx8.RN;QF 2-pounder "Pom-pom" Mark VIA Mount;BahamutoD & Kerwis;Kerbin Navy;7.7;900;60;1300;96;2.5;1550;ballistic;40mmHERN;40x311Ammo;0.388;1030;2600;72;825;0;True
+NAS.BB.BL14Mk7x4.RN;BL 14 inch Mk VII Naval Gun Quad Mount;BahamutoD & Kerwis;Kerbin Navy;810;15000;1500;1523.15;2;0.63;27430;ballistic;14inchAPIJN;356Shells;0.388;1030;3400;760;740;0;False
+NAS.BB.BL15Mk1x2.RN;BL 15 inch Mk I Naval Gun Twin Mount (Soviet Navy Painting);BahamutoD & Kerwis;Kerbin Navy;394;5000;1000;1523.15;2;0.65;26273;ballistic;15inchAPKM; 15inchSAPRM;380Shells;0.388;1030;3400;900;740;0;False
+NAS.BB.BL16MkIx3.RN;BL 16 inch Mk I Naval Gun Triple Turret;BahamutoD & Kerwis;Kerbin Navy;760;6400;1500;1523.15;1.5;0.63;27340;ballistic;16inchAPRN; 16inchHCUS;16inchShells;0.388;1030;3400;750;740;0;False
+NAS.DD.QF45.RN;QF 4.5 inch Mk IV Naval Gun / Mk V Mount;BahamutoD & Kerwis;Kerbin Navy;5.7;1500;1000;1300;14;0.45;9120;ballistic;5inchHEIJN; 5inchSAPIJN;4p5inchQFShells;0.388;1030;2600;300;740;0;False
+NAS.CD.105SKL40.CN;10.5 cm SK L/40 (Mitsubishi Version);BahamutoD & Kerwis;Kerbin Navy;3.9;1250;1250;1523.15;12;0.57;6700;cannon;105mmHECHN;CannonShells;0.388;1030;3400;340;740;0;False
+NAS.CL.BL6inMk21x2.ROCN;BL 6 inch Mk XXI Naval Gun;BahamutoD & Kerwis;Kerbin Navy;48.64;3600;1250;1523.15;7;0.39;20120;cannon;6inchHCUS; 6inchAPUS;152Shells;0.388;1030;3600;640;740;0;True
+NAS.CL.KN152.ROCN;Kiangnan 152 mm Single Mount;BahamutoD & Kerwis;Kerbin Navy;20.5;1800;1250;1523.15;5.5;0.43;13500;ballistic;6inchHCUS; 6inchAPUS;152Shells;0.388;1030;3600;640;740;0;False
+NAS.AA.MG.66K.SN;37 mm/67 66-K Automatic Anti-aircraft Gun Turret;BahamutoD & Kerwis;Kerbin Navy;3.75;400;60;1300;145;1.25;4800;ballistic;37mmAPKM;37mmHEKM;37mmFlaKAmmo;0.388;1030;2600;210;960;0;False
+NAS.AA.MG.DShK1938.SN;12.7 mm DShK 1938 Heavy Machine Gun Single Mount;BahamutoD & Kerwis;Kerbin Navy;0.15;36;60;1200;600;1;3500;ballistic;12.7mmBullet;50CalAmmo;0.388;1030;2400;120;960;0;False
+NAS.CA.180B-1-P.SN;180 mm/57 B-1-P Turret;BahamutoD & Kerwis;Kerbin Navy;124;4800;1250;1523.15;5.5;0.42;27500;ballistic;7.1inchAPSN; 7.1inchHESN;180Shells;0.388;1030;3600;625;720;0;True
+NAS.DD.130B-2LM.SN;130 mm B-2LM Turret;BahamutoD & Kerwis;Kerbin Navy;24.7;3600;1250;1523.15;12;0.5;17200;ballistic;5inchVTUS; 5inchHEIJN; 5inchSAPIJN;130Shells;0.388;1030;3600;500;740;0;False
+NAS.AA.MG.20Oerlikonx2.USN;Oerlikon 20 mm L70 Cannon Mk 20 Twin Mount;BahamutoD & Kerwis;Kerbin Navy;0.3;140;60;1200;300;1.5;2500;ballistic;20x110mmHEShell; 20x110mmAPShell;20x102Ammo;0.388;1030;2400;168;1200;0;False
+NAS.AA.MG.40Boforsx4.USN;Bofors 40 mm L/60 (Mark 4 Quad Mount);BahamutoD & Kerwis;Kerbin Navy;5.7;1000;90;1500;120;0.9;2500;ballistic;40mmAPBF;40x311Ammo;0.388;1030;3000;205;1500;0;True
+NAS.AA.MG.50M2HBx2.USN;M2HB Browning Machine Gun Twin Mount;BahamutoD & Kerwis;Kerbin Navy;0.05;50;60;1200;560;1.5;2500;ballistic;12.7mmBullet; 12.7mmHEBullet;50CalAmmo;0.388;1030;2400;115;960;0;False
+NAS.AA.SC.3inchMark21.USN;3-inch Naval Gun Mount Mark 21;BahamutoD & Kerwis;Kerbin Navy;1.8;400;800;1523.15;15;0.61;4150;ballistic;3inchAPUSN; 3inchSAPUSN; 3inchHEVTUSN;3inchShells;0.388;1030;3400;180;740;0;True
+NAS.BB.406x3Mk7.USN;16"/50 cal Mark 7 Gun Triple Turret;BahamutoD & Kerwis;Kerbin Navy;875;18000;1500;1523.15;2;0.54;32000;ballistic;16inchAPRN; 16inchHCUS;16inchShells;0.388;1030;3400;750;740;0;False
+NAS.CA.203x3Mk16.USN;8"/55 cal Mark 16 Gun Triple Turret;BahamutoD & Kerwis;Kerbin Navy;231;4800;1250;1523.15;10;0.36;23700;ballistic;8inchAPIJN;8inchHEIJN;203Shells;0.388;1030;3600;500;740;0;True
+NAS.CB.12inx3Mk8.USN;12"/50 caliber Gun Mark 8 Triple Turret;BahamutoD & Kerwis;Kerbin Navy;475;4800;1400;1523.15;3;0.52;27432;ballistic;12inchAPUS; 12inchHCUS;12inShells;0.388;1030;3600;500;740;0;False
+NAS.CL.152x3Mk16.USN;6"/47 caliber Mark 16 Gun Triple Turret;BahamutoD & Kerwis;Kerbin Navy;87;10000;1250;1523.15;10;0.39;14630;ballistic;6inchHCUS; 6inchAPUS;152Shells;0.388;1030;3600;400;720;0;False
+NAS.DD.127x2.USN;5"/38 cal Mk 12 Naval Gun Mark 28 Mod 0 Turret;BahamutoD & Kerwis;Kerbin Navy;36.2;4200;1250;1523.15;15;0.54;5000;ballistic;5inchVTUS; 5inchHEIJN; 5inchSAPIJN;5/62Shell;0.388;1030;3400;370;740;0;False
+NAS.DD.127.USN;5"/38 cal Mk 12 Naval Gun Mark 30 Turret;BahamutoD & Kerwis;Kerbin Navy;9.6;2000;1250;1523.15;15;0.54;5000;ballistic;5inchVTUS; 5inchHEIJN; 5inchSAPIJN;5/62Shell;0.388;1030;3400;0;740;0;False

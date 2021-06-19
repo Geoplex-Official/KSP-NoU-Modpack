@@ -17,7 +17,7 @@
         <IsHud>false</IsHud>
         <IsDeleted>false</IsDeleted>
         <IsHudBackground>false</IsHudBackground>
-        <IsVisible>true</IsVisible>
+        <IsVisible>false</IsVisible>
         <LineCount>0</LineCount>
         <Name>ORBITAL</Name>
         <ReadoutModuleNames>

@@ -30,7 +30,7 @@ bdRadome1snubGA;APG-77v1 air-to-ground Radar (Snub);BahamutoD;Bahamuto Dynamics;
 BDAsonarPod1A;BDA MK1 Sonar Pod;Spanner;Bahamuto Dynamics;0.001;600;7;1523.15;BDA MK1 Sonar Pod;SONAR;True;90;10;90;90;4;True;30;2;True;True;True;True;1;0.4;150@40;200@40
 search.aps95;AN/APS-95 Airborne Search Radar;Toonu;Kerbal Kombat Anthology;1.7;600;7;1523.15;AN/APS-95 Search Radar;AWACS;True;6;10;30;120;4;False;30;2;True;False;False;True;1;1.6;270@463;200@40
 search.aps33;AN/APS-33 Airborne Search Radar;Toonu;Kerbal Kombat Anthology;1.5;600;7;1523.15;AN/APS-33 Search Radar;AWACS;True;1.5;10;18;120;4;False;30;2;True;False;False;True;1;1.5;400@370;200@40
-Elden40;Vagn Eldledning AutomatKanon 40;Marhfg;Fox Defense Contracts;2.9;3425;250;1523.15;Elden40 Locking Radar;SAM;True;30;10;120;120;4;True;30;2;True;True;True;True;1;0.3;35@30;60@25
+Elden40;Vagn Eldledning AutomatKanon 40;Marhfg;Fox Defense Contracts;2.9;3425;250;1523.15;Elden40 Locking Radar;SAM;True;10;10;60;120;4;True;30;2;True;True;True;True;1;0.3;30@12;20@6
 Luft9040c;Luftvärnskanonvagn 9040C;Marhfg;Fox Defense Contracts;2.85;3425;250;1523.15;Luftvärnskanonvagn 9040C Locking Radar;SAM;True;30;10;120;120;4;True;30;2;True;True;True;True;1;0.3;35@30;60@25
 LD2000;CN LD2000 CIWS;BahamutoD & Kerwis;Kerbal Liberation Army;1.5;950;50;1523.15;LD2000 CIWS Radar;SAM;True;90;10;240;120;4;True;30;2;True;True;True;True;1;0.25;5@40;5@40
 PGZ-07;CN PGZ-07 AAA;Kerbal armed;Kerbal Liberation Army;2.5;950;500;1523.15;PGZ07 RADAR;SAM;True;360;10;500;120;120;True;30;2;True;True;True;True;5;0.45;1.353@40;1.95@40
@@ -55,6 +55,6 @@ NAS.RA.Type281.RN;Type 281 Early Warning Radar;BahamutoD & Kerwis;Kerbin Navy;0.
 search.fps8;AN/FPS-8 Search Radar;Toonu;Kerbal Kombat Anthology;0.615;360;10;1050;AN/FPS-8 Search Radar;DETECTION;True;2.5;10;60;6;4;False;30;2;True;False;False;True;1;0.1;400@333.4;0@-3.402823E+38
 NAS.RA.Mk25FC.USN;Mark 25 Fire Control Radar;BahamutoD & Kerwis;Kerbin Navy;0.125;450;10;1050;Mark 25 FCS;SAM;True;90;10;180;60;4;True;30;2;True;True;True;True;1;0.25;40@30;50@30
 KUB2K12;KUB2K12;Spanner;SM Armory Tanks;18;3500;100;1523.15;;SAM;True;90;10;120;120;4;True;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
-M163VADS;M163 Vulcan Air Defense System;Spanner;SM Armory Tanks;0.2;950;60;1523.15;AN/VPS-2;SAM;False;120;10;120;120;4;True;40;2;True;True;True;False;3;0.2;55@30;65@30
-ShilkaZSU234turret;ShilkaZSU234turret;Spanner;SM Armory Tanks;2.45;950;60;1523.15;ShilkaRadar;SAM;True;90;10;40;120;4;True;30;2;True;True;True;True;1;1;55@30;65@30
+M163VADS;M163 Vulcan Air Defense System;Spanner;SM Armory Tanks;0.2;950;60;1523.15;AN/VPS-2;SAM;False;35;10;120;120;4;True;40;2;False;True;True;False;3;0.2;0@-3.402823E+38;20@5
+ShilkaZSU234turret;ShilkaZSU234turret;Spanner;SM Armory Tanks;2.45;950;60;1523.15;ShilkaRadar;SAM;True;90;10;20;120;4;True;30;2;True;True;True;True;1;1;20@16;20@5
 SMTunguskaAAMT;2K22 Tunguska AAMT Turret CIWS;Spanner;SM Armory Tanks;2.45;950;60;1523.15;Tunguska AAMT Radar;SAM;True;90;10;120;120;4;True;30;2;True;True;True;True;1;0.1;20@10;20@10

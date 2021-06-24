@@ -186,24 +186,23 @@ NAS.DD.127x2.USN;5"/38 cal Mk 12 Naval Gun Mark 28 Mod 0 Turret;BahamutoD & Kerw
 NAS.DD.127.USN;5"/38 cal Mk 12 Naval Gun Mark 30 Turret;BahamutoD & Kerwis;Kerbin Navy;9.6;2000;1250;1523.15;15;0.54;5000;ballistic;5inchVTUS; 5inchHEIJN; 5inchSAPIJN;5/62Shell;0.388;1030;3400;0;740;0;False
 FA-18C;NMB-F/A-18C Cockpit;Bingo;Kerbal Battle Field;1.2;8888;80;1200;8000;0.65;2500;ballistic;20x102mmHEBullet;20x102Ammo;0.388;1030;3600;36;820;0;False
 AAV7turret20;Armored Amphibious Vehicle turret 20;SpannerMonkey;SM Armory Tanks;0.1;950;60;1300;500;0.1;2000;ballistic;20x102mmBullet;20x102Ammo;0.388;1030;3600;196;820;0;False
+AK100a18;AK-100 100mm Turret;SpannerMonkey;SM Armory Guns and Turrets;20;3500;125;1523.15;60;0.02;20000;ballistic;OF58100mmBullet;100mmShells;0.388;1030;3600;60;740;0;False
+AK130turret;AK-130 130mm Turret;SpannerMonkey;SM Armory Guns and Turrets;80;3500;125;1523.15;80;0.12;23000;ballistic;F44130Bullet;130Shells;0.388;1030;3600;60;740;0;False
+AK230;AK230 CIWS turret;Spanner;SM Armory Guns and Turrets;2;9500;60;1523.15;500;0.25;4000;ballistic;30x173HEBullet;30x173Ammo;0.388;1030;3600;66;820;0;False
+AK639QB1;AK630 CIWS turret;Spanner;SM Armory Guns and Turrets;2;9500;60;1523.15;4200;0.25;5000;ballistic;30x173HEBullet;30x173Ammo;0.388;1030;3850;5;820;0;False
 APC30Cg2A42;APC 2A42 turret;Spanner;SM Armory Guns and Turrets;0.115;950;60;1523.15;370;0.2;3000;ballistic;30x165Bullet;30x165Ammo;0.388;1030;3600;67;1200;0;False
-BMP75mmTurret;BMP 75mm Turret;SpannerMonkey;SM Armory Tanks;1.5;1560;100;1523.15;28;0.11;2200;cannon;76.2MMMHEATFS;76x636Ammo;0.388;1030;3600;60;740;0;False
+BMP75mmTurret;BMP-1;SpannerMonkey;SM Armory Tanks;1.5;1560;100;1523.15;28;0.11;2200;cannon;76.2MMMHEATFS;76x636Ammo;0.388;1030;3600;60;740;0;False
 BradleyActive;M2 FullSpectrum Turret;Spanner;SM Armory Tanks;2.45;950;60;1523.15;220;0.3;3000;ballistic;25x137mmBullet;25x137Ammo;0.388;1030;3600;67;1200;0;False
-Eland90BTurret;Eland 90B Turret;SpannerMonkey;SM Armory Tanks;2;1560;100;1523.15;28;0.31;2200;cannon;90mmBullet;90mmShells;0.388;1030;3600;60;740;0;False
+Eland90BTurret;Eland 90B Hull;SpannerMonkey;SM Armory Tanks;2;1560;100;1523.15;28;0.31;2200;cannon;90mmBullet;90mmShells;0.388;1030;3600;60;740;0;False
 FV510Turret;FV510 Turret;Spanner;SM Armory Tanks;5;3500;100;1523.15;50;0.35;3500;ballistic;30x173Bullet;30x173Ammo;0.388;1030;3600;100;1000;0;False
 HVUA30CG;HumVee UA30RC;Spanner;SM Armory Trucks;0.75;9500;60;1523.15;320;0.35;3100;cannon;30mmBullet;30x173Ammo;0.000225;1050;3600;166;820;0;False
 mk19Turret;MK19 40mm Grenade Launcher;Re-engineered for BDArmory by Spanner;SM Armory Trucks;0.25;950;60;1523.15;105;0.5;1800;cannon;40x53HEBullet;40x53Ammo;0.388;1030;3600;60;300;0;False
 Leopard2A6;Leopard2 A6 Turret;Spanner;SM Armory Tanks;5;3500;100;1523.15;10;0.29;8000;cannon;120mmBullet;120mmAmmo;0.388;1030;3600;60;740;0;False
 M113GunTurret;M113 Turret;Spanner;SM Armory Tanks;0.005;3500;100;1523.15;350;0.4;2500;ballistic;30mmBullet;30x173Ammo;0.000425;883;3600;166;820;0;False
 M163VADS;M163 Vulcan Air Defense System;Spanner;SM Armory Tanks;0.2;950;60;1523.15;3000;0.175;2500;ballistic;20x102mmHEBullet;20x102Ammo;0.388;1030;3600;36;820;0;False
-M1SMA;M1 SMA1;Spanner/BahamutoD;Bahamuto Dynamics;3.5;3500;125;1523.15;10;0.2;8000;cannon;120mmBullet;120mmAmmo;0.388;1030;3600;60;740;0;False
-M1SM1Turret;M1 SM1 Turret;Spanner;SM Armory Tanks;5;3500;100;1523.15;10;0.21;8000;cannon;120mmBullet;120mmAmmo;0.388;1030;3600;60;740;0;False
-m577rev16E;M577 Rhino Class APC SMRevE16;Spanner;SM Armory Tanks;12.8;600000;999;1400;24;0.3;1500;cannon;90mmBullet;90mmShells;0.388;1030;3600;60;740;0;False
+M1SMA;M1 Abrams;Spanner/BahamutoD;Bahamuto Dynamics;3.5;3500;125;1523.15;10;0.2;8000;cannon;120mmBullet;120mmAmmo;0.388;1030;3600;60;740;0;False
+M1SM1Turret;M1 Abrams;Spanner;SM Armory Tanks;5;3500;100;1523.15;10;0.21;8000;cannon;120mmBullet;120mmAmmo;0.388;1030;3600;60;740;0;False
 ShilkaZSU234turret;ZSU-23-4 Shilka;Spanner;SM Armory Tanks;2.45;950;60;1523.15;800;0.15;3000;ballistic;23x152SHEmmBullet;23x152Ammo;0.388;1030;3600;67;1200;0;False
-SMsT80Turret;T80 Turret II;Spanner;SM Armory Tanks;4;3500;100;1523.15;10;0.35;3100;cannon;120mmBullet;120mmAmmo;0.388;1030;3600;60;740;0;False
-T90MS;T90 Turret B;Spanner;SM Armory Tanks;4;3500;100;1523.15;12;0.25;8000;cannon;120mmBullet;120mmAmmo;0.388;1030;3600;60;740;0;False
-SMTunguskaAAMT;2K22 Tunguska AAMT Turret CIWS;Spanner;SM Armory Tanks;2.45;950;60;1523.15;2250;0.6;2300;ballistic;def;30x165Ammo;0.0004;1190;3600;67;1200;0;False
-AK100a18;AK-100 100mm Turret;SpannerMonkey;SM Armory Guns and Turrets;20;3500;125;1523.15;60;0.02;20000;ballistic;OF58100mmBullet;100mmShells;0.388;1030;3600;60;740;0;False
-AK130turret;AK-130 130mm Turret;SpannerMonkey;SM Armory Guns and Turrets;80;3500;125;1523.15;80;0.12;23000;ballistic;F44130Bullet;130Shells;0.388;1030;3600;60;740;0;False
-AK230;AK230 CIWS turret;Spanner;SM Armory Guns and Turrets;2;9500;60;1523.15;500;0.25;4000;ballistic;30x173HEBullet;30x173Ammo;0.388;1030;3600;66;820;0;False
-AK639QB1;AK630 CIWS turret;Spanner;SM Armory Guns and Turrets;2;9500;60;1523.15;4200;0.25;5000;ballistic;30x173HEBullet;30x173Ammo;0.388;1030;3850;5;820;0;False
+SMsT80Turret;T-80B;Spanner;SM Armory Tanks;4;3500;100;1523.15;10;0.35;3100;cannon;120mmBullet;120mmAmmo;0.388;1030;3600;60;740;0;False
+T90MS;T-90AM;Spanner;SM Armory Tanks;4;3500;100;1523.15;12;0.25;8000;cannon;120mmBullet;120mmAmmo;0.388;1030;3600;60;740;0;False
+SMTunguskaAAMT;2K22 Tunguska;Spanner;SM Armory Tanks;2.45;950;60;1523.15;2250;0.6;2300;ballistic;def;30x165Ammo;0.0004;1190;3600;67;1200;0;False

@@ -11,6 +11,6 @@ Thanks to everyone who downloaded, commented, left feedback or reported a bug.
 
 If you want to use contents in your own mod packs, feel free to do so, no need to ask for permission.
 
-If i disappear forever, anyone can take up maintenance or whatever.
+If I disappear forever, anyone can take up maintenance or whatever.
 
 Licence: CC BY 4.0

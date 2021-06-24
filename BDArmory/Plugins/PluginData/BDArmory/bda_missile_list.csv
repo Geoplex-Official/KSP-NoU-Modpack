@@ -88,10 +88,10 @@ agm.Kh66;Kh-66 Grom;Toonu;Kerbal Kombat Anthology;0.3;2400;5;1523.15;40;0;90;10;
 agm.KS1;KS-1 Komet;Toonu;Kerbal Kombat Anthology;3;2400;5;1523.15;70;5;40;290;25;25;-1;150;True;cruise;laser;125;700;90000;309;False;radar;10000;10000;True;100;100;5;0;0
 agm.KSR2;KSR-2;Toonu;Kerbal Kombat Anthology;4.1;2400;5;1523.15;40;20;25;800;7;25;-1;150;True;cruise;gps;125;25000;200000;347;False;heat;0;38000;False;360;7;100;0;0
 agm.RB04C;RB-04C;Toonu;Kerbal Kombat Anthology;0.6;2400;5;1523.15;2.5;100;0;0;12;25;-1;150;True;agm;radar;0;200;32000;250;False;;0;32000;True;60;10;320;0;0
+sam.3M8;3M8 Krug;Toonu;Kerbal Kombat Anthology;2.45;4000;5;1523.15;450;6;250;35;30;25;-1;150;True;aam;radar;0;8000;55000;1372;False;heat;0;0;False;120;20;100;0;0
 sam.3M9;3M9M1 Kub;Toonu;Kerbal Kombat Anthology;0.6;4000;5;1523.15;200;10;150;60;12;25;-1;150;True;aam;radar;0;6000;24000;960.4;False;heat;0;0;False;60;15;100;0;0
-sam.9K32;9K32 Strela-2;Toonu;Kerbal Kombat Anthology;0.0098;2400;5;1523.15;5.4;1;1;6;15;25;-1;150;True;aam;heat;0;200;3700;430;False;heat;0;0;False;70;10;50;0;0
 sam.9M317;9M317 Buk;Toonu;Kerbal Kombat Anthology;0.69;4000;5;1523.15;550;6;180;120;38;25;-1;150;True;aam;radar;0;2000;35000;1029;False;heat;0;0;False;120;15;100;0;0
-sam.9M8;9M8 Krug;Toonu;Kerbal Kombat Anthology;2.45;4000;5;1523.15;450;6;250;35;30;25;-1;150;True;aam;radar;0;8000;55000;1372;False;heat;0;0;False;120;20;100;0;0
+sam.9M32;9M32 Strela-2;Toonu;Kerbal Kombat Anthology;0.0098;2400;5;1523.15;5.4;1;1;6;15;25;-1;150;True;aam;heat;0;200;3700;430;False;heat;0;0;False;70;10;50;0;0
 sam.BloodhoundMk1;Bristol Bloodhound Mk. 1;Toonu;Kerbal Kombat Anthology;2.27;4000;5;1523.15;250;6.6;23;82;19;25;-1;150;True;aamlead;radar;0;2000;58000;755;False;heat;0;0;True;120;7;100;0;0
 sam.BloodhoundMk2;BristolBloodhound Mk. 2;Toonu;Kerbal Kombat Anthology;2.27;4000;5;1523.15;320;6.5;23;220;19;25;-1;150;True;aamlead;radar;0;2000;150000;755;False;heat;0;0;True;180;7;100;0;0
 sam.CIM10;CIM-10 Bomarc;Toonu;Kerbal Kombat Anthology;7;4000;5;1523.15;450;15;250;500;60;25;-1;150;True;aam;radar;0;2000;320000;891;False;radar;16000;16000;True;120;20;100;0;0
@@ -133,8 +133,8 @@ NAS.AB.AN-Mk1.USN;AN-Mk 1 1,600 lb Armor Piercing Bomb;BahamutoD & Kerwis;Kerbin
 NAS.AB.HVAR.USN;High Velocity Aircraft Rocket;BahamutoD & Kerwis;Kerbin Navy;0.061;120;10;1523.15;0;0.0025;5;1.5;30;8.5;7.6;15;False;none;none;0;10;5000;419;False;;0;6000;False;360;2.5;150;0;0
 NAS.AB.TinyTim.USN;Tiny Tim Unguided Rocket;BahamutoD & Kerwis;Kerbin Navy;0.569;480;10;1523.15;0;0.005;8;1;30;23.5;21;40;False;none;none;0;10;5000;245.8;False;;0;6000;False;360;2.5;150;0;0
 NAS.DC.Mark9.USN;Depth Charge Mark 9 Mod 2;BahamutoD & Kerwis;Kerbin Navy;0.15;300;50;1523.15;0;0;0;120;0;25;-1;150;False;none;none;0;10;5000;220;False;;0;6000;False;360;2.5;150;0;0
-4K40Termit;P-15 Termit Anti-Ship Cruise Missile;Spanner;SM Armory Missiles;2.58;950;30;1523.15;170;5;50;300;28;25;-1;150;True;cruise;radar;0;500;40000;328;False;;0;40000;True;180;7;150;0;0
-SkudD;SkudD  Ballistic missile;Spanner;SM Armory Missiles;1.1;950;7;1523.15;160;3.5;60;120;35;35;42;50;True;agmballistic;gps;0;1000;35000;850;False;;0;6000;False;360;2.5;150;0;0
+4K40Termit;4K40 Termit;Spanner;SM Armory Missiles;2.58;950;30;1523.15;170;5;50;300;28;25;-1;150;True;cruise;radar;0;500;40000;328;False;;0;40000;True;180;7;150;0;0
+SkudD;8A61 Zemlya;Spanner;SM Armory Missiles;1.1;950;7;1523.15;160;3.5;60;120;35;25;-1;150;True;agmballistic;gps;0;1000;35000;850;False;;0;6000;False;360;2.5;150;0;0
 S125NevaMissile;5V24 Neva;Spanner;SM Armory Missiles;0.953;950;5;1523.15;90;2.6;22;18.7;3;25;-1;150;True;aam;radar;0;1000;15000;775;False;;0;8000;True;90;7;150;0;0
-SMA57E6BGM;57E6 Pantsir;Spanner;SM Armory Missiles;0.0757;950;5;1523.15;30;1.5;5.5;35;35;25;-1;150;True;aam;radar;0;750;20000;550;False;;0;11000;False;180;5;150;0;0
+SMA57E6BGM;9M335 Pantsir;Spanner;SM Armory Missiles;0.0757;950;5;1523.15;30;1.5;5.5;35;35;25;-1;150;True;aam;radar;0;750;20000;550;False;;0;11000;False;180;5;150;0;0
 AtakaAT;9M120 Ataka;Spanner;SM Armory Missiles;0.0495;650;5;1523.15;5.5;5;0;0;10;25;-1;150;True;agm;laser;0;500;6000;372;False;;0;6000;False;360;2.5;150;0;0

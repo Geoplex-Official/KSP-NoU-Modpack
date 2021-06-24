@@ -1,8 +1,8 @@
 Executing: KerbalEngineer - 1.1.8.3
 Assembly: C:\Program Files\KerbalSpaceProgram\KSP 1.10.1\GameData\KerbalEngineer\KerbalEngineer.dll
 
-[Log 15:17:53.5995951]: images (UnityEngine.AssetBundle)
-[Log 15:20:05.3654277]: Assembly: Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+[Log 16:06:57.6174394]: images (UnityEngine.AssetBundle)
+[Log 16:09:06.0265075]: Assembly: Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: Scale_Redist, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: ModuleManager, Version=4.1.4.0, Culture=neutral, PublicKeyToken=null
 Assembly: ClickThroughBlocker, Version=0.1.10.15, Culture=neutral, PublicKeyToken=null
@@ -43,8 +43,6 @@ Assembly: RealChute, Version=1.4.7518.5195, Culture=neutral, PublicKeyToken=null
 Assembly: RealHeat, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: RetractableLiftingSurface, Version=0.2.1.1, Culture=neutral, PublicKeyToken=null
 Assembly: SimpleFuelSwitch, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-Assembly: HoverCraft, Version=1.0.4.4, Culture=neutral, PublicKeyToken=null
-Assembly: VLSLauncher, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: KSPSteamCtrlr, Version=0.0.1.35, Culture=neutral, PublicKeyToken=null
 Assembly: ModuleBounce, Version=0.3.29.5, Culture=neutral, PublicKeyToken=null
 Assembly: KSPe.Light.TweakScale, Version=2.2.2.2, Culture=neutral, PublicKeyToken=null
@@ -52,7 +50,7 @@ Assembly: Scale, Version=2.4.4.5, Culture=neutral, PublicKeyToken=null
 Assembly: VesselMover, Version=1.10.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: ZeroMiniAVC, Version=1.1.0.1, Culture=neutral, PublicKeyToken=null
 
-[Log 15:20:05.3654277]: FlightEngineerCore->Awake
-[Log 15:20:09.8773317]: FlightEngineerCore->Start
-[Log 15:20:11.3571718]: FlightEngineerCore->OnDestroy
-[Log 15:21:36.7494841]: BuildAdvanced->OnDestroy
+[Log 16:09:06.0274992]: FlightEngineerCore->Awake
+[Log 16:09:10.4955019]: FlightEngineerCore->Start
+[Log 16:09:11.9860693]: FlightEngineerCore->OnDestroy
+[Log 16:10:25.3205818]: BuildAdvanced->OnDestroy

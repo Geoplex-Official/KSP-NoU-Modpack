@@ -24,9 +24,39 @@ Acceleration_controller
 	window_x = 308
 	window_y = 78
 }
+Autopilot_module_manager
+{
+	master_switch_key = P
+	window_x = 52
+	window_y = 80
+}
+settings_wnd
+{
+	window_x = 272
+	window_y = 79
+	window_width = 200
+	profiles
+	{
+		default
+		{
+			moderate_aoa = True
+			moderate_sideslip = True
+			moderate_g = True
+			moderate_g_hor = True
+			wing_leveler = True
+			max_aoa = 15
+			max_g = 15
+			max_sideslip = 15
+			max_g_hor = 15
+			ptich_v = 0.7
+			roll_v = 3
+			yaw_v = 0.5
+			dir_strength = 0.95
+		}
+	}
+}
 Flight_model
 {
-	balancing_toggle_key = None
 	aoa_virtual_gain = 0.95
 	window_x = 1610
 	window_y = 156
@@ -55,9 +85,9 @@ Pitch_ang_vel_controller
 {
 	moder_cutoff_ias = 10
 	user_input_deriv_clamp = 5
-	watch_precision_mode = True
-	precision_mode_factor = 0.33
-	ApplyTrim = False
+    precision_mode_factor = 0.33
+    watch_precision_mode = True
+	AutoTrim = False
 	window_x = 315
 	window_y = 254
 }
@@ -65,9 +95,9 @@ Roll_ang_vel_controller
 {
 	wing_leveler = True
 	user_input_deriv_clamp = 10
-	watch_precision_mode = True
-	precision_mode_factor = 0.33
-	ApplyTrim = False
+    watch_precision_mode = True
+    precision_mode_factor = 0.33
+	AutoTrim = False
 	window_x = 369
 	window_y = 283
 }
@@ -75,9 +105,9 @@ Yaw_ang_vel_controller
 {
 	moder_cutoff_ias = 10
 	user_input_deriv_clamp = 5
-	watch_precision_mode = True
-	precision_mode_factor = 0.33
-	ApplyTrim = False
+    watch_precision_mode = True
+    precision_mode_factor = 0.33
+	AutoTrim = False
 	window_x = 529
 	window_y = 282
 }
@@ -91,8 +121,6 @@ Cruise_Flight_controller
 	preudo_flc = True
 	use_keys = True
 	switch_key_mode = RightAlt
-	vertical_control_key = None
-	toggle_vertical_setpoint_type_key = None
 	hotkey_course_sens = 60
 	hotkey_altitude_sens = 0.7
 	hotkey_vertspeed_sens = 30
@@ -102,10 +130,8 @@ Cruise_Flight_controller
 }
 Prograde_thrust_controller
 {
-	use_pid = False
 	hotkey_speed_factor = 0.7
 	use_throttle_hotkeys = True
-	spd_control_toggle_key = None
 	window_x = 335
 	window_y = 114
 }
@@ -126,37 +152,6 @@ Standard_Fly-By-Wire
 	coord_turn_keycode = None
 	window_x = 53
 	window_y = 221
-}
-Autopilot_module_manager
-{
-	master_switch_key = P
-	window_x = 52
-	window_y = 80
-}
-settings_wnd
-{
-	window_x = 272
-	window_y = 79
-	window_width = 200
-	profiles
-	{
-		default
-		{
-			moderate_aoa = True
-			moderate_sideslip = True
-			moderate_g = True
-			moderate_g_hor = True
-			wing_leveler = True
-			max_aoa = 15
-			max_g = 15
-			max_sideslip = 15
-			max_g_hor = 15
-			ptich_v = 0.699999988
-			roll_v = 3
-			yaw_v = 0.5
-			dir_strength = 0.94999999999999996
-		}
-	}
 }
 hotkey_manager
 {

@@ -167,7 +167,7 @@ NAS.BB.BL14Mk7x4.RN;BL 14 inch Mk VII Naval Gun Quad Mount;BahamutoD & Kerwis;Ke
 NAS.BB.BL15Mk1x2.RN;BL 15 inch Mk I Naval Gun Twin Mount (Soviet Navy Painting);BahamutoD & Kerwis;Kerbin Navy;394;5000;1000;1523.15;2;0.65;26273;ballistic;15inchAPKM; 15inchSAPRM;380Shells;0.388;1030;3400;900;740;0;False
 NAS.BB.BL16MkIx3.RN;BL 16 inch Mk I Naval Gun Triple Turret;BahamutoD & Kerwis;Kerbin Navy;760;6400;1500;1523.15;1.5;0.63;27340;ballistic;16inchAPRN; 16inchHCUS;16inchShells;0.388;1030;3400;750;740;0;True
 NAS.DD.QF45.RN;QF 4.5 inch Mk IV Naval Gun / Mk V Mount;BahamutoD & Kerwis;Kerbin Navy;5.7;1500;1000;1300;14;0.45;9120;ballistic;5inchHEIJN; 5inchSAPIJN;4p5inchQFShells;0.388;1030;2600;300;740;0;False
-NAS.CD.105SKL40.CN;10.5 cm SK L/40 (Mitsubishi Version);BahamutoD & Kerwis;Kerbin Navy;3.9;1250;1250;1523.15;12;0.57;6700;cannon;105mmHECHN;CannonShells;0.388;1030;3400;340;740;0;False
+NAS.CD.105SKL40.CN;10.5 cm SK L/40 (Mitsubishi Version);BahamutoD & Kerwis;Kerbin Navy;3.9;1250;1250;1523.15;12;0.57;6700;cannon;4.1inchHEKM;CannonShells;0.388;1030;3400;340;740;0;False
 NAS.CL.BL6inMk21x2.ROCN;BL 6 inch Mk XXI Naval Gun;BahamutoD & Kerwis;Kerbin Navy;48.64;3600;1250;1523.15;7;0.39;20120;cannon;6inchHCUS; 6inchAPUS;152Shells;0.388;1030;3600;640;740;0;True
 NAS.CL.KN152.ROCN;Kiangnan 152 mm Single Mount;BahamutoD & Kerwis;Kerbin Navy;20.5;1800;1250;1523.15;5.5;0.43;13500;ballistic;6inchHCUS; 6inchAPUS;152Shells;0.388;1030;3600;640;740;0;False
 NAS.AA.MG.66K.SN;37 mm/67 66-K Automatic Anti-aircraft Gun Turret;BahamutoD & Kerwis;Kerbin Navy;3.75;400;60;1300;145;1.25;4800;ballistic;37mmAPKM;37mmHEKM;37mmFlaKAmmo;0.388;1030;2600;210;960;0;False

@@ -26,6 +26,7 @@ Acceleration_controller
 }
 Flight_model
 {
+	balancing_toggle_key = None
 	aoa_virtual_gain = 0.95
 	window_x = 1610
 	window_y = 156
@@ -54,9 +55,9 @@ Pitch_ang_vel_controller
 {
 	moder_cutoff_ias = 10
 	user_input_deriv_clamp = 5
-	precision_mode_factor = 0.33
 	watch_precision_mode = True
-	AutoTrim = False
+	precision_mode_factor = 0.33
+	ApplyTrim = False
 	window_x = 315
 	window_y = 254
 }
@@ -66,7 +67,7 @@ Roll_ang_vel_controller
 	user_input_deriv_clamp = 10
 	watch_precision_mode = True
 	precision_mode_factor = 0.33
-	AutoTrim = False
+	ApplyTrim = False
 	window_x = 369
 	window_y = 283
 }
@@ -76,7 +77,7 @@ Yaw_ang_vel_controller
 	user_input_deriv_clamp = 5
 	watch_precision_mode = True
 	precision_mode_factor = 0.33
-	AutoTrim = False
+	ApplyTrim = False
 	window_x = 529
 	window_y = 282
 }
@@ -90,6 +91,8 @@ Cruise_Flight_controller
 	preudo_flc = True
 	use_keys = True
 	switch_key_mode = RightAlt
+	vertical_control_key = None
+	toggle_vertical_setpoint_type_key = None
 	hotkey_course_sens = 60
 	hotkey_altitude_sens = 0.7
 	hotkey_vertspeed_sens = 30
@@ -99,8 +102,10 @@ Cruise_Flight_controller
 }
 Prograde_thrust_controller
 {
+	use_pid = False
 	hotkey_speed_factor = 0.7
 	use_throttle_hotkeys = True
+	spd_control_toggle_key = None
 	window_x = 335
 	window_y = 114
 }

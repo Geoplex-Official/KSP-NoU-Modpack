@@ -8,5 +8,4 @@ BDArmory\Logs\**
 QuickMods/QuickStart/Config.txt
 ModuleManager.ConfigSHA
 ModuleManager.ConfigCache
-BDArmory/settings.cfg
-
+BDArmory/PluginData/settings.cfg

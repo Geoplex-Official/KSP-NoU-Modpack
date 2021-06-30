@@ -1,3 +1,4 @@
+  
 Squad/**
 SquadExpansion/**
 AtmosphereAutopilot/designs/**
@@ -11,4 +12,3 @@ ModuleManager.ConfigSHA
 ModuleManager.ConfigCache
 BDArmory/PluginData/settings.cfg
 BDArmory/Plugins/PluginData/**
-

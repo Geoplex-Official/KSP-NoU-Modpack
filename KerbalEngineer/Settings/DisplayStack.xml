@@ -2,7 +2,7 @@
 <ArrayOfSettingItem xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <SettingItem>
     <Name>hidden</Name>
-    <Value xsi:type="xsd:boolean">true</Value>
+    <Value xsi:type="xsd:boolean">false</Value>
   </SettingItem>
   <SettingItem>
     <Name>showControlBar</Name>
@@ -10,10 +10,10 @@
   </SettingItem>
   <SettingItem>
     <Name>windowPositionX</Name>
-    <Value xsi:type="xsd:float">1235</Value>
+    <Value xsi:type="xsd:float">1519</Value>
   </SettingItem>
   <SettingItem>
     <Name>windowPositionY</Name>
-    <Value xsi:type="xsd:float">83</Value>
+    <Value xsi:type="xsd:float">658</Value>
   </SettingItem>
 </ArrayOfSettingItem>

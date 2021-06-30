@@ -18,7 +18,7 @@
         <IsDeleted>false</IsDeleted>
         <IsHudBackground>false</IsHudBackground>
         <IsVisible>false</IsVisible>
-        <LineCount>0</LineCount>
+        <LineCount>8</LineCount>
         <Name>ORBITAL</Name>
         <ReadoutModuleNames>
           <string>Orbital.ApoapsisHeight</string>
@@ -48,7 +48,7 @@
         <IsDeleted>false</IsDeleted>
         <IsHudBackground>false</IsHudBackground>
         <IsVisible>false</IsVisible>
-        <LineCount>0</LineCount>
+        <LineCount>6</LineCount>
         <Name>SURFACE</Name>
         <ReadoutModuleNames>
           <string>Surface.AltitudeSeaLevel</string>
@@ -76,7 +76,7 @@
         <IsDeleted>false</IsDeleted>
         <IsHudBackground>false</IsHudBackground>
         <IsVisible>false</IsVisible>
-        <LineCount>0</LineCount>
+        <LineCount>12</LineCount>
         <Name>VESSEL</Name>
         <ReadoutModuleNames>
           <string>Vessel.Name</string>
@@ -145,8 +145,8 @@
         <IsHud>false</IsHud>
         <IsDeleted>false</IsDeleted>
         <IsHudBackground>false</IsHudBackground>
-        <IsVisible>false</IsVisible>
-        <LineCount>0</LineCount>
+        <IsVisible>true</IsVisible>
+        <LineCount>13</LineCount>
         <Name>THERMAL</Name>
         <ReadoutModuleNames>
           <string>Thermal.InternalFlux</string>
@@ -179,7 +179,7 @@
         <IsDeleted>false</IsDeleted>
         <IsHudBackground>false</IsHudBackground>
         <IsVisible>false</IsVisible>
-        <LineCount>0</LineCount>
+        <LineCount>10</LineCount>
         <Name>BODY</Name>
         <ReadoutModuleNames>
           <string>Body.MinOrbitHeight</string>

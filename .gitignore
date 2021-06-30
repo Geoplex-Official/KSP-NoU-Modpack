@@ -1,7 +1,9 @@
+  
 Squad/**
 SquadExpansion/**
 AtmosphereAutopilot/designs/**
 **/*.log
+**/@thumbs/*.png
 KerbalEngineer/Settings/SectionLibrary.xml
 KerbalEngineer/Settings/BuildAdvanced.xml
 BDArmory\Logs\**

@@ -2,10 +2,9 @@
 Squad/**
 SquadExpansion/**
 AtmosphereAutopilot/designs/**
+KerbalEngineer/Settings/**
 **/*.log
 **/@thumbs/*.png
-KerbalEngineer/Settings/SectionLibrary.xml
-KerbalEngineer/Settings/BuildAdvanced.xml
 BDArmory\Logs\**
 QuickMods/QuickStart/Config.txt
 ModuleManager.ConfigSHA

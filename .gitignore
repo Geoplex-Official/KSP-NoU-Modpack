@@ -57,3 +57,11 @@ TURD/TU_B9_ProcWings/Textures/Standard_wing_surface_Spec.dds
 TURD/TU_B9_ProcWings/TU_pWingsB9_Default.cfg
 TURD/TU_B9_ProcWings/TU_pWingsB9_pPartsSets.cfg
 TURD/TU_B9_ProcWings/TU_pWingsB9_Recolour.cfg
+*.cfg
+AviationCockpits/Command/Bearcat_Model.mu
+AviationCockpits/Readme.txt
+ModuleManager.Physics
+AviationCockpits/Readme.txt
+ModuleManager.Physics
+*.txt
+*.Physics

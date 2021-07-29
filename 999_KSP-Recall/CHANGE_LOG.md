@@ -1,5 +1,10 @@
 # KSP-Recall :: Change Log
 
+* 2021-0722: 0.2.0.3 (LisiasT) for KSP >= 1.4.1
+	* Release 0.2.0.2 was issued with broken sanity checks. Fixing them.
+* 2021-0718: 0.2.0.2 (LisiasT) for KSP >= 1.4.1
+	+ `ChillingOut` is still needed on 1.12.x series. Reactivating it.
+	+ Some missing logging stats added.
 * 2021-0627: 0.2.0.1 (LisiasT) for KSP >= 1.4.1
 	+ Compatibility to KSP 1.12.0 is confirmed.
 		- `Refunding` is still needed, sadly...

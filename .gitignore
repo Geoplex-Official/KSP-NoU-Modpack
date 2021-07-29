@@ -11,3 +11,6 @@ ModuleManager.ConfigSHA
 ModuleManager.ConfigCache
 BDArmory/PluginData/settings.cfg
 BDArmory/Plugins/PluginData/**
+EditorExtensionsRedux/**
+FerramAerospaceResearch/Plugins/PluginData/FerramAerospaceResearch/config.xml
+TURD/TU_B9_ProcWings/**

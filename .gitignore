@@ -4,6 +4,7 @@ SquadExpansion/**
 AtmosphereAutopilot/designs/**
 KerbalEngineer/Settings/**
 **/*.log
+**/*.DS_Store
 **/@thumbs/*.png
 BDArmory\Logs\**
 QuickMods/QuickStart/Config.txt

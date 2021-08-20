@@ -27,8 +27,8 @@ Acceleration_controller
 Autopilot_module_manager
 {
 	master_switch_key = P
-	window_x = 279
-	window_y = 137
+	window_x = 280
+	window_y = 138
 }
 settings_wnd
 {
@@ -128,8 +128,8 @@ Cruise_Flight_controller
 	hotkey_altitude_sens = 0.7
 	hotkey_vertspeed_sens = 30
 	hotkey_vertspeed_snap = 0.5
-	window_x = 225
-	window_y = 312
+	window_x = 270
+	window_y = 330
 }
 Prograde_thrust_controller
 {
